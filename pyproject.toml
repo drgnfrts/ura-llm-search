@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ura-langchain-search"
+version = "0.1.0"
+description = "Langchain-enabled search in Python"
+authors = ["drgnfrts <nicktang10.sg@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.10, <3.12"
+unstructured = "^0.13.6"
+cython = "^3.0.10"
+
+
+[build-system]
+requires = ["poetry-core", "cython"]
+build-backend = "poetry.core.masonry.api"
