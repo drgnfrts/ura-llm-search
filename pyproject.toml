@@ -4,13 +4,14 @@ version = "0.1.0"
 description = "Langchain-enabled search in Python"
 authors = ["drgnfrts <nicktang10.sg@gmail.com>"]
 readme = "README.md"
-package-mode = false
 
 [tool.poetry.dependencies]
 python = ">=3.10, <3.12"
 unstructured = "^0.13.6"
 cython = "^3.0.10"
-
+requests = "^2.26.0"
+jupyter = "^1.0.0"
+ipykernel = "^6.29.4"
 
 [build-system]
 requires = ["poetry-core", "cython"]
