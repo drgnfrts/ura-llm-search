@@ -1,2 +1,2 @@
-# ura-langchain-search
-Prototype for LLM-augmented search system with Langchain
+# ura-llm-search
+Prototype for LLM-augmented search system with LllamaIndex
