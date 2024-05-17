@@ -13,6 +13,11 @@ requests = "^2.26.0"
 jupyter = "^1.0.0"
 ipykernel = "^6.29.4"
 pycocotools = "^2.0.7"
+llama-index = "^0.10.37"
+qdrant-client = "^1.9.1"
+llama-index-vector-stores-qdrant = "^0.2.8"
+clip = {git = "https://github.com/openai/CLIP.git"}
+llama-index-embeddings-clip = "^0.1.5"
 
 [build-system]
 requires = ["poetry-core", "cython"]
