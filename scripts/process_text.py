@@ -58,10 +58,10 @@ def html_to_markdown(input_html, output_file_path):
 
     client = OpenAI()
     completion = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-3.5-turbo",
         messages=[
             {"role": "system",
-             "content": "I want you to be an expert in processing text into chunks for natural language processing . I am building a vector database of text and I have a document in a string. I want you to chunk the document into appropriate paragraphs, creating headers by re-using the text inside the paragraphs where possible. Do not add anything to the paragraphs that is outside the string, and do not re-seqeunce the text, only chunk it. Return only these chunked paragraphs in Markdown with h2 headers for each chunk without any pre-empted welcome or response message."
+             "content": "I want you to be an expert in processing text into chunks for natural language processing . I am building a vector database of text and I have a document in a string. I want you to chunk the document into appropriate paragraph, creating headers by re-using the text inside the paragraphs where possible. Do not add anything to the paragraphs that is outside the string, and do not re-seqeunce the text, only chunk it. Return only these chunked paragraphs in Markdown with h2 headers for each chunk without any pre-empted welcome or response message."
              },
             {"role": "user",
              "content": f"The text is as follows: {text}"}
@@ -73,3 +73,12 @@ def html_to_markdown(input_html, output_file_path):
     with open(output_file_path, "w") as output_file:
         output_file.write(completion_text)
     print("Completion result saved to", output_file_path)
+
+
+def main():
+    html_to_markdown(
+        "https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr24-03", "../docs/output3.md")
+
+
+if __name__ == "__main__":
+    main()
