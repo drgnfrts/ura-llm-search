@@ -4,7 +4,6 @@ Supersedes data_extraction.ipynb. To be readapted for use in pipeline later.
 
 
 from unstructured.partition.html import partition_html
-from unstructured.cleaners.core import clean
 from openai import OpenAI
 
 
