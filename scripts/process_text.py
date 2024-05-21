@@ -24,13 +24,13 @@ def get_body(elements):
 
     for i in range(len(elements)):
 
-        if flag == False and elements[i].text == 'Search':
+        if flag == False and elements[i].text == 'Earthworks, Retaining Walls, and Boundary Walls':
             flag = True
             continue
-        elif START == 0 and elements[i].category == 'Title':
+        elif START == 0 and elements[i].category == 'Title' and flag == True:
             START = i
             continue
-        elif END == 0 and elements[i].text == 'Urban Redevelopment Authority':
+        elif END == 0 and elements[i].text == 'Urban Redevelopment Authority' and flag == True:
             END = i
             break
     return elements[START:END]
@@ -69,15 +69,16 @@ def html_to_markdown(input_html, output_file_path):
     )
 
     completion_text = completion.choices[0].message.content
+    print(completion_text)
 
-    with open(output_file_path, "w") as output_file:
+    with open(output_file_path, "w", encoding="utf-8") as output_file:
         output_file.write(completion_text)
     print("Completion result saved to", output_file_path)
 
 
 def main():
     html_to_markdown(
-        "https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr24-03", "../docs/output3.md")
+        "https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Transport/RC-Flat-Roofs", "../docs/RC.mdx")
 
 
 if __name__ == "__main__":
