@@ -1,3 +1,7 @@
+'''
+Completed. To be reworked into the overall pipeline later.
+'''
+
 from PIL import Image
 import os
 

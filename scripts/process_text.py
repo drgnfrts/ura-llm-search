@@ -1,5 +1,6 @@
 '''
-Supersedes data_extraction.ipynb. To be readapted for use in pipeline later.
+Deprecated: This needs to be re-worked to fit with the web scraper function.
+Supersedes data_extraction.ipynb.
 '''
 
 
