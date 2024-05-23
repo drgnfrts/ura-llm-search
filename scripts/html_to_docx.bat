@@ -1,18 +1,16 @@
 @echo off
-
-setlocal enabledelayedexpansion
-
+setlocal EnableDelayedExpansion
 
 
-REM Set source and destination directories
+REM Set source and destination directories - FILL IN BEFORE STARTING
 
-set "source_dir=C:\Users\nicol\intern\ura-llm-search\data\Development-Control"
+set "source_dir="
 
-set "dest_dir=C:\Users\nicol\intern\ura-llm-search\data\Development-Control-docx"
+set "dest_dir="
 
 
 
-REM Create directory structure in destination
+REM Replicate directory structure in destination
 
 for /r "%source_dir%" %%d in (.) do (
 
@@ -24,38 +22,22 @@ for /r "%source_dir%" %%d in (.) do (
 
 )
 
+REM Traverse the source directory and its subdirectories, creating the a new destination file path in the new destination subdirectry
 
+for /r "%source_dir%" %%G in (*.html) do (
 
-REM Traverse the source directory and its subdirectories to convert HTML to DOCX
+    set "file_name=%%~nG"
 
-for /r "%source_dir%" %%f in (*.html) do (
+    set "relative_path=%%~dpG"
 
-    set "html_file=%%f"
+    set "relative_path=!relative_path:%source_dir%=!"
 
-    REM set "relative_path=%%~dpFf"
-
-    echo %html_file%
-
-    @REM REM Turn off delayed expansion to handle special characters properly
-
-    @REM setlocal disabledelayedexpansion
-
-    @REM set "relative_path=%relative_path:%source_dir%=%"
-
-    @REM set "docx_file=%dest_dir%%relative_path:~0,-1%.docx"
-
-    @REM endlocal & set "docx_file=%docx_file%"
-
-
+    set "docx_file=%dest_dir%!relative_path!!file_name!.docx"
 
     REM Convert HTML to DOCX and place it in corresponding directory in destination
 
-    REM pandoc "%%f" -o "!docx_file!"
+    pandoc -s -o "!docx_file!" -f html -t docx "%%G"
 
 )
 
-
-
 endlocal
-
-pause

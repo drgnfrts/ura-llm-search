@@ -19,6 +19,7 @@ llama-index-vector-stores-qdrant = "^0.2.8"
 clip = {git = "https://github.com/openai/CLIP.git"}
 llama-index-embeddings-clip = "^0.1.5"
 selenium = "^4.21.0"
+beautifulsoup4 = "^4.12.3"
 
 [build-system]
 requires = ["poetry-core", "cython"]
