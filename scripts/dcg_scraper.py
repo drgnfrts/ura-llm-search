@@ -9,6 +9,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from bs4 import BeautifulSoup
 
 
 def create_directory_structure(base_dir, url, start_from):
@@ -37,12 +38,30 @@ def create_directory_structure(base_dir, url, start_from):
         relevant_path = parsed_url.path[start_index:].lstrip('/')
         parent_dir = os.path.dirname(relevant_path)
         full_path = os.path.join(base_dir, parent_dir)
-
-        os.makedirs(full_path, exist_ok=True)
+        # DELETE THIS SEGMENT
+        try:
+            os.makedirs(full_path, exist_ok=True)
+        except:
+            pass
         return full_path
     except Exception as e:
         print(f"An error occurred: {e}")
         return None
+
+
+def convert_images_to_links(html_content):
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    for img in soup.find_all('img'):
+        try:
+            img_url = "https://ura.gov.sg" + img['data-original']
+            link = soup.new_tag('a', href=img_url)
+            link.string = img_url
+            img.replace_with(link)
+        except:
+            pass
+
+    return str(soup)
 
 
 def scrape_and_save_csv(csv_file, base_dir, start_from):
@@ -112,10 +131,17 @@ def scrape_and_save_csv(csv_file, base_dir, start_from):
                         By.CSS_SELECTOR, '#pnlMain > div.fullbody-wrapper.no-t-padding > div > div.row > div.col-sm-9.col-md-9.col-xs-12 > div:nth-child(5)'
                     ).get_attribute("outerHTML")
                 except:
-                    errors.append("Date not found")
-                    print("Date not found")
+                    try:
+                        content_html_3 = driver.find_element(
+                            By.CSS_SELECTOR, '#pnlMain > div.fullbody-wrapper.no-t-padding > div > div.row > div.col-sm-9.col-md-9.col-xs-12 > div:nth-child(3)'
+                        ).get_attribute("outerHTML")
+                    except:
+                        errors.append("Date not found")
+                        print("Date not found")
 
-                html_content = content_html_1 + content_html_2 + content_html_3
+                html_content = convert_images_to_links(
+                    content_html_1 + content_html_2 + content_html_3)
+
                 if not html_content.strip():
                     errors.append("No content found")
                     print("No content found, skipping URL...")
@@ -125,6 +151,7 @@ def scrape_and_save_csv(csv_file, base_dir, start_from):
                     errors_dict[url] = errors
 
                 parsed_url = urlparse(url)
+
                 filename = os.path.basename(parsed_url.path)
                 if not filename.endswith('.html'):
                     filename += '.html'
@@ -147,7 +174,7 @@ def scrape_and_save_csv(csv_file, base_dir, start_from):
 
 def main():
     csv_file = '../data/dc_links.csv'
-    base_dir = '../data/test'
+    base_dir = '../data'
     start_from = 'Development-Control'
     scrape_and_save_csv(csv_file, base_dir, start_from)
 
