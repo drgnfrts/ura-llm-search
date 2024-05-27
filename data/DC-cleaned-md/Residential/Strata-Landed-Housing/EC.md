@@ -1,3 +1,9 @@
+---
+title: Envelope Control Guidelines
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/EC
+date: 27 June 2022
+---
+
 # Envelope Control Guidelines
 From 11 May 2015, landed housing is controlled by the envelope control guidelines. The guidelines define an allowable building envelope for each landed housing unit based on the landed housing type, setbacks, and storey height.
 
@@ -57,4 +63,4 @@ Basements may be built up to the limits shown in the table below.
 
 **Road Reserve**: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
 
-*Last updated on 27 June 2022*
+

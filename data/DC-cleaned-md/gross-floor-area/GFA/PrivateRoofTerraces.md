@@ -1,3 +1,9 @@
+---
+title: Private Roof Terraces (PRT)
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/PrivateRoofTerraces
+date: 26 Jul 2023
+---
+
 # Private Roof Terraces (PRT)
 
 Private roof terraces (PRT) approved on or after 12<sup>th</sup> January 2013 are included as GFA.
@@ -14,4 +20,4 @@ Under the Balcony Incentive Scheme (BIS), PRT<sup>1</sup> for non-landed residen
 **Additional Information:**
 Including private staircases leading directly to the PRT.
 
-**Last updated on 26 Jul 2023**
+

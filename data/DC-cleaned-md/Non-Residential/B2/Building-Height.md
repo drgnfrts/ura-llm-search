@@ -1,3 +1,9 @@
+---
+title: Building Height
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/Building-Height
+date: 4 December 2019
+---
+
 # Building Height
 
 <!-- Overall Building Height -->
@@ -14,6 +20,6 @@ Building height is based on Singapore Height Datum (SHD).
 
 The minimum floor-to-floor height of industrial buildings is 4.0m.
 
-*Last updated on 4 December 2019* 
+
 
 [Image Link](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/B203_Building_Height.jpg?h=100%25&w=100%25)  

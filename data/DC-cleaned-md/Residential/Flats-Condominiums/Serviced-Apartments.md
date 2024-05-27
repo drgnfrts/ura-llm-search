@@ -1,3 +1,9 @@
+---
+title: Serviced Apartments
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Serviced-Apartments
+date: 1 December 2023
+---
+
 # Serviced Apartments
 
 Serviced Apartments (SA) are self-contained apartments with kitchenettes/kitchens, and typically provide support services such as concierge, common dining areas, housekeeping and/or laundry for the residents.
@@ -18,7 +24,7 @@ SA may be allowed where the site fronts a major or arterial road (i.e. Category 
 
 SA shall not be allowed within the designated Landed Housing Areas; areas where SA may potentially cause dis-amenities to the neighbouring residents; and areas where there are already dis-amenities in the surroundings (examples of such areas can be found under the Hotels Handbook).
 
-### Last updated on 1 December 2023
+
 
 ### Footnotes
 1. The following areas would generally be excluded from being considered as covered communal facilities exclusively for co-living tenants’ use:

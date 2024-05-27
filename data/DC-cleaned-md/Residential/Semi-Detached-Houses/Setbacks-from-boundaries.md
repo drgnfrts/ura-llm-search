@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Setbacks-from-boundaries
+date: 25 September 2023
+---
+
 # Building Setback from Boundary
 
 ![Building Setback](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/SD03_Setbacks.jpg?h=100%25&w=100%25)
@@ -62,4 +68,4 @@ Setback requirement for other ancillary structures not mentioned in this table s
 
 ---
 
-*Last updated on 25 September 2023*
+

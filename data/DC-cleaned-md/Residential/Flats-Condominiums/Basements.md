@@ -1,3 +1,9 @@
+---
+title: Basements
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Basements
+date: 25 February 2021
+---
+
 # Basements
 
 A basement storey refers to a storey of a building which may be partially or wholly below the existing ground level. In so far as storey height control is concerned, basement storeys that protrude more than 1.0m above ground level on any side shall be counted as a storey.
@@ -35,7 +41,7 @@ Basements with vertical openings on the side walls may be allowed only if they a
 
 ## Basement Horizontal Openings
 
-*Last updated on 25 February 2021*
+
 
 **URLs**:
 - [https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Hotel/H11_Basement.jpg?h=100%25&w=100%25]()

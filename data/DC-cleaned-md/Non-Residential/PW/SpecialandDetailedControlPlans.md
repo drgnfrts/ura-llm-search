@@ -1,3 +1,9 @@
+---
+title: Special and Detailed Control Plans
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/PW/SpecialandDetailedControlPlans
+date: 13 April 2020
+---
+
 # Special and Detailed Control Plans
 
 Special and Detailed Control Plans (SDCP) provide detailed guidelines for specific areas. The SDCPs may be viewed [here](https://www.ura.gov.sg/maps/index.html?service=CTRLPLAN).
@@ -32,4 +38,4 @@ The parapet wall at the rooftop shall be at least 3m high and access to the roof
 
 ---
 
-*Last updated on 13 April 2020*
+

@@ -1,3 +1,9 @@
+---
+title: Use Quantum
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/Use-Quantum
+date: 21 November 2022
+---
+
 # Use Quantum
 
 At least 60% of the total proposed GFA shall be used for HMC purposes only. These predominant uses may include inpatient/outpatient facilities, medical clinics/suites<sup>1</sup>, diagnostic and treatment facilities, nursing bed areas, dispensaries, clinical research facilities, patient-facing administration spaces, etc.
@@ -20,4 +26,4 @@ Other supporting or ancillary uses may include Visitors’ Hostel or limited Com
 ### Supporting Commercial Uses
 - Supporting commercial uses such as retail pharmacies, shops, F&B outlets, food court, banks etc shall not exceed 5% of the total proposed GFA.
 
-*Last updated on 21 November 2022*
+

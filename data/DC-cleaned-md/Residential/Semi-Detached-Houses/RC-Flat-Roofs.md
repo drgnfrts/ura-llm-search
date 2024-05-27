@@ -1,3 +1,9 @@
+---
+title: RC-Flat-Roofs.md
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/RC-Flat-Roofs
+date: 27 June 2022
+---
+
 # RC-Flat-Roofs.md
 
 ## Elevated Solar Panels
@@ -29,7 +35,7 @@ Elevated solar panels that require planning permission may be assessed as an add
 
 ![Extent and Height of Elevated Solar Panels](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA55_Solar_Panels_Landed.jpg?h=100%25&w=100%25)
 
-## Last updated on 27 June 2022
+
 
 <hr>
 
@@ -43,4 +49,4 @@ RC flat roofs shall remain inaccessible except for maintenance purposes only. Ac
   - Conservation guidelines (available at [URA SPACE](https://www.ura.gov.sg/maps/?service=STB))
   - Urban design height controls (available at [URA SPACE](https://www.ura.gov.sg/maps/?service=STB))
 
-## Last updated on 27 June 2022
+

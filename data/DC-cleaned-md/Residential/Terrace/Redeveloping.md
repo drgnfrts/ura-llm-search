@@ -1,5 +1,13 @@
-# Redeveloping to Other Landed Housing Forms
-
+---
+title: Redeveloping to Other Landed Housing Forms
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Redeveloping
+date: 8 April 2024
+---
+
+# Redeveloping to Other Landed Housing Forms
+
+
+
 The illustrations apply to houses within Designated Landed Housing Areas (DLHAs). For proposals outside DLHAs, the left-behind plot must fulfil the minimum plot size requirement of 1,000 sqm.
 
 ---
@@ -40,4 +48,4 @@ After the adjoining unit is redeveloped, the remaining terrace unit may remain a
 
 ---
 
-*Last updated on 8 April 2024*
+

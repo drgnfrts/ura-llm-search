@@ -1,3 +1,9 @@
+---
+title: Locational-Criteria.md
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Locational-Criteria
+date: : [website](https://www.ura.gov.sg/Corporate/Data/circulars/2018
+---
+
 # Locational-Criteria.md
 
 ## Bukit Timah Planning Area
@@ -52,4 +58,4 @@
 ## Emerald Hill Conservation Area
 - [Conservation guidelines shall also apply for landed housing gazetted for conservation, such as in the residential historic districts of Blair Plain, Cairnhill and Emerald Hill.](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Conservation-Guidelines.pdf)
 
-### Last updated on: [website](https://www.ura.gov.sg/Corporate/Data/circulars/2018/Nov/dc18-10)
+

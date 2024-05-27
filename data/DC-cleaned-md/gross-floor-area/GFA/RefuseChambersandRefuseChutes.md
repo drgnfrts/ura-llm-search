@@ -1,3 +1,9 @@
+---
+title: Refuse Chambers and Refuse Chutes
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/RefuseChambersandRefuseChutes
+date: 26 Jul 2023
+---
+
 # Refuse Chambers and Refuse Chutes
 
 Refuse chutes are excluded from GFA.
@@ -12,4 +18,4 @@ Outside of basement carparks, refuse chambers and DV chambers with headroom of u
 
 ---
 
-**Last updated on 26** Jul 2023
+

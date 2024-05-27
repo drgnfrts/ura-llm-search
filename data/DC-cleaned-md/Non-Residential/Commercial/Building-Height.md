@@ -1,3 +1,9 @@
+---
+title: Building Height
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Building-Height
+date: 15 March 2022
+---
+
 # Building Height
 
 ![Building Height Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C02_Building_Height.jpg?h=100%25&w=100%25)
@@ -62,4 +68,4 @@ In addition to (a) – (c), any additional building height will be subject to ev
 
 ---
 
-**Last updated on 15 March 2022**
+

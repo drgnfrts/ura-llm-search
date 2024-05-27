@@ -1,3 +1,9 @@
+---
+title: Underground Pedestrian Links (UPL) to Rapid Transit System (RTS) Stations
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/UPL
+date: 21 November 2022
+---
+
 # Underground Pedestrian Links (UPL) to Rapid Transit System (RTS) Stations
 
 To improve the overall connectivity network, building owners/developers are encouraged to construct direct subterranean connections from nearby developments to existing and future RTS stations. The UPL shall form part of the public circulation network, designed to be barrier-free, and be directly accessible from common public areas during the operating hours of the RTS.
@@ -47,4 +53,4 @@ The UPL shall be open during operating hours of the RTS station/normal business 
 
 ---
 
-*Last updated on 21 November 2022*
+

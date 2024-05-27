@@ -1,3 +1,9 @@
+---
+title: Structural Protrusion
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/StructuralProtrusion
+date: 26 Jul 2023
+---
+
 # Structural Protrusion
 
 Building features which are excluded from GFA can be allowed to extend from the building wall line to serve different needs. These features are typically short appendages and not extensive overhangs.
@@ -14,4 +20,4 @@ The width of the projection of each item that is excluded from GFA measured from
 
 Reinforced Concrete (RC) ledges and non-strata AC ledges not exceeding 2.0m in width, as measured perpendicularly from the external wall are excluded from GFA. If the combined width of the structural protrusion as shown in Example 1 exceeds 2.0m in width, the entire structure would be included as GFA.
 
-### Last updated on 26 Jul 2023
+

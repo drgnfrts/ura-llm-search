@@ -1,3 +1,9 @@
+---
+title: RC Flat Roofs
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/RC-Flat-Roofs
+date: 27 June 2022
+---
+
 # RC Flat Roofs
 
 RC flat roofs shall remain inaccessible except for maintenance purposes only<sup>1</sup>. Activating the rooftop for uses such as roof terraces may be allowed depending on the merits of the proposal. No structures shall be allowed unless otherwise approved by URA. Where allowed, structures (including any safety barriers) shall comply with height controls<sup>2</sup> and the following guidelines.
@@ -58,4 +64,4 @@ Elevated solar panels that require planning permission may be assessed as an add
 
 ---
 
-*Last updated on 27 June 2022*
+

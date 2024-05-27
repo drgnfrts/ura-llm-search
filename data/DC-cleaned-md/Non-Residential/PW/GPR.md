@@ -1,3 +1,9 @@
+---
+title: Gross Plot Ratio
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/PW/GPR
+date: 5 July 2019
+---
+
 # Gross Plot Ratio
 
 The guideline on the allowable Gross Plot Ratio (GPR) for new PWs varies depending on the location and the context of the surrounding area. The allowable GPR in the table below is the upper bound. The actual allowable GPR would depend on the site conditions, traffic situation, impact of the PW on the nearby developments, and other agencies’ requirements.
@@ -33,4 +39,4 @@ For redevelopment of existing approved PW developments or to carry out major ext
 
 ---
 
-*Last updated on 5 July 2019*
+

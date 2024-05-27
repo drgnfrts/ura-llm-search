@@ -1,3 +1,9 @@
+---
+title: Landscape Deck
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Landscape-Deck
+date: 21 Jul 2023
+---
+
 # Landscape Deck
 
 To encourage greenery and to conceal car park spaces, developments may provide landscape decks that double up as car parks. These may be ground level, or partially sunken car parks which are decked over with greenery and communal facilities and partially covered with earthfill.
@@ -41,4 +47,4 @@ If the landscape deck exceeds 5m in height as measured from the platform level, 
 ### Boundary Wall
 The boundary abutting the Landscape Deck shall have porous fencing, as opposed to full height solid boundary walls. Where it is necessary to comply with PUB surface water drainage purposes, the boundary wall may consist of a solid 0.6m high wall followed by a porous 1.2m high fencing. This is to ensure that the landscaping is visible on all facades from the street level.
 
-*Last updated on 21 Jul 2023*
+

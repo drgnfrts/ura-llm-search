@@ -1,3 +1,9 @@
+---
+title: Conversion of Surplus Car Parking Spaces within Central Area
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Parking
+date: 21 Jul 2023
+---
+
 # Conversion of Surplus Car Parking Spaces within Central Area
 
 In line with the planning intention to encourage conversion of office developments to Residential, Hotel, and other mixed uses within the CBD, only applications for conversion of existing surplus car parking spaces to non-office uses will be considered in selected areas where [CBD Incentive Scheme](https://www.ura.gov.sg/Corporate/Data/circulars/2019/Mar/dc19-04) applies.
@@ -71,4 +77,4 @@ Additional GFA gained via the conversion of surplus car parking spaces shall not
 
 Where surplus car parking spaces were allowed by LTA through a waiver application to exceed the upper bound of the Range-based Parking Provision Standards (RPPS) after 1 Feb 2019, the development will not be allowed to convert any of the surplus car parking spaces to other uses.
 
-*Last updated on 21 Jul 2023*
+

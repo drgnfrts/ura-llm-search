@@ -1,3 +1,9 @@
+---
+title: Use Quantum
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Use-Quantum
+date: No date found
+---
+
 # Use Quantum
 
 Within the BP (non-white) component, the proposed uses shall comply with the lists of allowable and not allowable uses shown in the table below.

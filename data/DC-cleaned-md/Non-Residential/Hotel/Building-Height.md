@@ -1,3 +1,9 @@
+---
+title: Building Height & Aggregate Building Height
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Building-Height
+date: 15 March 2022
+---
+
 # Building Height & Aggregate Building Height
 
 ## Floor-to-Floor Height for Hotel Developments
@@ -46,4 +52,4 @@ The number of storeys for hotel developments is guided by the [building height p
 
 Spaces for M&E services located directly beneath the sky terrace floor may be included in the additional height. The overall building height is subject to technical height controls. The additional building height shall not apply to developments within Conservation Areas and sites with National Monuments, developments with height control of 6 storeys or less, or developments with special controls e.g. areas with street block plans. In addition to these restrictions, any additional building height will be subject to evaluation for developments adjacent to conserved buildings or in [urban design areas](https://www.ura.gov.sg/Corporate/Guidelines/Urban-Design) with site-specific height considerations.
 
-**Last updated on 15 March 2022**
+

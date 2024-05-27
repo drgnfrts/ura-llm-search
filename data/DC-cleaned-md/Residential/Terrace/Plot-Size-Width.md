@@ -1,3 +1,9 @@
+---
+title: Plot Size and Width
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Plot-Size-Width
+date: 8 April 2024
+---
+
 # Plot Size and Width
 
 The plot size and width refers to the net dimension and area of the plot excluding the land required to be set aside for vesting to the State e.g. excluding Drainage Reserve (DR) and/or Road Reserve (RR).
@@ -38,4 +44,4 @@ For corner or intermediate terrace plots of irregular shape within existing land
 - The plot shall fully comply with the minimum plot size control and all other development control guidelines e.g. setback, road buffer, etc.
 The deficiency in plot width, if allowed, shall be restricted to one residual plot per development (i.e. all other plots within the same multi-unit development shall comply fully with the minimum plot width).
 
-Last updated on 8 April 2024.
+

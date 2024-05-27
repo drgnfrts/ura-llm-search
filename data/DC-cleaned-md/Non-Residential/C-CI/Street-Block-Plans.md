@@ -1,3 +1,9 @@
+---
+title: Street Block Plans
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/Street-Block-Plans
+date: 10 September 2020
+---
+
 # Street Block Plans
 
 Street block plans guide the detailed setback, storey height and building height, for the following locations. Click on the reference links to view the detailed street block plan.
@@ -22,4 +28,4 @@ Yan Kit Road【6:0†source】.
 
 ---
 
-*Last updated on 10 September 2020*
+

@@ -1,3 +1,9 @@
+---
+title: RC Flat Roofs
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/RC-Flat-Roofs
+date: 22 February 2024
+---
+
 # RC Flat Roofs
 
 RC flat roofs shall remain inaccessible except for maintenance purposes only<sup>1</sup>. Activating the rooftop for uses such as roof terraces and landscaped gardens may be allowed depending on the merits of the proposal. No structures shall be allowed unless otherwise approved by URA. Where allowed, structures (including any safety barriers) shall comply with height controls and the following guidelines.
@@ -53,4 +59,4 @@ Planning permission shall be required if the spaces under elevated or non-elevat
 
 ---
 
-*Last updated on 22 February 2024*
+

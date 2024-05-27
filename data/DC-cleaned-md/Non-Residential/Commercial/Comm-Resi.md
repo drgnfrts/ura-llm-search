@@ -1,3 +1,9 @@
+---
+title: Mixed Commercial & Residential
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Comm-Resi
+date: 5 July 2019
+---
+
 # Mixed Commercial & Residential
 
 Mixed commercial and residential developments include a combination of commercial uses and residential flats and may be developed on land zoned Commercial & Residential or Commercial.
@@ -34,4 +40,4 @@ The commercial uses shall be located on the lower floors, below the residential 
 
 ---
 
-*Last updated on 5 July 2019*
+

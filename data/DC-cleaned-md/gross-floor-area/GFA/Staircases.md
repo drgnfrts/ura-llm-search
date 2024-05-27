@@ -1,3 +1,9 @@
+---
+title: Staircases
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Staircases
+date: 26 Jul 2023
+---
+
 # Staircases
 
 Staircases are included as GFA. The flight of the staircase is to be projected upwards and be included as GFA on that particular floor.
@@ -36,4 +42,4 @@ For pure industrial/warehouse developments, uncovered external mild steel perfor
 
 Uncovered staircase to ESS are excluded from GFA.
 
-**Last updated on 26 Jul 2023**
+

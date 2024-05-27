@@ -1,3 +1,9 @@
+---
+title: Envelope Control Guidelines
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/EC
+date: 27 June 2022
+---
+
 # Envelope Control Guidelines
 
 From 11 May 2015, all landed housing shall follow the envelope control guidelines which define an allowable building envelope based on storey height and building setbacks. The development shall not exceed the permissible building envelope as illustrated in the figure above.
@@ -51,5 +57,5 @@ Where the MPL requirement is significantly higher than the existing levels of ad
 
 For plots with sloping ground, exposed basement protrusion above the existing ground level may be considered as long as the basement protrusion is kept within the permissible Envelope Control building height.
 
-**Last updated on 27 June 2022**
+
 

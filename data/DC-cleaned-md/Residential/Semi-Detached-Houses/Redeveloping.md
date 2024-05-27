@@ -1,3 +1,9 @@
+---
+title: Redevelopment of Existing Intermediate Terrace House to Bungalow, Semi-detached and Corner Terrace
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Redeveloping
+date: No date found
+---
+
 # Redevelopment of Existing Intermediate Terrace House to Bungalow, Semi-detached and Corner Terrace
 
 ## Not Allowed

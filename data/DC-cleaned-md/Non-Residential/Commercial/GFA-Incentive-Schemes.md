@@ -1,3 +1,9 @@
+---
+title: Bonus GFA Incentive Schemes
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/GFA-Incentive-Schemes
+date: No date found
+---
+
 # Bonus GFA Incentive Schemes
 
 Commercial developments are eligible for the following bonus GFA incentive schemes if they comply with the relevant guidelines:

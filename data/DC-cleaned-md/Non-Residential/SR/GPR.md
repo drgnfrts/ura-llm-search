@@ -1,3 +1,9 @@
+---
+title: Gross Plot Ratio
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/SR/GPR
+date: 5 July 2019
+---
+
 # Gross Plot Ratio
 
 The allowable Gross Plot Ratio (GPR) is subject to evaluation, taking into consideration the location, site context, topography, traffic situation, impact of the S&R development on the surroundings, and other agencies’ requirements.
@@ -12,4 +18,4 @@ The plot of land to be vested in the State as required under the Street Works Ac
 
 *GPR for sites where vesting is required*
 
-**Last updated on 5 July 2019**
+

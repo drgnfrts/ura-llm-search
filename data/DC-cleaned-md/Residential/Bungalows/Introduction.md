@@ -1,3 +1,9 @@
+---
+title: Introduction
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Introduction
+date: 5 July 2019
+---
+
 # Introduction
 
 ## Illustration of a Detached House
@@ -15,4 +21,4 @@ At the individual plot level, a bungalow development shall adhere to the envelop
 
 **Strata-Titled Bungalows:** Bungalows may be strata-titled when approved as strata bungalows – refer to [Strata Landed Housing handbook](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing) for guidelines and requirements.
 
-## Last updated on 5 July 2019
+

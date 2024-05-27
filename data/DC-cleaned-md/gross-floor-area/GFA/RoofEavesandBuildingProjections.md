@@ -1,3 +1,9 @@
+---
+title: Roof Eaves and Building Projections
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/RoofEavesandBuildingProjections
+date: 26 Jul 2023
+---
+
 # Roof Eaves and Building Projections
 
 **Roof Eaves located below the 6th Storey**
@@ -41,4 +47,4 @@ Area shadowed by link bridges or elevated linkways (regardless of height) is exc
 
 ![Area shadowed by Elevated Linkways](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-58-Shadow-area-below-elevated-linkways_final.jpg?h=1452&w=1000)
 
-**Last updated on 26 Jul 2023**
+

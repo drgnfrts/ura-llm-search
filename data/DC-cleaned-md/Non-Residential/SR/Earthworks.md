@@ -1,3 +1,9 @@
+---
+title: Earthworks, Retaining Walls, Boundary Walls
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/SR/Earthworks
+date: 5 July 2019
+---
+
 # Earthworks, Retaining Walls, Boundary Walls
 
 ## Earthworks
@@ -53,4 +59,4 @@ High retaining walls shall be avoided wherever possible, particularly for small 
 
 If the retaining walls are to meet the MPL requirement stipulated by PUB for drainage purposes, the retaining walls along the site boundaries need not be tiered as these are transitory, pending the redevelopment of the neighbouring land to the same MPL.
 
-**Last updated on 5 July 2019**
+

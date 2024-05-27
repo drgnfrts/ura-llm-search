@@ -1,3 +1,9 @@
+---
+title: Introduction
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Introduction
+date: 5 July 2019
+---
+
 # Introduction
 
 <img src="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/T00A_Terrace_Typology_With_Ledges.jpg?h=100%25&w=100%25" alt="Illustration of a Terrace House">
@@ -15,4 +21,4 @@ For Terrace Type II houses, the required setback from the road is standardised a
 ### Strata Landed Housing
 Terrace houses may also be strata-titled when approved as strata terrace houses – See [Strata Landed Housing](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing) for guidelines and requirements.
 
-*Last updated on 5 July 2019*
+

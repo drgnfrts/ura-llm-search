@@ -1,3 +1,9 @@
+---
+title: Additions and Alterations to Landed Housing
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Additions-Alterations
+date: 5 July 2019
+---
+
 # Additions and Alterations to Landed Housing
 
 Proposals shall meet the following criteria to qualify as an Additions & Alterations (A&A) proposal:
@@ -31,4 +37,4 @@ URA shall be notified immediately if any of the non-conforming structures approv
 
 ------------------------------------------------------------------------
 
-*Last updated on 5 July 2019*
+

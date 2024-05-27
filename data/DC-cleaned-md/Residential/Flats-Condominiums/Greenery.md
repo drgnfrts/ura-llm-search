@@ -1,3 +1,9 @@
+---
+title: Greenery
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Greenery
+date: : ura.gov.sg/-/media/User-Defined/URA-Online/circulars/2014
+---
+
 # Greenery
 
 ## Declaration of Green Plot Ratio
@@ -53,4 +59,4 @@ URA’s approval is not required for changes to the planting species as long as 
 |          | no   | Intermediate canopy | 3.0       | 60              | No                |          |
 |          | no   | Dense canopy | 4.0       | 60              | No                |          | 
 
-Last updated on: ura.gov.sg/-/media/User-Defined/URA-Online/circulars/2014/jun/dc14-lush20/app1-3.pdf"【6:3†source】.
+

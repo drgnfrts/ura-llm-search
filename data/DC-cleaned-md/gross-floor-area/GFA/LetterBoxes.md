@@ -1,3 +1,9 @@
+---
+title: Letter Boxes
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/LetterBoxes
+date: 26th Jul 2023
+---
+
 # Letter Boxes
 
 ## Letter Boxes Located Within Car Park
@@ -8,4 +14,4 @@ Letter boxes located within car park are excluded from GFA except when they form
 ## Letter Boxes Included as GFA 
 [![Letter Boxes Excluded from GFA](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-66B-Letterbox-area_non-GFA_v1.jpg?h=625&w=1000)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-66B-Letterbox-area_non-GFA_v1.jpg?h=625&w=1000)
 
-## Last updated on 26th Jul 2023
+

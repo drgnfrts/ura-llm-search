@@ -1,3 +1,9 @@
+---
+title: Earthworks
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Earthworks
+date: 5 July 2019
+---
+
 # Earthworks
 
 Earthworks may also be considered to:
@@ -25,4 +31,4 @@ For low-lying sites that need to meet PUB’s minimum platform level (MPL):
 
 Refer to [Basements](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/EC) for more information on the treatment of internal areas below the MPL.
 
-*Last updated on 5 July 2019*
+

@@ -1,3 +1,9 @@
+---
+title: Greenery
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/Greenery
+date: No date found
+---
+
 # Greenery
 
 Green Plot Ratio Computation Template

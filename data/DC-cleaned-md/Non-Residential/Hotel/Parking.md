@@ -1,3 +1,9 @@
+---
+title: Conversion of Surplus Car Parking Spaces within Central Area
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Parking
+date: 22 February 2024
+---
+
 # Conversion of Surplus Car Parking Spaces within Central Area
 
 In line with the planning intention to encourage the conversion of office developments to Residential, Hotel, and other mixed uses within the CBD, only applications for the conversion of existing surplus car parking spaces to non-office uses (see examples in the table below) will be considered in selected areas where [CBD Incentive Scheme](https://www.ura.gov.sg/Corporate/Data/circulars/2019/Mar/dc19-04) applies.
@@ -66,4 +72,4 @@ We advise all building owners, developers, and QPs to refer to the [Loading Bay 
 
 This guide provides information, best practices, and recommendations regarding the design and operation of the loading bays within commercial buildings.
 
-*Last updated on 22 February 2024*
+

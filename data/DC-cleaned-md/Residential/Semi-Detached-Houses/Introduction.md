@@ -1,3 +1,9 @@
+---
+title: Introduction
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Introduction
+date: 5 July 2019
+---
+
 # Introduction
 
 ![Illustration of a Semi-Detached House](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/SD00_Semi-Detached_Typology.jpg?h=100%25&w=100%25)
@@ -12,4 +18,4 @@ A semi-detached house shall adhere to the applicable storey height, envelope con
 
 ---
 
-**Last updated on 5 July 2019**
+

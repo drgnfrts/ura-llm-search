@@ -1,3 +1,9 @@
+---
+title: Balconies, Private Enclosed Spaces, Private Roof Terraces and Indoor Recreation Spaces
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Balconies-PES-PRT
+date: No date found
+---
+
 # Balconies, Private Enclosed Spaces, Private Roof Terraces and Indoor Recreation Spaces
 
 ## Balconies

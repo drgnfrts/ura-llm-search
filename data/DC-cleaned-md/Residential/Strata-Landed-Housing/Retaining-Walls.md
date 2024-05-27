@@ -1,3 +1,9 @@
+---
+title: Retaining and Boundary Walls
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/Retaining-Walls
+date: 5 July 2019
+---
+
 # Retaining and Boundary Walls
 
 The height of Retaining and Boundary Walls:
@@ -19,4 +25,4 @@ Full-height wall along the common boundary between two semi-detached houses abut
 
 ---
 
-**Last updated on 5 July 2019**
+

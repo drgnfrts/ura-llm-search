@@ -1,3 +1,9 @@
+---
+title: Bay Windows
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/BayWindows
+date: 26 Jul 2023
+---
+
 # Bay Windows
 
 ## Bay Windows
@@ -18,4 +24,4 @@ Bay windows refer to raised windows not exceeding one structural bay width and c
 
 None
 
-Last updated on 26 Jul 2023
+

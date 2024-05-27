@@ -1,3 +1,9 @@
+---
+title: Bicycle Parking Spaces and End-of-Trip Facilities
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/BicycleParkingSpacesandEnd-of-TripFacilities
+date: 5 Oct 2020
+---
+
 # Bicycle Parking Spaces and End-of-Trip Facilities
 
 ## Bicycle Parking Spaces
@@ -30,7 +36,7 @@ URA shall consider whether the size of the facility is appropriate, taking refer
 - This guideline only applies to Backpackers’ Hostel. End-of-Trip facilities provided within Student Hostels, which are akin to Residential use will not be excluded from GFA.
 - The guideline also applies to Foreign Workers’ Dormitories located on Industrial sites.
 
-**Last updated on 5 Oct 2020**
+
 
 ---
 

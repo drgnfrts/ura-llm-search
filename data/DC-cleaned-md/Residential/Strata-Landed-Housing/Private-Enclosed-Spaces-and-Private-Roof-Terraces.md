@@ -1,3 +1,9 @@
+---
+title: Private Enclosed Spaces and Private Roof Terraces
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/Private-Enclosed-Spaces-and-Private-Roof-Terraces
+date: 21 July 2023
+---
+
 # Private Enclosed Spaces and Private Roof Terraces
 
 ## Private Enclosed Spaces
@@ -36,4 +42,4 @@ Covers (subject to compliance with SCDF’s requirements) may be allowed on PRT 
 Such covers shall be approved upfront as part of the development application process. Developers may propose a single cover design, or a few designs for the homeowners to choose from.
 Installation of the covers is optional. Homeowners may choose from one of the approved designs, should they wish to cover the PRT subsequently. Homeowners shall obtain MCST clearance prior to installation. MCSTs may use the pre-approved designs to guide homeowners who wish to install covers.
 
-*Last updated on 21 July 2023*
+

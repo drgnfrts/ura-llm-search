@@ -1,3 +1,9 @@
+---
+title: Access Points
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Access-Points
+date: 5 July 2019
+---
+
 # Access Points
 
 ## Vehicular Access to Bungalow Plot
@@ -12,4 +18,4 @@ The position of vehicular access point for bungalows shall consider roadside pla
 
 Only one main entrance door for a single residential unit for family dwelling purposes shall be allowed in a landed house.
 
-**Last updated on 5 July 2019**
+

@@ -1,3 +1,9 @@
+---
+title: Residential with Commercial at 1st storey
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Residential-1st
+date: 5 July 2019
+---
+
 # Residential with Commercial at 1st storey
 
 **Road Reserve**: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
@@ -48,7 +54,7 @@ Strata subdivision is allowed for shophouses and shopflats except for conservati
 
 ---
 
-*Last updated on 5 July 2019*
+
 
 ---
 

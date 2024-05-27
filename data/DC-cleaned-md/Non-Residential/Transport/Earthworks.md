@@ -1,3 +1,9 @@
+---
+title: Earthworks, Retaining Walls, Boundary Walls
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Transport/Earthworks
+date: 5 July 2019
+---
+
 # Earthworks, Retaining Walls, Boundary Walls
 
 ## Earthworks
@@ -44,7 +50,7 @@ If the retaining walls are to meet the MPL requirement stipulated by PUB for dra
 
 ---
 
-*Last updated on 5 July 2019* 
+
 
 [Image 1](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C07_Earthworks.jpg?h=100%25&w=100%25)
 [Image 2](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F15_Retaining_Wall_15m.jpg?h=100%2525&w=100%2525)

@@ -1,3 +1,9 @@
+---
+title: Recessed Windows
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/RecessedWindows
+date: 26 Jul 2023
+---
+
 # Recessed Windows
 
 Area under a recessed window, regardless of height of the window, is included as GFA.
@@ -6,4 +12,4 @@ Area under a recessed window, regardless of height of the window, is included as
 
 ---
 
-**Last updated on 26 Jul 2023**
+

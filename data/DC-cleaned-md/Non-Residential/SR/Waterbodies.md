@@ -1,3 +1,9 @@
+---
+title: Waterbodies.md
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/SR/Waterbodies
+date: 5 July 2019
+---
+
 # Waterbodies.md
 
 ## Developments Involving Waterbodies
@@ -57,4 +63,4 @@ For land use planning and development control purposes, the foreshore and the ar
 
 ![Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C15_Foreshore_C.jpg?h=100%25&w=100%25)
 
-*Last updated on 5 July 2019*
+

@@ -1,3 +1,9 @@
+---
+title: Retaining and Boundary Walls
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Retaining-Walls
+date: 5 July 2019
+---
+
 # Retaining and Boundary Walls
 
 ![Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F14_Retaining_Wall_1m.jpg?h=100%2525&w=100%2525)
@@ -25,4 +31,4 @@ Full-height walls at the car porch/patio areas along the common boundary between
 
 ---
 
-*Last updated on 5 July 2019*
+

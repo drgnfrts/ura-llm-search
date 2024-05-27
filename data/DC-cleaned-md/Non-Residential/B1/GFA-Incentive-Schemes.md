@@ -1,3 +1,9 @@
+---
+title: Bonus GFA Incentive Schemes
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/GFA-Incentive-Schemes
+date: 7 July 2022
+---
+
 # Bonus GFA Incentive Schemes
 
 The Bonus GFA schemes applicable to Business 1 are:
@@ -68,4 +74,4 @@ Refer to section on [POPS](https://www.ura.gov.sg/Corporate/Guidelines/Developme
 
 ---
 
-*Last updated on 7 July 2022*
+

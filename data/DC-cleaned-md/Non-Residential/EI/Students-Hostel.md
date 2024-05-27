@@ -1,3 +1,9 @@
+---
+title: Students’ Hostels
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/Students-Hostel
+date: 5 July 2019
+---
+
 # Students’ Hostels
 
 A students’ hostel or dormitory is used for lodging by students unrelated by blood, marriage, adoption or legal guardianship. The premises are considered as students’ hostel if:
@@ -24,4 +30,4 @@ The students’ hostel shall be located below existing residential floors to min
 
 All owners shall submit a Letter of Undertaking (LOU) that the students’ hostel will be run by a single operator. For conversions on a per-floor basis, all owners on the floor are to sign the LOU. A fresh LOU shall be submitted for subsequent renewals of the TP.
 
-*Last updated on 5 July 2019*
+

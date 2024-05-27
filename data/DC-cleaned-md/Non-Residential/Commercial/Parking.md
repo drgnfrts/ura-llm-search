@@ -1,3 +1,9 @@
+---
+title: Conversion of Surplus Car Parking Spaces within Central Area
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Parking
+date: 22 February 2024
+---
+
 # Conversion of Surplus Car Parking Spaces within Central Area
 
 In line with the planning intention to encourage conversion of office developments to Residential, Hotel and other mixed uses within the CBD, only applications for conversion of existing surplus car parking spaces to non-office uses (see examples in the table below) will be considered in selected areas where [CBD Incentive Scheme](https://www.ura.gov.sg/Corporate/Data/circulars/2019/Mar/dc19-04) applies.
@@ -25,7 +31,7 @@ Unless explicitly approved as private parking lots in the approved plans, all bi
 
 Bicycle parking lots provided according to LTA’s new standards are exempted from GFA computation. Surplus provision of bicycle parking lots may be exempted from GFA computation depending on merits and context of the development.
 
-## Last updated on 22 February 2024
+
 
 ---
 
@@ -68,4 +74,4 @@ This guide provides information, best practices and recommendations regarding th
 
 In cases where it is difficult to adhere to the good practice for the design and operation of the loading bays, we encourage buildings owners to explore other means to achieve the same design and operation principles.
 
-## Last updated on 22 February 2024
+

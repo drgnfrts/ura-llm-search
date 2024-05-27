@@ -1,3 +1,9 @@
+---
+title: Envelope Control Guidelines
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/EC
+date: 27 June 2022
+---
+
 ### Envelope Control Guidelines
 
 From 11 May 2015, all landed housing shall follow the envelope control guidelines which define an allowable building envelope based on storey height and building setbacks. The development shall not exceed the permissible building envelope as illustrated in the figure above.
@@ -46,4 +52,4 @@ The absolute technical height (based on Singapore Height Datum [SHD]) shall take
 
 ### Last Updated
 
-*Last updated on 27 June 2022*
+

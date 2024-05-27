@@ -1,3 +1,9 @@
+---
+title: Gross Plot Ratio & Building Height
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/GPR-Building-Height
+date: 15 March 2022
+---
+
 # Gross Plot Ratio & Building Height
 
 Building Height of Education and Institution
@@ -71,4 +77,4 @@ In addition to (a) – (c), any additional building height will be subject to ev
 
 ----
 
-*Last updated on 15 March 2022*
+

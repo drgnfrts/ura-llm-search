@@ -1,3 +1,9 @@
+---
+title: Urban Design Requirements
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/UD
+date: 22 October 2019
+---
+
 # Urban Design Requirements
 
 Guidelines on Urban Design (UD) intentions are to preserve and enhance the urban character of the different planning areas. They help to ensure that developments integrate well with their surrounding urban environment.
@@ -40,4 +46,4 @@ AGUs may be required to be provided in the following typical locations:
 
 The proposed AGUs in the above locations are to be assessed contextually, taking into account the planning intention for the area and potential amenity problems that will impact on the surrounding developments. Uses not allowed are those that do not directly contribute to street vibrancy and/or can potentially cause amenity problems to neighbors.
 
-*Last updated on 22 October 2019*
+

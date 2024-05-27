@@ -1,3 +1,9 @@
+---
+title: SkyTerraces.md
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/SkyTerraces
+date: No date found
+---
+
 # SkyTerraces.md
 
 ## Sky Terrace

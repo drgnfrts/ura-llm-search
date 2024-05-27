@@ -1,3 +1,9 @@
+---
+title: RC Flat Roofs
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/RC-Flat-Roofs
+date: 22 February 2024
+---
+
 # RC Flat Roofs
 
 RC flat roofs shall remain inaccessible except for maintenance purposes only<sup>1</sup>. Activating the rooftop for uses such as roof terraces and landscaped gardens may be allowed depending on the merits of the proposal. No structures shall be allowed unless otherwise approved by URA. Where allowed, structures (including any safety barriers) shall comply with height controls and the following guidelines.
@@ -26,7 +32,7 @@ Installation of solar panels and M&E equipment such as inverters for the solar p
 
 Areas subject to urban design guidelines and Conservation Areas shall require planning permission due to their impact on the roofscape. For Conservation Areas, installation of solar panels without any additional works are treated as localized works for the purpose of repair and maintenance and are considered Category 3 works for Conserved Buildings. Applications for such Category 3 works can be made by owners and contractors. Refer to the Conservation Guidelines [here](https://www.ura.gov.sg/Corporate/Guidelines/Conservation) and information on submission procedure [here](https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Additions-Alterations/Types-Works).
 
-*Last updated on 22 February 2024* 
+
 
 Citations:
 - **RC-Flat-Roofs.md**【6:0†source】,【6:1†source】,【6:2†source】,【6:3†source】

@@ -1,3 +1,9 @@
+---
+title: RC Flat Roofs
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/RC-Flat-Roofs
+date: 22 February 2024
+---
+
 # RC Flat Roofs
 
 RC flat roofs shall remain inaccessible except for maintenance purposes only<sup>1</sup>. Activating the rooftop for uses such as roof terraces and landscaped gardens may be allowed depending on the merits of the proposal. No structures shall be allowed unless otherwise approved by URA. Where allowed, structures (including any safety barriers) shall comply with height controls and the following guidelines.
@@ -29,7 +35,7 @@ Installation of solar panels and M&E equipment such as inverters for the solar p
 
 *Extent and Height of Elevated Solar Panels*
 
-- Last updated on 22 February 2024
+
 
 **References:**
 - [Image reference for Solar Panels](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA54_Solar_Panels_Buildings.jpg?h=100%25&w=100%25) 

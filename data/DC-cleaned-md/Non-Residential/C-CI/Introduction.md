@@ -1,3 +1,9 @@
+---
+title: Introduction
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/Introduction
+date: 06 Nov 2020
+---
+
 # Introduction
 
 Civic and Community Institutions comprise developments for civic, community, cultural, association/clan, or other similar purposes on land zoned “Civic & Community Institution” (C&CI) and “Residential/Institution” in the Master Plan.
@@ -18,4 +24,4 @@ All C&CI developments shall adhere to the planning parameters and guidelines exc
 
 **Home for the Aged**
 
-*Last updated on 06 Nov 2020*
+

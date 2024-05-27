@@ -1,3 +1,9 @@
+---
+title: Floors
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Floors
+date: 8 Mar 2024
+---
+
 # Floors
 
 ## Floor under a Pitch Roof
@@ -26,4 +32,4 @@ Covered perforated floors (including areas covered by such perforated floors) ar
 
 ---
 
-**Last updated on 8 Mar 2024**
+

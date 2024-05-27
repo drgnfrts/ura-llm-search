@@ -1,3 +1,9 @@
+---
+title: Use Quantum
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Use-Quantum
+date: 21 February 2022
+---
+
 # Use Quantum
 
 At least 60% of the total B1 industrial GFA (i.e., minimum 60%) shall be used for industrial purpose<sup>1</sup>. The remaining 40% may be used for ancillary (or supporting) uses. Tables 1 and 2 below show the applicable use quantum control for a single-user or multi-user industrial development.
@@ -31,4 +37,4 @@ At least 60% of the total B1 industrial GFA (i.e., minimum 60%) shall be used fo
 
 Up to 40% of the floor area of the development is for ancillary quantum at the development level, which comprises all common areas outside the units (such as common corridors, staircases, lifts, toilets, M&E spaces) and all secondary uses (see the *‘Guidelines for Allowable Uses’* section [here](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Allowable-Uses)). Within each strata-subdivided industrial unit, at least 60% of the floor area shall be used for industrial uses.
 
-*Last updated on 21 February 2022*
+

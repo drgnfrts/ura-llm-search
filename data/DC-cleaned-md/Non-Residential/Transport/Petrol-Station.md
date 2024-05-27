@@ -1,3 +1,9 @@
+---
+title: Petrol Station Developments
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Transport/Petrol-Station
+date: 5 July 2019
+---
+
 # Petrol Station Developments
 
 <https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/TP03_Petrol_Station.jpg?h=100%25&w=100%25>
@@ -32,4 +38,4 @@ Petrol stations are primarily for the retail sale of fuel. Supporting or ancilla
 ### Strata Subdivision
 Strata subdivision is not allowed.
 
-*Last updated on 5 July 2019*
+

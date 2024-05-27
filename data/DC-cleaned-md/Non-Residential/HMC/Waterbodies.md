@@ -1,3 +1,9 @@
+---
+title: Waterbodies.md
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/Waterbodies
+date: 5 July 2019
+---
+
 # Waterbodies.md
 
 ## Developments Involving Waterbodies
@@ -62,4 +68,4 @@ The high water mark of the Spring Tide; the top of the existing seawall or rever
 
 ---
 
-*Last updated on 5 July 2019*
+

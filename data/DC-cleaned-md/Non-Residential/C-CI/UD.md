@@ -1,3 +1,9 @@
+---
+title: Urban Design Requirements
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/UD
+date: 22 October 2019
+---
+
 # Urban Design Requirements
 
 Guidelines on Urban Design (UD) are to preserve and enhance the urban character of the different planning areas. They help to ensure that developments integrate well with their surrounding urban environment.
@@ -52,4 +58,4 @@ The proposed AGUs in the above locations are to be assessed contextually, taking
 
 ---
 
-*Last updated on 22 October 2019*
+

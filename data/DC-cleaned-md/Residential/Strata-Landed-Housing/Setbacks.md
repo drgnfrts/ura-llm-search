@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/Setbacks
+date: No date found
+---
+
 # Building Setback from Boundary
 
 ### Road Buffer and Green Buffer

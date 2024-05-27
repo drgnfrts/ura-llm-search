@@ -1,3 +1,9 @@
+---
+title: Conversion of Surplus Car Parking Spaces within Central Area
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Parking/Car-Parking
+date: 22 February 2024
+---
+
 # Conversion of Surplus Car Parking Spaces within Central Area
 
 In line with the planning intention to encourage conversion of office developments to Residential, Hotel and other mixed uses within the CBD, only applications for conversion of existing surplus car parking spaces to non-office uses will be considered in selected areas where [CBD Incentive Scheme](https://www.ura.gov.sg/Corporate/Data/circulars/2019/Mar/dc19-04) applies.
@@ -24,7 +30,7 @@ Non-office uses are highly encouraged.
 
 To promote a car-lite society, commercial and mixed use developments shall provide bicycle parking facilities within the developments. Refer to LTA’s [Code of Practice for Vehicle Parking Provision in Developments](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle_parking/requirements_for_vehicle_parking_proposals.html) for the list of requirements.
 
-### Last updated on 22 February 2024
+
 
 ---
 
@@ -57,4 +63,4 @@ Existing commercial developments within the [Central Area](https://www.ura.gov.s
 
 ³ With the RPPS, surplus car parking lots in existing developments may arise if the upper bound for the development type is revised downward and/or if developments choose to reduce car parking provision to the lower bound set out by the RPPS.
 
-### Last updated on 22 February 2024
+

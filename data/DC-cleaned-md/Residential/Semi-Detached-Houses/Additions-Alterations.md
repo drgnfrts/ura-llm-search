@@ -1,3 +1,9 @@
+---
+title: Additions and Alterations to Landed Housing
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Additions-Alterations
+date: 5 July 2019
+---
+
 # Additions and Alterations to Landed Housing
 
 Proposals shall meet the following criteria to qualify as an Additions & Alterations (A&A) proposal:
@@ -36,4 +42,4 @@ URA shall be notified immediately if any of the non-conforming structures approv
 
 **Non-conforming Structures**: Structures within the existing house that were approved and built in the past, but do not comply with the prevailing development control guidelines.
 
-*Last updated on 5 July 2019*
+

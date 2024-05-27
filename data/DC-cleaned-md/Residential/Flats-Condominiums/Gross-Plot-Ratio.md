@@ -1,3 +1,9 @@
+---
+title: Gross Plot Ratio
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Gross-Plot-Ratio
+date: 5 July 2019
+---
+
 # Gross Plot Ratio
 
 The development potential of a residential development is guided by the Gross Plot Ratio (GPR) specified in the Master Plan (MP). The MP plot ratio is the upper bound as it may not always be achievable because of site limitations like shape of the plot, site topography or ground conditions, building setbacks, building height or technical requirements of other authorities that may affect the site.
@@ -14,4 +20,4 @@ The plot of land to be vested in the State as required under the Street Works Ac
 
 *GPR for sites where vesting is required*
 
-_Last updated on 5 July 2019_
+

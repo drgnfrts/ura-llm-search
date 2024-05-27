@@ -1,3 +1,9 @@
+---
+title: Provision of Open and Covered Public Walkways
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Covered-Walkways
+date: 5 July 2019
+---
+
 # Provision of Open and Covered Public Walkways
 
 All commercial developments and commercial buildings of mixed commercial and residential developments shall provide covered walkways along the periphery of the building facing roads and pedestrian routes.
@@ -42,4 +48,4 @@ The walkways shall be continuous, providing connections into the interior of the
 
 Covered walkways shall be seamlessly connected to adjoining developments.
 
-*Last updated on 5 July 2019*
+

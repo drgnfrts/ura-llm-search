@@ -1,3 +1,9 @@
+---
+title: Privately-Owned Public Spaces (POPS)
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Privately-OwnedPublicSpacesPOPS
+date: 4 Jan 2023
+---
+
 # Privately-Owned Public Spaces (POPS)
 
 1<sup>st</sup> storey covered public spaces may be excluded from GFA
@@ -70,4 +76,4 @@ The additional GFA granted under this scheme will not be transferable for other 
 
 Refer to Circular No: URA/PB/2009/03-DCG dated 29 April 2009 – Framework for Managing Bonus Gross Floor Area Incentives【4:1†source】
 
-**Last updated on 4 Jan 2023**
+

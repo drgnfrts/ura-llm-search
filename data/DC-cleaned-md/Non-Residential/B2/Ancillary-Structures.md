@@ -1,3 +1,9 @@
+---
+title: Ancillary Structures
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/Ancillary-Structures
+date: 5 July 2019
+---
+
 # Ancillary Structures
 
 [![Setback Requirements for Ancillary Structures](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/B202_Setbacks_Ancillary_Structures_Substation.jpg?h=100%25&w=100%25)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/B202_Setbacks_Ancillary_Structures_Substation.jpg?h=100%25&w=100%25)
@@ -41,4 +47,4 @@ Ancillary structures are minor structures erected to support the main use of the
 
 ---
 
-*Last updated on 5 July 2019*
+

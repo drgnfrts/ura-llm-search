@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/PW/Setback
+date: 23 October 2023
+---
+
 # Building Setback from Boundary
 
 All PWs shall be sufficiently set back from the road and common boundary. The setback distance is measured from the road reserve^(1) line or boundary line to the external wall of the buildings, excluding land to be vested to the State for road or drainage or public purpose.
@@ -26,7 +32,7 @@ The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The
 |  | - No adverse impact on the surrounding developments |
 |  | **Note**: Where the building is proposed to abut the common boundary, the applicant should put in place systems/measures to facilitate down-stream building maintenance at the common boundary. |
 
-### Last updated on 23 October 2023
+
 
 [Link to Road Buffer, Green Buffer Image](https://www.ura.gov.sg/Corporate/Guidelines/Development-control/Others/PW02_Road_Buffer_Setbacks.jpg)
 

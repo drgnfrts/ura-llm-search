@@ -1,3 +1,9 @@
+---
+title: Introduction
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Introduction
+date: 5 July 2019
+---
+
 # Introduction
 
 Business Parks (BP) are for businesses engaged in high-technology, research and development (R&D), high value-added and knowledge intensive activities. BPs have the following distinguishing features:
@@ -7,4 +13,4 @@ Business Parks (BP) are for businesses engaged in high-technology, research and 
 
 BPs can be developed on land zoned BP and BP-White. The White component is a flexible provision to allow for more GFA quantum to accommodate related uses synergistic with the dominant BP land use zoning. Related uses include residential, office, hotel, sports and recreation uses. The allowable quantum for White use is higher for land zoned BP-White.
 
-### Last updated on 5 July 2019
+

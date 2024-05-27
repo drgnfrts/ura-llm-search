@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/Setback
+date: 23 October 2023
+---
+
 # Building Setback from Boundary
 
 <https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/B201_Road_Buffer_Setbacks.jpg?h=100%25&w=100%25>
@@ -39,4 +45,4 @@ All industrial developments fronting a public road shall provide a road buffer, 
 
 *Note*: Where a building is proposed to abut the common boundary, measures shall be put in place to facilitate downstream building maintenance at the common boundary.
 
-*Last updated on 23 October 2023*
+

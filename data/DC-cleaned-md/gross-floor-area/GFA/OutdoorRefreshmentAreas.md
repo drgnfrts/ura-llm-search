@@ -1,3 +1,9 @@
+---
+title: Outdoor Refreshment Areas
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/OutdoorRefreshmentAreas
+date: 7 July 2022
+---
+
 # Outdoor Refreshment Areas
 
 ## Landscaping for Urban Spaces and High-Rises Scheme – Bonus GFA
@@ -31,4 +37,4 @@ ORAs within POPS may be included as bonus GFA if they adhere to the POPS guideli
 
 ---
 
-**Last updated on 7 July 2022**
+

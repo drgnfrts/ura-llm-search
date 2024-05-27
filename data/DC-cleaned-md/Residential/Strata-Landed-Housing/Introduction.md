@@ -1,3 +1,9 @@
+---
+title: Introduction
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/Introduction
+date: 5 July 2019
+---
+
 # Introduction
 
 <https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/SL00_Strata_Landed_Typology.jpg?h=100%25&w=100%25>
@@ -22,4 +28,4 @@ The number of strata landed housing units allowable depends on the type of lande
 
 ## Last updated
 
-*Last updated on 5 July 2019*
+

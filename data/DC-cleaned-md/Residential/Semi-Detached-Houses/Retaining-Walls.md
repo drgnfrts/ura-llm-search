@@ -1,3 +1,9 @@
+---
+title: Retaining and Boundary Walls
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Retaining-Walls
+date: 5 July 2019
+---
+
 # Retaining and Boundary Walls
 
 **Retaining Walls**
@@ -13,4 +19,4 @@ Boundary walls shall not exceed 1.8m high.
 
 The combined height of retaining and boundary wall shall not exceed 2.8m, of which a solid wall shall not exceed 1.8m. Where a boundary wall is proposed on top of the retaining wall, only porous material (eg fencing) shall be used for the boundary wall.
 
-**Last updated on 5 July 2019**
+

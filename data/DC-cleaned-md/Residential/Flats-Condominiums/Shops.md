@@ -1,3 +1,9 @@
+---
+title: Ancillary Shops
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Shops
+date: 5 July 2019
+---
+
 # Ancillary Shops
 
 ## Limitations for Shops in Residential Developments
@@ -14,4 +20,4 @@ Up to 0.3% of the proposed residential gross floor area (excluding bonus balcony
 - The total permissible GPR and GFA shall include the above-mentioned shop GFA.
 - Only personal service trades may be allowed (e.g. mini-marts/laundromats). Independent offices are not allowed.
 
-*Last updated on 5 July 2019*
+

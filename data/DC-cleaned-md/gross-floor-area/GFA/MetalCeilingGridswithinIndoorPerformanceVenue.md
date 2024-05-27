@@ -1,3 +1,9 @@
+---
+title: Metal Ceiling Grids within Indoor Performance Venue
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/MetalCeilingGridswithinIndoorPerformanceVenue
+date: 26 Jul 2023
+---
+
 # Metal Ceiling Grids within Indoor Performance Venue
 
 Ceiling grids located directly above a stage area within an indoor performance venue are excluded from GFA.
@@ -6,4 +12,4 @@ Ceiling grids located directly above a stage area within an indoor performance v
 
 ---
 
-## Last updated on 26 Jul 2023
+

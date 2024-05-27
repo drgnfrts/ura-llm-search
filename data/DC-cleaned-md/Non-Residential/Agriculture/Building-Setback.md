@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Agriculture/Building-Setback
+date: 20 September 2019
+---
+
 # Building Setback from Boundary
 
 All Agriculture developments shall be sufficiently set back from the road and common boundary. The setback distance is measured from the road reserve<sup>[2†source]</sup> line or boundary line to the external wall of the agriculture building, excluding land to be vested to the State for road or drainage or public purpose.
@@ -31,7 +37,7 @@ The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The
   - Within Road Buffer: Allowed, provided it is not within green buffer
   - Within Setback from Common Boundaries: Allowed, provided it is not within the 2.0m planting strip
 
-*Last updated on 20 September 2019*
+
 
 [1:0†source]
 [1:1†source]

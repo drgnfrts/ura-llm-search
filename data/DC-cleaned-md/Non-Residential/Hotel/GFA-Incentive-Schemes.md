@@ -1,3 +1,9 @@
+---
+title: Bonus GFA Incentive Schemes
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/GFA-Incentive-Schemes
+date: 21 November 2022
+---
+
 # Bonus GFA Incentive Schemes
 
 Hotel developments are eligible for bonus GFA if they satisfy the requirements of the following incentive schemes:
@@ -74,4 +80,4 @@ ORA within Privately-Owned Public Spaces (POPS)
 
 Refer to the section on [POPS](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Privately-OwnedPublicSpacesPOPS).
 
-*Last updated on 21 November 2022*
+

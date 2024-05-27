@@ -1,3 +1,9 @@
+---
+title: Ancillary Structures
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Ancillary-Structures
+date: 5 July 2019
+---
+
 # Ancillary Structures
 
 <https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/BP03_Setbacks_Ancillary_Structures_Substation.jpg?h=100%25&w=100%25>
@@ -40,4 +46,4 @@ Ancillary structures located within the green buffer may be assessed in accordan
 #### Tennis Court
 - **Height Control**: Subject to evaluation
 
-**Last updated on 5 July 2019**
+

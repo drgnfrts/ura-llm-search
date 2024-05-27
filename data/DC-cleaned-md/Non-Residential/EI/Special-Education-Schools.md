@@ -1,3 +1,9 @@
+---
+title: Special Education Schools
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/Special-Education-Schools
+date: 5 July 2019
+---
+
 # Special Education Schools
 
 Special education schools provide training for the disabled aged 1 – 18 years old. Special education schools may be classified as:
@@ -32,4 +38,4 @@ For mixed ambulatory and non-ambulatory school, the non-ambulatory facilities sh
 
 ---
 
-*Last updated on 5 July 2019* []
+

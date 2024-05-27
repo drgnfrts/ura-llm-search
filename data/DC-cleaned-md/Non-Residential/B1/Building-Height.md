@@ -1,3 +1,9 @@
+---
+title: Building Height
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Building-Height
+date: 4 December 2019
+---
+
 # Building Height
 
 **Overall Building Height**
@@ -10,7 +16,7 @@ Unless otherwise stated, the overall building height<sup>1</sup> of industrial d
 
 The minimum floor-to-floor height of industrial buildings is 4.0m. For Sindo Industrial Estate where there is a storey height control, the maximum floor-to-floor height control is 6.0m.
 
-**Last updated on 4 December 2019**
+
 
 ---
 

@@ -1,3 +1,9 @@
+---
+title: Basements
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/Basements
+date: 5 July 2019
+---
+
 # Basements
 
 A basement is a sunken structure with a maximum protrusion of 1.0m above the ground level on all sides. If the protrusion is more than 1.0m above the ground level regardless of the number of protruded sides, it shall be treated as a storey.
@@ -25,4 +31,4 @@ Basements with vertical openings on the side walls may be allowed only if they a
 
 ![Basement Horizontal Openings](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Hotel/H09_Basement_Horizontal_Openings.jpg?h=100%25&w=100%25)
 
-## Last updated on 5 July 2019
+

@@ -1,3 +1,9 @@
+---
+title: Greenery
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/SR/Greenery
+date: No date found
+---
+
 # Greenery
 
 ## Declaration of Green Plot Ratio

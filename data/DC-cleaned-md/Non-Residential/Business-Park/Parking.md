@@ -1,3 +1,9 @@
+---
+title: Parking
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Parking
+date: 28 June 2023
+---
+
 # Parking
 
 LTA prescribes the parking provision standards and requirements for motor vehicles and bicycles. The requirements are usually based on the quantum of the gross floor area or the number of units of the development uses.
@@ -54,4 +60,4 @@ Bicycle parking lots provided according to LTA’s new standards are exempted fr
 
 ---
 
-*Last updated on 28 June 2023*
+

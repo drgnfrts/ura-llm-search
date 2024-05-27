@@ -1,3 +1,9 @@
+---
+title: Allowable Uses
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Allowable-Uses
+date: No date found
+---
+
 # Allowable Uses
 
 Examples of allowable uses on B1 sites under the Predominant and Ancillary (or supporting) Use categories are shown below. Uses not indicated below shall be evaluated on the merits of the case.

@@ -1,3 +1,9 @@
+---
+title: E-Business Activities regarded as Industrial Uses
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Allowable-Uses/WD
+date: No date found
+---
+
 # E-Business Activities regarded as Industrial Uses
 
 ## Telecommunications

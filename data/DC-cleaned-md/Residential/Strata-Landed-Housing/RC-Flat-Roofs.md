@@ -1,3 +1,9 @@
+---
+title: Solar Panels
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/RC-Flat-Roofs
+date: 27 June 2022
+---
+
 # Solar Panels
 
 The installation of solar panels on RC flat roofs may be considered if they meet the following criteria:
@@ -42,4 +48,4 @@ RC flat roofs shall remain inaccessible except for maintenance purposes only<sup
 - Conservation guidelines (available [URA SPACE](https://www.ura.gov.sg/maps/?service=STB))
 - Urban design height controls (available [URA SPACE](https://www.ura.gov.sg/maps/?service=STB))
 
-*Last updated on 27 June 2022*
+

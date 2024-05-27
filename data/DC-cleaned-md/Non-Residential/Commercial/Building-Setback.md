@@ -1,3 +1,9 @@
+---
+title: Building Setback for MSCP
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Building-Setback
+date: 23 October 2023
+---
+
 # Building Setback for MSCP
 
 **Building Setback for MSCP**
@@ -43,6 +49,6 @@ Commercial developments in the [Central Area](https://www.ura.gov.sg/-/media/Cor
 
 ---
 
-*Last updated on 23 October 2023*
+
 
 <sup>1</sup> **Road Reserve**: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.

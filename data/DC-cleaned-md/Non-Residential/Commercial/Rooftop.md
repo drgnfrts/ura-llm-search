@@ -1,3 +1,9 @@
+---
+title: Elevated Solar Panels
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Rooftop
+date: 22 February 2024
+---
+
 # Elevated Solar Panels
 Elevated solar panels located in developments on the following land use zones shall require planning permission:
 
@@ -33,7 +39,7 @@ Elevated solar panels that require planning permission may be assessed as an add
 
 ![Extent and Height of Elevated Solar Panels](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA54_Solar_Panels_Buildings.jpg?h=100%25&w=100%25)
 
-*Last updated on 22 February 2024*
+
 
 # RC Flat Roofs
 
@@ -53,4 +59,4 @@ Communal pavilions are small-scale, ancillary landscaping features that function
 
 The installation of solar panels on RC flat roofs may be considered if they meet certain criteria related to angle and maintenance of greenery under the Landscaping for Urban Spaces and High-Rises (LUSH) Programme. Installation in specific locations and contexts may require planning permission based on urban design guidelines and Conservation Areas.
 
-*Last updated on 22 February 2024*
+

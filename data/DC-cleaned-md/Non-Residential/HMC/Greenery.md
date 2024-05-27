@@ -1,3 +1,9 @@
+---
+title: DECLARATION OF GREEN PLOT RATIO
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/Greenery
+date: No date found
+---
+
 # DECLARATION OF GREEN PLOT RATIO
 
 ## Category: Trees

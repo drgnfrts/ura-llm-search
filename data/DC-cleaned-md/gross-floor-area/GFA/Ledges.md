@@ -1,3 +1,9 @@
+---
+title: Ledges
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Ledges
+date: 26 Jul 2023
+---
+
 # Ledges
 
 ## Air-Conditioner Ledges
@@ -17,4 +23,4 @@ Reinforced Concrete (RC) ledges meant for sun-shading or firefighting purposes (
 
 For RC ledges exceeding 2.0m in width, the area to be excluded from GFA is only up to 2.0m in width.
 
-## Last updated on 26 Jul 2023
+

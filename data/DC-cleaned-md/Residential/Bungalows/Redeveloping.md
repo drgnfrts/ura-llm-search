@@ -1,3 +1,9 @@
+---
+title: Redeveloping to a Bungalow
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Redeveloping
+date: : 25 October 2021
+---
+
 # Redeveloping to a Bungalow
 
 The illustrations apply to houses within Designated Landed Housing Areas (DLHAs). For proposals outside DLHAs, the left-behind plot must fulfil the minimum plot size requirement of 1,000 sqm.
@@ -49,4 +55,4 @@ B shall not be allowed to redevelop into a semi-detached house and a bungalow be
 
 ![Illustration](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig175_Redevelopment_A_NA.jpg?h=876&w=2580)
 
-The last updated date for this document is: Last updated on: 25 October 2021
+

@@ -1,3 +1,9 @@
+---
+title: Greenery
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Greenery
+date: No date found
+---
+
 # Greenery
 
 ## Sub category

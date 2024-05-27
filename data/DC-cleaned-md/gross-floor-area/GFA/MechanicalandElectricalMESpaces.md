@@ -1,3 +1,9 @@
+---
+title: Mechanical and Electrical (M&E) Spaces
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/MechanicalandElectricalMESpaces
+date: 26 Jul 2023
+---
+
 # Mechanical and Electrical (M&E) Spaces
 
 ## Mechanical and Electrical Floor with Limited Headroom
@@ -82,4 +88,4 @@ various forms, ranging from smaller scale community-based farming
 activity and edible gardens, to larger-scale, highly intensive farming
 activities conducted on a commercial basis.**
 
-### Last updated on 26 Jul 2023
+

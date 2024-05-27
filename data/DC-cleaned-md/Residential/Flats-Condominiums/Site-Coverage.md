@@ -1,3 +1,9 @@
+---
+title: Site Coverage
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Site-Coverage
+date: 5 July 2019
+---
+
 # Site Coverage
 
 ## Site coverage
@@ -16,6 +22,6 @@ The plot of land to be vested in the State as required under the Street Works Ac
 ### Drainage Reserve (DR)
 An area safeguarded for purposes of building or widening a public drain.
 
-### Last updated on 5 July 2019
+
 
 [Example of a Site Coverage Plan for Flats or Condominum Developments](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/SC01_Site_Coverage_Plan_Flats.jpg?h=100%25&w=100%25)

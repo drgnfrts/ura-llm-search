@@ -1,3 +1,9 @@
+---
+title: Building Height
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Building-Height
+date: 15 March 2022
+---
+
 # Building Height
 
 The overall building height for flats and condominiums shall be determined by the number of storeys and the prescribed floor-to-floor height.
@@ -55,4 +61,4 @@ In addition to (a) – (c), any additional building height will be subject to ev
 
 In addition to the number of storeys control, the individual storeys shall be guided by the prescribed floor-to-floor height as shown in the table below.
 
-*Last updated on 15 March 2022*
+

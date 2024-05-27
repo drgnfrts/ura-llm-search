@@ -1,3 +1,9 @@
+---
+title: Urban Design Requirements
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/UD
+date: 22 October 2019
+---
+
 # Urban Design Requirements
 
 Guidelines on Urban Design (UD) intentions are to preserve and enhance the urban character of the different planning areas. They help to ensure that developments integrate well with their surrounding urban environment.
@@ -44,4 +50,4 @@ The following uses are not AGUs:
 - Massage establishment
 - LAN gaming centre
 
-*Last updated on 22 October 2019*
+

@@ -1,3 +1,9 @@
+---
+title: Locational Criteria
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Locational-Criteria
+date: No date found
+---
+
 # Locational Criteria
 
 An island-wide map layer showing the [Designated Landed Housing Area Plan](https://www.ura.gov.sg/maps/index.html?service=CTRLPLAN) is available on URA SPACE.

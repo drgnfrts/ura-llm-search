@@ -1,3 +1,9 @@
+---
+title: Ancillary Structures
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/Ancillary-Structures
+date: 5 July 2019
+---
+
 # Ancillary Structures
 
 Ancillary structures are minor structures erected to support the main use of the site. The building setback distance and height control for ancillary structures are shown in the table below.
@@ -39,4 +45,4 @@ Ancillary structures are minor structures erected to support the main use of the
 
 ---
 
-*Last updated on 5 July 2019*
+

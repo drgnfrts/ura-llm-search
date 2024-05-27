@@ -1,3 +1,9 @@
+---
+title: Building Height
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/PW/Building-Height
+date: 4 December 2019
+---
+
 # Building Height
 
 ![Building Height](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/PW01_Building_Height.jpg?h=100%25&w=100%25)
@@ -26,4 +32,4 @@ Within Central Area and within other commercial centres, including party-wall de
 
 The maximum floor-to-floor height of PW developments is 5.0m.
 
-*Last updated on 4 December 2019*
+

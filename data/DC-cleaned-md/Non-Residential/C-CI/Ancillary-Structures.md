@@ -1,3 +1,9 @@
+---
+title: Ancillary Structures
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/Ancillary-Structures
+date: 5 July 2019
+---
+
 # Ancillary Structures
 
 Ancillary structures are minor structures erected to support the main use of the site. The building setback distance and height control for ancillary structures are shown in the table below.
@@ -40,6 +46,6 @@ Ancillary structures are minor structures erected to support the main use of the
 
 Ancillary structures located within the green buffer may be assessed in accordance with NPARKS' guidelines – see [here](https://www.nparks.gov.sg/partner-us/development-plan-submission/guidelines-on-greenery-provision-and-tree-conservation-for-developments).
 
-*Last updated on 5 July 2019* 
+
 
 [Image Source](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/CCI03_Ancillary_Structures.jpg?h=100%25&w=100%25)

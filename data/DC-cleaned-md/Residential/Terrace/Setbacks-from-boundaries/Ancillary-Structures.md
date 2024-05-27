@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Setbacks-from-boundaries/Ancillary-Structures
+date: No date found
+---
+
 # Building Setback from Boundary
 
 <https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/TH02_Setbacks_Terrace_1.jpg?h=100%25&w=100%25>

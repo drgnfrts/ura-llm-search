@@ -1,3 +1,9 @@
+---
+title: Allowable Uses
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/Allowable-Uses
+date: No date found
+---
+
 # Allowable Uses
 
 ## Allowable Predominant Uses

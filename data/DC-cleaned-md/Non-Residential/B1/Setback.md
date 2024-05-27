@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Setback
+date: 23 October 2023
+---
+
 ### Building Setback from Boundary
 
 All industrial developments shall be sufficiently set back from the road and common boundary. The setback distance is measured from the road reserve line or boundary line to the external wall of the building, excluding land to be vested to the State for road and/or drainage purpose.
@@ -42,6 +48,6 @@ The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The
 
 ---
 
-*Last updated on 23 October 2023*
+
 
 **Reference:** [Setback.md](file-p3wcYwzD1Sn4UCoqudUqMWjw)

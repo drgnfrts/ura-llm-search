@@ -1,3 +1,9 @@
+---
+title: Strata Subdivision
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Strata-Subdivision
+date: 15 March 2022
+---
+
 # Strata Subdivision
 
 ## Areas where strata subdivision of the commercial component of commercial and mixed-use developments may not be allowed are as follows:
@@ -20,4 +26,4 @@ limit the number of strata lots within a development to avoid fragmented ownersh
 
 ---
 
-## Last updated on 15 March 2022
+

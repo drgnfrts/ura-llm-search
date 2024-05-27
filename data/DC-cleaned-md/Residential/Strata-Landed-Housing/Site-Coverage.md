@@ -1,3 +1,9 @@
+---
+title: Site Coverage
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/Site-Coverage
+date: 5 July 2019
+---
+
 # Site Coverage
 
 <https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/SL01_Site_Coverage.jpg?h=100%25&w=100%25>
@@ -35,4 +41,4 @@ Of the 45% COS, at least 25% (as a percentage of the site area) shall be set asi
 
 Areas classified as COS shall not be included in the boundary of the individual strata plots. For instance, the 2m planting strips and green buffers that are part of the minimum 45% COS provision shall not contain any Private Enclosed Spaces (PES).
 
-*Last updated on 5 July 2019*
+

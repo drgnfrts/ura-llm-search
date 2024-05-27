@@ -1,3 +1,9 @@
+---
+title: Gross Plot Ratio
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Transport/GPR
+date: 5 July 2019
+---
+
 # Gross Plot Ratio
 
 The allowable Gross Plot Ratio (GPR) is subject to evaluation, taking into consideration the location, site context, topography, traffic situation, impact of the Transport development on the surroundings, and other agencies’ requirements.
@@ -10,4 +16,4 @@ The allowable Gross Plot Ratio (GPR) is subject to evaluation, taking into consi
 
 ---
 
-*Last updated on 5 July 2019*
+

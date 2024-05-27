@@ -1,3 +1,9 @@
+---
+title: Gross Plot Ratio
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Gross-Plot-Ratio
+date: 5 July 2019
+---
+
 # Gross Plot Ratio
 
 The allowable Gross Plot Ratio (GPR) of a commercial development is guided by the GPR specified in the Master Plan (MP). The MP plot ratio is the upper bound as it may not always be achievable because of site limitations like the shape of the plot, site topography or ground conditions, building setbacks, building height, or technical requirements of other authorities that may affect the site.
@@ -14,4 +20,4 @@ The plot of land to be vested in the State as required under the Street Works Ac
 
 ![GPR for sites where vesting is required](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F01_Gross_Plot_Ratio.jpg?h=100%25&w=100%25)
 
-*Last updated on 5 July 2019*
+

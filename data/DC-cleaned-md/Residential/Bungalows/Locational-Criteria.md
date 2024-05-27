@@ -1,3 +1,9 @@
+---
+title: Locational Criteria
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Locational-Criteria
+date: : Nov 2019
+---
+
 # Locational Criteria
 
 An island-wide map layer showing the [Designated Landed Housing Area Plan](https://www.ura.gov.sg/maps/index.html?service=CTRLPLAN) is available on URA SPACE.
@@ -32,7 +38,7 @@ The 39 Good Class Bungalow Areas (GCBA) in Singapore are listed in the table bel
 
 Where there is a street block plan to guide landed housing development, the planning guidelines and requirements stipulated in the street block plan shall apply.
 
-### Last updated on: Nov 2019
+
 
 **URLs to be kept:**
 - [The Inglewood (Bishan Planning Area)](https://www.ura.gov.sg/Corporate/Data/circulars/2018/Nov/dc18-10)

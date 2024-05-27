@@ -1,3 +1,9 @@
+---
+title: Parking
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/Parking
+date: 31 August 2023
+---
+
 # Parking
 
 LTA prescribes the parking provision standards and requirements for motor vehicles and bicycles. The requirements are usually based on the quantum of the gross floor area or the number of units of the development uses.
@@ -24,4 +30,4 @@ New EI developments shall be subject to a process of waiver evaluation by LTA, i
 
 ---
 
-*Last updated on 31 August 2023*
+

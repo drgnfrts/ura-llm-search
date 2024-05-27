@@ -1,3 +1,9 @@
+---
+title: Allowable Uses
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Agriculture/Allowable-uses
+date: No date found
+---
+
 # Allowable Uses
 
 ## To ensure that the uses proposed in an agriculture development conforms to the agriculture zoning of the land, only certain types and quantum of ancillary and non-agriculture uses may be allowed.

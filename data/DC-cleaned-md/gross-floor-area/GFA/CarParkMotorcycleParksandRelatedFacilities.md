@@ -1,3 +1,9 @@
+---
+title: Car Parks, Motorcycle Parks and Related Facilities
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/CarParkMotorcycleParksandRelatedFacilities
+date: 26 Jul 2023
+---
+
 # Car Parks, Motorcycle Parks and Related Facilities
 
 ## Vehicle Parking Exclusion
@@ -76,4 +82,4 @@ Residual areas incapable of accommodating an additional car park lot and corrido
 
 ---
 
-**Last updated on 26 Jul 2023**
+

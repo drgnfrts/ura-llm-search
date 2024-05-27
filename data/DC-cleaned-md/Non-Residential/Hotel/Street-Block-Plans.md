@@ -1,5 +1,13 @@
-# Street Block Plans
-
+---
+title: Street Block Plans
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Street-Block-Plans
+date: 10 September 2020
+---
+
+# Street Block Plans
+
+
+
 Street block plans guide the detailed setback, storey height and building height, for the following locations. Click on the reference links to view the detailed street block plan.
 
 ## Balestier Road Between Thomson Road and Moulmein Road
@@ -23,4 +31,4 @@ Race Course Road / Birch Road / Serangoon Road / Chander Road - [Link](https://w
 ## Upper Circular Road Conservation Area
 Upper Circular Road Conservation Area - [Link](https://www.ura.gov.sg/Corporate/Data/circulars/Archive/2016/jan/dc16-01)
 
-*Last updated on 10 September 2020*
+

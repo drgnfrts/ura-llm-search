@@ -1,3 +1,9 @@
+---
+title: Community Centres or Community Clubs
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/CC
+date: 5 July 2019
+---
+
 # Community Centres or Community Clubs
 
 Community centres or community clubs are developed and managed by the People’s Association (PA). They may be free-standing or independent developments or co-located with other public service facilities like public libraries, neighbourhood police centres.
@@ -16,4 +22,4 @@ Ancillary commercial quantum up to 20% of the total building GFA may be provided
 
 ---
 
-*Last updated on 5 July 2019*
+

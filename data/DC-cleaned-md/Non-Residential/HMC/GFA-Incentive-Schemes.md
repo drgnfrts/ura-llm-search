@@ -1,3 +1,9 @@
+---
+title: Bonus GFA Incentive Schemes
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/GFA-Incentive-Schemes
+date: 7 July 2022
+---
+
 # Bonus GFA Incentive Schemes
 
 The Bonus GFA schemes applicable to Health and Medical Care are:
@@ -40,4 +46,4 @@ Refer to the section on [POPS](https://www.ura.gov.sg/Corporate/Guidelines/Devel
 
 ---
 
-*Last updated on 7 July 2022*
+

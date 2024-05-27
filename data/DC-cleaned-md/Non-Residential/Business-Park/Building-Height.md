@@ -1,3 +1,9 @@
+---
+title: Building Height
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Building-Height
+date: 15 March 2022
+---
+
 # Building Height
 
 ## Overall Building Height
@@ -42,4 +48,4 @@ The additional building height shall not apply to:
 
 In addition to (a) – (c), any additional building height will be subject to evaluation for developments adjacent to conserved buildings or in [urban design areas](https://www.ura.gov.sg/Corporate/Guidelines/Urban-Design) with site-specific height considerations.
 
-*Last updated on 15 March 2022*
+

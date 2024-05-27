@@ -1,3 +1,9 @@
+---
+title: Home for the Aged or Home for the Disabled
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/Home
+date: 5 July 2019
+---
+
 # Home for the Aged or Home for the Disabled
 
 Purpose-built Homes for the Aged or Homes for the Disabled are meant to provide residential accommodation with board and care for the elderly and the disabled respectively.
@@ -37,4 +43,4 @@ Buildings and other ancillary structures (e.g., substations) that are already co
 - Fire-engine hard-standing ground/access and other service areas
 - Voids at ground level overlooking basements
 
-*Last updated on 5 July 2019*
+

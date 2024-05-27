@@ -1,3 +1,9 @@
+---
+title: Covered Communal Ground Gardens
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/CoveredCommunalGroundGardens
+date: 26 Jul 2023
+---
+
 # Covered Communal Ground Gardens
 
 ## Covered Communal Ground Gardens (C2G2) 
@@ -33,4 +39,4 @@ If the column is excessively large (akin to a wall), the shadowed area shall be 
 
 ![Areas Covered by Wall within 45-Degree Line](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-59B-Shadow-area-of-columns-within-45-degree-line_final.jpg)
 
-**Last updated on 26 Jul 2023**
+

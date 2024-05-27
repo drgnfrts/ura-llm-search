@@ -1,3 +1,9 @@
+---
+title: Introduction
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Introduction
+date: 5 July 2019
+---
+
 # Introduction
 
 Hotel developments, regulated under the Hotels Licensing Act, are primarily public accommodation facilities for a commercial purpose. While Hotels are predominantly used as accommodation, other limited supporting commercial uses such as shops, restaurants, and bars may be allowed.
@@ -8,4 +14,4 @@ Backpackers’ hostels, regulated under the Hotels Licensing Act, are also publi
 
 ---
 
-*Last updated on 5 July 2019*
+

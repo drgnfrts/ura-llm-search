@@ -1,3 +1,9 @@
+---
+title: Special and Detailed Control Plans
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/SpecialandDetailedControlPlans
+date: 13 April 2020
+---
+
 # Special and Detailed Control Plans
 
 Special and Detailed Control Plans (SDCP) provide detailed guidelines for specific areas. The SDCPs may be viewed [here](https://www.ura.gov.sg/maps/index.html?service=CTRLPLAN).
@@ -24,4 +30,4 @@ Residential units and common areas may be screened where necessary with blank wa
 
 The parapet wall at the rooftop shall be at least 3m high and access to the rooftop from a public area shall be secured by a lockable door/hatch. The door/hatch may be electronically linked to an alarm system monitored by the building management.
 
-*Last updated on 13 April 2020*
+

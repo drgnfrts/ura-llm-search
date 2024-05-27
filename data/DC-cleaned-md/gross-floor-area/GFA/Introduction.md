@@ -1,3 +1,9 @@
+---
+title: Introduction
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Introduction
+date: 26 Jul 2023
+---
+
 # Introduction
 
 The allowable GPR of a development is guided by the GPR specified in the Master Plan (MP). This GFA handbook explains which area or space of a development is included or excluded from GFA for development control purpose. As a general principle, all (a) covered floor area of a development, (b) uncovered area used for commercial purposes, and (c) strata area (covered or otherwise) of a development are included as GFA, unless otherwise exempted. This is regardless of whether the spaces are accessible or usable. GFA is the total area of covered floor space, including the half thickness of external walls or other building facade elements (e.g. windows, railings, curtain walls), but excluding voids.
@@ -27,7 +33,7 @@ Bonus GFA is allowed over and above the MP GPR subject to a maximum of 10% of th
 
 2. For buildings with party walls, which refer to the shared wall along the common boundary of two separate developments, GFA computation will include the thickness of the party wall that is part of the building.
 
-*Last updated on 26 Jul 2023* 
+
 
 ### Introduction
 

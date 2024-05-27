@@ -1,3 +1,9 @@
+---
+title: Retail Unit Size and Internal Corridor Width
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Retail-Units
+date: 25 February 2021
+---
+
 # Retail Unit Size and Internal Corridor Width
 
 **Retail Unit Size**
@@ -28,4 +34,4 @@ Note: A wider corridor width may be required for corridors with expected heavy p
 
 ---
 
-*Last updated on 25 February 2021*
+

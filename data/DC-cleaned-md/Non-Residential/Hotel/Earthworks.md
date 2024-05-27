@@ -1,3 +1,9 @@
+---
+title: Earthworks, Retaining Walls, and Boundary Walls
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Earthworks
+date: 5 July 2019
+---
+
 # Earthworks, Retaining Walls, and Boundary Walls
 
 ## Earthworks
@@ -35,7 +41,7 @@ If the retaining walls are to meet the MPL requirement stipulated by PUB for dra
 
 ---
 
-*Last updated on 5 July 2019* 
+
 
 References:
 

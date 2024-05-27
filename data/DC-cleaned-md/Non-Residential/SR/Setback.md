@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/SR/Setback
+date: 23 October 2023
+---
+
 # Building Setback from Boundary
 
 All S&R developments shall be sufficiently set back from the road and common boundary. The setback distance is measured from the road reserve line or boundary line to the external wall of the building, excluding land to be vested to the State for road and/or drainage purpose.
@@ -26,6 +32,6 @@ The common boundary setback requirements are shown in the table below:
   - **Within Road Buffer**: Roof eaves allowed, provided it is not within the green buffer
   - **Within Setback from Common Boundaries**: Sun-shading devices & RC ledges (cantilevered) allowed, provided not within the 2.0m planting strip
 
-*Last updated on 23 October 2023*
+
 
 Link to the table images: [Road Buffer Setbacks](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/SR02_Road_Buffer_Setbacks.jpg?h=100%25&w=100%25)

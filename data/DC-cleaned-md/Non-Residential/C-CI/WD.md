@@ -1,3 +1,9 @@
+---
+title: Basic Facilities
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/WD
+date: No date found
+---
+
 # Basic Facilities
 
 Basic amenities such as living quarters, en-suite toilets, and dining areas shall be provided. The design, construction and provision of such facilities shall meet the requirements of the relevant authorities such as NEA, PUB, SCDF and MOM.

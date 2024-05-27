@@ -1,3 +1,9 @@
+---
+title: Developments Involving Waterbodies
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Waterbodies
+date: 5 July 2019
+---
+
 # Developments Involving Waterbodies
 
 To maintain the integrity and aesthetics of the waterfront areas so that the public can have free and unrestricted access to enjoy these spaces, developments at major waterbodies shall observe the design and development application submission guidelines below.
@@ -53,4 +59,4 @@ For land use planning and development control purposes, the foreshore and the ar
 2. The high water mark of the Spring Tide; the top of the existing seawall or revertment or river wall (where appropriate) for controlling landward development.
 ![Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C15_Foreshore_C.jpg?h=100%25&w=100%25)
 
-*Last updated on 5 July 2019*
+

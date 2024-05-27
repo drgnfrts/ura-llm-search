@@ -1,3 +1,9 @@
+---
+title: Gross Plot Ratio
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/GPR
+date: 5 July 2019
+---
+
 # Gross Plot Ratio
 
 The allowable Gross Plot Ratio (GPR) of a Business 1 (B1) development is guided by the GPR specified in the Master Plan (MP). This upper bound GPR may not always be achievable because of site limitations like plot size, shape of the plot, site topography or ground conditions, building setbacks, building height or technical requirements of other authorities that may affect the site.
@@ -22,4 +28,4 @@ Refer to section on [Allowable Uses](https://www.ura.gov.sg/Corporate/Guidelines
 
 ![B1-White sites located near Tai Seng MRT Station](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/B1-White-Sites.jpg?h=100%25&w=100%25)
 
-*Last updated on 5 July 2019*
+

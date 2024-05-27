@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Transport/Setback
+date: 23 October 2023
+---
+
 # Building Setback from Boundary
 
 [Link to Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/TP01_Road_Buffer_Setbacks.jpg?h=100%25&w=100%25)
@@ -29,4 +35,4 @@ The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The
 | Roof eaves | Allowed, provided it is not within the green buffer | Allowed, provided it is not within the 2.0m planting strip |
 | Sun-shading devices & RC ledges (cantilevered) | Allowed, provided it is not within the green buffer | Allowed, provided it is not within the 2.0m planting strip |
 
-*Last updated on 23 October 2023*
+

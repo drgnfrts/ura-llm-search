@@ -1,3 +1,9 @@
+---
+title: RC Flat Roofs
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/SR/RC-Flat-Roofs
+date: 22 February 2024
+---
+
 # RC Flat Roofs
 
 RC flat roofs shall remain inaccessible except for maintenance purposes only. Activating the rooftop for uses such as roof terraces and landscaped gardens may be allowed depending on the merits of the proposal. No structures shall be allowed unless otherwise approved by URA. Where allowed, structures (including any safety barriers) shall comply with height controls and the following guidelines.
@@ -17,7 +23,7 @@ The installation of solar panels on RC flat roofs may be considered if they meet
 
 Areas subject to urban design guidelines and Conservation Areas shall require planning permission due to their impact on the roofscape.
 
-*Last updated on 22 February 2024*
+
 
 Images:
 - [Solar Panels on Buildings](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA54_Solar_Panels_Buildings.jpg?h=100%25&w=100%25)

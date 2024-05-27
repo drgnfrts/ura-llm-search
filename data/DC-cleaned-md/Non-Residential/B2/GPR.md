@@ -1,3 +1,9 @@
+---
+title: Gross Plot Ratio
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/GPR
+date: 5 July 2019
+---
+
 # Gross Plot Ratio
 
 The Gross Plot Ratio (GPR) of a B2 development is guided by the GPR specified in the Master Plan (MP). This upper bound GPR may not always be achievable because of site limitations like plot size, shape of the plot, site topography or ground conditions, building setbacks, building height or technical requirements of other authorities that may affect the site.
@@ -24,4 +30,4 @@ Refer to the section on [Allowable Uses](https://www.ura.gov.sg/Corporate/Guidel
 
 ![B2-White site located next to Joo Koon MRT Station](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/B2-White-Site.jpg?h=100%25&w=100%25)
 
-*Last updated on 5 July 2019*
+

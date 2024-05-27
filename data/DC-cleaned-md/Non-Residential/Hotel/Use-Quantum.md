@@ -1,3 +1,9 @@
+---
+title: Use Quantum
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Use-Quantum
+date: 5 July 2019
+---
+
 # Use Quantum
 
 [Link to Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Hotel/H02_Use_Quantum.jpg?h=100%25&w=100%25)
@@ -33,4 +39,4 @@
 
 ---
 
-*Last updated on 5 July 2019*
+

@@ -1,3 +1,9 @@
+---
+title: Plot Size and Width for Bungalows
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Plot-Size-Width
+date: 8 April 2024
+---
+
 # Plot Size and Width for Bungalows
 
 The plot size and width refers to the net dimension and area of the plot excluding the land required to be set aside for vesting to the State e.g. excluding Drainage Reserve (DR) and/or Road Reserve (RR).
@@ -35,4 +41,4 @@ The deficiency in plot width, if allowed, is restricted to one new plot per deve
 
 ---
 
-*Last updated on 8 April 2024*
+

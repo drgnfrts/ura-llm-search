@@ -1,3 +1,9 @@
+---
+title: Building Setback for MSCP
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Building-Setback
+date: 23 October 2023
+---
+
 # Building Setback for MSCP
 
 The building setback for multi-storey car parks (MSCP) is detailed below.
@@ -14,7 +20,7 @@ The building setback for multi-storey car parks (MSCP) is detailed below.
 **Within Road Buffer:** Allowed, provided it is not within the green buffer  
 **Within Setback from Common Boundaries:** Allowed, provided it is not within the 2.0m planting strip
 
-### Last updated on 23 October 2023
+
 
 # Building Setback for Ancillary Structures
 
@@ -98,4 +104,4 @@ Hotel developments in the central area are guided by the urban design requiremen
 
 Ancillary structures are minor structures erected to support the main use of the site. The building setback distance and height control for ancillary structures are shown in the table below.
 
-### Last updated on 23 October 2023
+

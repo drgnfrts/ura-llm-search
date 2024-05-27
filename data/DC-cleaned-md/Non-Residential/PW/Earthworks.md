@@ -1,3 +1,9 @@
+---
+title: Earthworks, Retaining Walls, and Boundary Walls
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/PW/Earthworks
+date: 5 July 2019
+---
+
 # Earthworks, Retaining Walls, and Boundary Walls
 
 ## Earthworks
@@ -36,4 +42,4 @@ The maximum allowable height for boundary walls is 1.8m. High retaining walls sh
 
 If the retaining walls are to meet the MPL requirement stipulated by PUB for drainage purposes, the retaining walls along the site boundaries (except along boundaries that abut foreshore, roads, or waterbodies with drainage reserve equal to or more than 17.5m wide) need not be tiered as these are transitory, pending the redevelopment of the neighbouring land to the same MPL.
 
-*Last updated on 5 July 2019*
+

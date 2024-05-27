@@ -1,3 +1,9 @@
+---
+title: Provision of Open and Covered Public Walkways
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Covered-Walkways
+date: 5 July 2019
+---
+
 # Provision of Open and Covered Public Walkways
 
 All hotel developments shall provide covered walkways along the periphery of the building facing roads and pedestrian routes.
@@ -63,4 +69,4 @@ The platform level of covered walkways shall match the platform level of the ope
 
 **Minimum Platform Level (MPL)**: The minimum 1st storey level to be provided within the site. The MPL is determined by the Public Utilities Board (PUB).
 
-*Last updated on 5 July 2019*
+

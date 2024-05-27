@@ -1,3 +1,9 @@
+---
+title: Envelope Control Guidelines
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/EC
+date: 27 June 2022
+---
+
 # Envelope Control Guidelines
 
 Landed housing shall follow the envelope control guidelines introduced on 11 May 2015. These guidelines specify an allowable building envelope based on storey height and building setbacks. Development must not exceed the permissible building envelope as illustrated above.
@@ -29,4 +35,4 @@ Internal areas below the Minimum Platform Level (MPL) on low-lying sites should 
 
 Basement protrusions above the existing ground level on sloping sites must stay within the permissible Envelope Control building height to ensure compliance【4:3†source】.
 
-*Last updated on 27 June 2022*
+

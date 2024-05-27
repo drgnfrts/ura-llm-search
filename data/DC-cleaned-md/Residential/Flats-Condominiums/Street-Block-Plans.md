@@ -1,3 +1,9 @@
+---
+title: Street Block Plans
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Street-Block-Plans
+date: 23 March 2022
+---
+
 # Street Block Plans
 
 Street block plans guide the detailed setback, storey height and building height, for the following locations. Click on the reference links to view the detailed street block plan.
@@ -67,4 +73,4 @@ Street block plans guide the detailed setback, storey height and building height
 
 ---
 
-*Last updated on 23 March 2022*
+

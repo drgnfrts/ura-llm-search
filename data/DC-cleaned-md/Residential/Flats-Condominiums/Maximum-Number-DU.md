@@ -1,3 +1,9 @@
+---
+title: Guidelines on Dwelling Units (DU) in Non-Landed Residential Developments
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Maximum-Number-DU
+date: 25 January 2023
+---
+
 ### Guidelines on Dwelling Units (DU) in Non-Landed Residential Developments
 
 The following sections detail the formulae to determine the maximum number of dwelling units (DUs) for a development, as well as the required mix of DU sizes to cater to the needs of different buyers (e.g. larger families). These requirements do not apply to HDB flats and Serviced Apartments.
@@ -38,4 +44,4 @@ Each development shall provide:
 - A minimum of 20% of DUs with nett internal area of at least 100 sqm
 - A maximum of 20% of DUs with nett internal area of 50 sqm or less
 
-**Last updated on 25 January 2023**
+

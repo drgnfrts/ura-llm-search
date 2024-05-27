@@ -1,3 +1,9 @@
+---
+title: Locational Criteria
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/Locational-Criteria
+date: No date found
+---
+
 # Locational Criteria
 
 ### Safeguarded Landed Housing Areas

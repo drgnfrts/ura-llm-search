@@ -1,3 +1,9 @@
+---
+title: Ancillary Structures
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/PW/Ancillary-Structures
+date: 5 July 2019
+---
+
 # Ancillary Structures
 
 <https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/PW03_Ancillary_Structures.jpg?h=100%25&w=100%25>
@@ -44,4 +50,4 @@ Ancillary structures located within the green buffer may be assessed in accordan
 
 ---
 
-*Last updated on 5 July 2019*
+

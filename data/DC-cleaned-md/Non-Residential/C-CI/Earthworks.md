@@ -1,3 +1,9 @@
+---
+title: Earthworks, Retaining Walls, and Boundary Walls
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/Earthworks
+date: 5 July 2019
+---
+
 # Earthworks, Retaining Walls, and Boundary Walls
 
 ## Earthworks
@@ -46,4 +52,4 @@ The maximum allowable height for boundary walls is 1.8m. High retaining walls sh
 
 ---
 
-*Last updated on 5 July 2019*
+

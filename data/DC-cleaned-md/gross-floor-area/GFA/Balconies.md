@@ -1,3 +1,9 @@
+---
+title: Balconies
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Balconies
+date: 26 Jul 2023
+---
+
 # Balconies
 
 Balconies are included as GFA.
@@ -18,4 +24,4 @@ Refer to the [Balcony Incentive Scheme (Flats and Condominiums)](https://www.ura
 
 Refer to the [Balcony Incentive Scheme (Hotel)](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/GFA-Incentive-Schemes) for more details.
 
-*Last updated on 26 Jul 2023*
+

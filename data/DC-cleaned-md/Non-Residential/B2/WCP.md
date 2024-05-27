@@ -1,3 +1,9 @@
+---
+title: Walking and Cycling Plan
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/WCP
+date: 5 July 2019
+---
+
 # Walking and Cycling Plan
 
 ## Submission of WCP
@@ -53,4 +59,4 @@ To provide assistance on developing active mobility-related infrastructure in a 
 
 ---
 
-*Last updated on 5 July 2019*
+

@@ -1,3 +1,9 @@
+---
+title: Building Setback from Boundary
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Setbacks-from-boundaries
+date: No date found
+---
+
 # Building Setback from Boundary
 
 *Building Setback for bungalows within GCBA*

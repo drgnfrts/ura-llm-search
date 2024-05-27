@@ -1,3 +1,9 @@
+---
+title: Building Appendages
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Building-Appendages
+date: 20 May 2021
+---
+
 # Building Appendages
 
 All structures shall generally be confined within the envelope. The car porch and patio/terrace area are subject to the setback guidelines shown in the [Building Setbacks](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Setbacks-from-boundaries) section.
@@ -49,4 +55,4 @@ Not to encroach into road buffer or common boundary setback
 - If the plot abuts a GCBA plot, the minimum setback is 3m.
 - These standards are based on Cat 3-5 roads. Setback requirement for other building features not covered under the table shall be assessed on the merits of the proposal.
 
-*Last updated on 20 May 2021*
+

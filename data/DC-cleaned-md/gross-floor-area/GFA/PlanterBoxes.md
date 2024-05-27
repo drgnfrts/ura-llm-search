@@ -1,3 +1,9 @@
+---
+title: Planter Boxes
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/PlanterBoxes
+date: 26 Jul 2023
+---
+
 # Planter Boxes
 
 ## Communal Planter Boxes
@@ -34,4 +40,4 @@ For planter boxes that do not satisfy the abovementioned requirements, the entir
 
 Private planter boxes located within strata units of both residential and non-residential developments are included as GFA.
 
-**Last updated on 26 Jul 2023**
+

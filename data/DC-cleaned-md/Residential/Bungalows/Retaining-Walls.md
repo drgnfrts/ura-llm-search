@@ -1,3 +1,9 @@
+---
+title: Retaining and Boundary Walls
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Retaining-Walls
+date: 5 July 2019
+---
+
 # Retaining and Boundary Walls
 
 ### Height of Retaining and Boundary Walls
@@ -21,4 +27,4 @@ The combined height of the retaining and boundary wall shall not exceed 2.8m, of
 
 ---
 
-**Last updated on 5 July 2019**
+

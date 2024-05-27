@@ -1,3 +1,9 @@
+---
+title: Bonus GFA Incentive Schemes
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/GFA-Incentive-Schemes
+date: 7 July 2022
+---
+
 # Bonus GFA Incentive Schemes
 
 ## Built Environment Transformation Scheme
@@ -45,4 +51,4 @@ Applicants are to comply with BE ITM outcomes for the bonus scheme based on the 
 
 Refer to the section on [POPS](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Privately-OwnedPublicSpacesPOPS).
 
-*Last updated on 7 July 2022*
+
