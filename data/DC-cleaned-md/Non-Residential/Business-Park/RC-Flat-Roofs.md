@@ -35,4 +35,4 @@ Areas subject to urban design guidelines and Conservation Areas shall require pl
 
 
 Citations:
-- **RC-Flat-Roofs.md**【6:0†source】,【6:1†source】,【6:2†source】,【6:3†source】
+- **RC-Flat-Roofs.md**(6:0†source),(6:1†source),(6:2†source),(6:3†source)

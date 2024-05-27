@@ -24,11 +24,11 @@ The commercial uses shall be located on the lower floors, below the residential 
   - **Residential Quantum**: Minimum 60% of the total GFA
   - **Commercial Quantum**: Maximum 40% of the total GFA<sup>3</sup>
 
-- Mixed commercial and residential development on land zoned “Commercial and Residential”
+- Mixed commercial and residential development on land zoned "Commercial and Residential"
   - Residential Quantum: Minimum 60% of the total GFA
   - Commercial Quantum: Maximum 40% of the total GFA<sup>3</sup>
 
-- Mixed commercial and residential development on land zoned “Commercial”
+- Mixed commercial and residential development on land zoned "Commercial"
   - Non-commercial uses will be determined by the Competent Authority upon submission
   - Minimum 60% of the total GFA<sup>2,3</sup>
 

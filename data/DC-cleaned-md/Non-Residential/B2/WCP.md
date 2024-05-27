@@ -53,7 +53,7 @@ The WCP shall consider the safety, convenience, and accessibility of pedestrians
 - Provision of way-finding signage to public transport facilities and amenities for cyclists; and
 - Provision of barrier-free access and routes for children, elderly and the mobility challenged groups.
 
-The detailed guidelines on WCP and submission requirements are summarized in LTA’s Code of Practice “Street Work Proposals Relating to Development Works”.
+The detailed guidelines on WCP and submission requirements are summarized in LTA’s Code of Practice "Street Work Proposals Relating to Development Works".
 
 To provide assistance on developing active mobility-related infrastructure in a holistic manner, a Walking & Cycling Design Guide has been produced as a supplement to the respective agencies’ prevailing COPs, engineering and development standards. The Guide can be downloaded [here](https://www.lta.gov.sg/content/ltaweb/en/walk-cycle-ride/WCP.html).
 

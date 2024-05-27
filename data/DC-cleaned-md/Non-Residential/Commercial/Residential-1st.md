@@ -12,7 +12,7 @@ date: 5 July 2019
 
 ## Floor-to-Floor Height
 
-The floor-to-floor height control for the various uses in the “Residential with Commercial at 1st storey” development is shown in the table below.
+The floor-to-floor height control for the various uses in the "Residential with Commercial at 1st storey" development is shown in the table below.
 
 ### Floor-to-Floor Height
 
@@ -25,7 +25,7 @@ The floor-to-floor height control for the various uses in the “Residential wit
 
 ---
 
-## Pure Residential Developments on land zoned “Residential with Commercial at 1st Storey”
+## Pure Residential Developments on land zoned "Residential with Commercial at 1st Storey"
 
 **Outside Key Routes**
 Proposals for pure residential developments shall be assessed based on the compatibility of the proposal with the surrounding land uses and planning intention.

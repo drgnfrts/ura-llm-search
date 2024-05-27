@@ -16,7 +16,7 @@ These schools are for the orthopaedic impaired or multi-handicaps.
 
 ### Conversions to Special Education Schools
 
-Conversions of properties to special education schools are evaluated depending on merits. Purpose-built special education schools are allowed on land zoned “Educational Institution”.
+Conversions of properties to special education schools are evaluated depending on merits. Purpose-built special education schools are allowed on land zoned "Educational Institution".
 
 All parameters and considerations applicable to other EI developments shall apply to special education schools except for those listed below.
 

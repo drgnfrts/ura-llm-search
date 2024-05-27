@@ -28,6 +28,6 @@ Conservation guidelines shall also apply for landed housing gazetted for conserv
 #### Faber Avenue/ Faber Crescent/ Faber Terrace/Ayer Rajah Expressway (Clementi Planning Area)
 #### Ford Avenue (Bukit Timah Planning Area)
 #### Greenridge Crescent (Bukit Timah Planning Area)
-#### Hillcrest Road / Kismis Avenue (Bukit Timah Planning Area)【4:4†source】
+#### Hillcrest Road / Kismis Avenue (Bukit Timah Planning Area)(4:4†source)
 
 Last updated on: <date>

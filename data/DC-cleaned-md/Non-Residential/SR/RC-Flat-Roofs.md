@@ -56,4 +56,4 @@ Spaces under solar panels that are enclosed or put to commercial use require pla
 
 - **Communal pavilions:** Small-scale, open-sided resting points integrated with lush greenery on rooftops, providing sheltered areas accessible from common spaces.
 
-Citations:【4:0†source】【4:1†source】【4:2†source】【4:3†source】
+Citations:(4:0†source)(4:1†source)(4:2†source)(4:3†source)

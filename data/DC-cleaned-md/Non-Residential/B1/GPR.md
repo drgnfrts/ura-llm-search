@@ -22,7 +22,7 @@ B1 sites located next to MRT stations may be zoned B1-W. The white component is 
 
 For such B1-W sites, a minimum GPR shall be achieved for the permissible B1 uses first. This minimum GPR for B1 uses is indicated in the square brackets on the Master Plan.
 
-For example, in the map below, the sites next to Tai Seng MRT Station are zoned “**3.5 [B-2.5] W**”. A B1-W site would have an overall allowable GPR of 3.5. A minimum GPR of 2.5 must be achieved and used for industrial purposes first before the remaining GPR 1.0 may be unlocked for White uses.
+For example, in the map below, the sites next to Tai Seng MRT Station are zoned "**3.5 [B-2.5] W**". A B1-W site would have an overall allowable GPR of 3.5. A minimum GPR of 2.5 must be achieved and used for industrial purposes first before the remaining GPR 1.0 may be unlocked for White uses.
 
 Refer to section on [Allowable Uses](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Allowable-Uses) for the list of allowable uses within the White component.
 

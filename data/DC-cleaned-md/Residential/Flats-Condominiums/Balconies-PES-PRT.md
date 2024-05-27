@@ -19,7 +19,7 @@ To qualify for the additional GPR only for use as a balcony, the balcony designs
 - **Location**: Balconies shall be located away from M&E areas to safeguard the quality and usability of these spaces.
 - **Openness**: Balconies shall have a continuous perimeter opening of at least 40%.
   - [Balcony Perimeter Opening](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F07_Balcony_Perimeter_Opening.jpg)
-  - *The portions of a balcony that face a parapet wall (e.g., a wall between the balconies of two adjoining units) not exceeding 1.3m in height are considered “open”. The QP shall show the computation of perimeter opening for the proposed balconies on the floor plans.*
+  - *The portions of a balcony that face a parapet wall (e.g., a wall between the balconies of two adjoining units) not exceeding 1.3m in height are considered "open". The QP shall show the computation of perimeter opening for the proposed balconies on the floor plans.*
 - **Size**: Total balcony size for each dwelling unit is capped at 15% of the internal nett unit size. This excludes voids, balconies, air-conditioner ledges, and other external areas.
 - **Width**: Balconies shall have a minimum width of 1.5m as measured from the external building wall. Exceptions to the width requirement may be considered arising from the design merit of the proposal, such as a curved or odd-shaped balcony, but the balcony shall be of a reasonable size.
 - **Access**: Balconies with exclusive access from the kitchen/yard/utility space are treated as service balconies and do not qualify for bonus GFA. Balconies that serve as the only access into a dwelling unit do not qualify for bonus GFA.

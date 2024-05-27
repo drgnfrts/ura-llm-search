@@ -4,9 +4,9 @@ setlocal EnableDelayedExpansion
 
 REM Set source and destination directories - FILL IN BEFORE STARTING
 
-set "source_dir="
+set "source_dir=C:\Users\nicol\intern\ura-llm-search\data\Development-Control"
 
-set "dest_dir="
+set "dest_dir=C:\Users\nicol\intern\ura-llm-search\data\Development-Control-md"
 
 
 
@@ -32,11 +32,11 @@ for /r "%source_dir%" %%G in (*.html) do (
 
     set "relative_path=!relative_path:%source_dir%=!"
 
-    set "docx_file=%dest_dir%!relative_path!!file_name!.docx"
+    set "docx_file=%dest_dir%!relative_path!!file_name!.md"
 
     REM Convert HTML to DOCX and place it in corresponding directory in destination
 
-    pandoc -s -o "!docx_file!" -f html -t docx "%%G"
+    pandoc -s -o "!docx_file!" -f html -t markdown_strict "%%G"
 
 )
 

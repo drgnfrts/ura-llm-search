@@ -43,7 +43,7 @@ All such rear extensions shall comply with the following requirements:
 
 ### Rear Garden Landed Housing
 
-“Rear garden” landed housing allows for a larger garden at the rear, with a narrower setback from the road. This orientation is a reversal of conventional guidelines which require landed housing developments to be setback 7.5m from the road reserve² line. Houses with rear gardens shall be sited within their own enclave, and segregated from the rest of the estate with their own access road.
+"Rear garden" landed housing allows for a larger garden at the rear, with a narrower setback from the road. This orientation is a reversal of conventional guidelines which require landed housing developments to be setback 7.5m from the road reserve² line. Houses with rear gardens shall be sited within their own enclave, and segregated from the rest of the estate with their own access road.
 
 Rear garden landed housing may be allowed within new landed housing enclaves that are designated for such a layout.
 

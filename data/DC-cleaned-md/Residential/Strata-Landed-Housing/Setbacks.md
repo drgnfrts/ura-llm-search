@@ -56,7 +56,7 @@ A wider setback shall be required for 3-storey strata landed housing sharing a c
 - **Meter Compartment**: Subject to evaluation If these are located within the green buffer or tree planting strip: 1.8m
 - **Bin Point**
 - **Guardhouse**: If this is located within the green buffer or tree planting strip: 2.6m
-- **Generator Set**: Subject to evaluation Adequate setback may have to be provided to minimize glare and noise disturbance to adjoining developments【4:0†source】.
+- **Generator Set**: Subject to evaluation Adequate setback may have to be provided to minimize glare and noise disturbance to adjoining developments(4:0†source).
 
 ### Setback of Strata Landed Housing from Common Boundaries
 
@@ -85,4 +85,4 @@ A wider setback shall be required for 3-storey strata landed housing sharing a c
 </tbody>
 </table>
 
-*Roof terrace(s), if proposed, shall be oriented to face away from the GCBA【4:1†source】.
+*Roof terrace(s), if proposed, shall be oriented to face away from the GCBA(4:1†source).

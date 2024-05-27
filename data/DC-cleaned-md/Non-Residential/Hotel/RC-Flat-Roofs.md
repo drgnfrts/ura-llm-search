@@ -41,4 +41,4 @@ Areas subject to urban design guidelines and Conservation Areas shall require pl
 
 
 **References:**
-- [Solar Panel Guidelines Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA54_Solar_Panels_Buildings.jpg?h=100%25&w=100%25)【4:0†source】
+- [Solar Panel Guidelines Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA54_Solar_Panels_Buildings.jpg?h=100%25&w=100%25)(4:0†source)

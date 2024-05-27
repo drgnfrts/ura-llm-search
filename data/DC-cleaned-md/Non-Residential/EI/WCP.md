@@ -106,7 +106,7 @@ The WCP shall consider the safety, convenience, and accessibility of pedestrians
 
 
 
-The detailed guidelines on WCP and submission requirements are summarized in LTA’s Code of Practice “Street Work Proposals Relating to Development Works” via [LTA's website](https://www.lta.gov.sg/content/ltagov/en.html).
+The detailed guidelines on WCP and submission requirements are summarized in LTA’s Code of Practice "Street Work Proposals Relating to Development Works" via [LTA's website](https://www.lta.gov.sg/content/ltagov/en.html).
 
 
 

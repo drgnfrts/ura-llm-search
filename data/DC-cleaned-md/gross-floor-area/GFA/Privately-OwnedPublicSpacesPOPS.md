@@ -74,6 +74,6 @@ As per current practice, all additional GFA granted under the bonus GFA incentiv
 
 The additional GFA granted under this scheme will not be transferable for other uses elsewhere in the development.
 
-Refer to Circular No: URA/PB/2009/03-DCG dated 29 April 2009 – Framework for Managing Bonus Gross Floor Area Incentives【4:1†source】
+Refer to Circular No: URA/PB/2009/03-DCG dated 29 April 2009 – Framework for Managing Bonus Gross Floor Area Incentives(4:1†source)
 
 

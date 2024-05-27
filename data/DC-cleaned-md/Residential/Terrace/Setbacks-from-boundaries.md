@@ -37,7 +37,7 @@ The 1<sup>st</sup> storey rear extension of terrace houses may be allowed to abu
 
 ## Rear Garden Landed Housing
 
-“Rear garden” landed housing allows for a larger garden at the rear, with a narrower setback from the road. This orientation is a reversal of conventional guidelines which require landed housing developments to be setback 7.5m from the road reserve<sup>2</sup> line. Houses with rear gardens shall be sited within their own enclave, and segregated from the rest of the estate with their own access road.
+"Rear garden" landed housing allows for a larger garden at the rear, with a narrower setback from the road. This orientation is a reversal of conventional guidelines which require landed housing developments to be setback 7.5m from the road reserve<sup>2</sup> line. Houses with rear gardens shall be sited within their own enclave, and segregated from the rest of the estate with their own access road.
 
 Rear garden landed housing may be allowed within new landed housing enclaves that are designated for such a layout.
 

@@ -6,7 +6,7 @@ date: 06 Nov 2020
 
 # Introduction
 
-Civic and Community Institutions comprise developments for civic, community, cultural, association/clan, or other similar purposes on land zoned “Civic & Community Institution” (C&CI) and “Residential/Institution” in the Master Plan.
+Civic and Community Institutions comprise developments for civic, community, cultural, association/clan, or other similar purposes on land zoned "Civic & Community Institution" (C&CI) and "Residential/Institution" in the Master Plan.
 
 Examples of C&CI developments include:
 

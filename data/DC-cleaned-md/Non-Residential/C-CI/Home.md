@@ -10,7 +10,7 @@ Purpose-built Homes for the Aged or Homes for the Disabled are meant to provide 
 
 Homes for the Aged are licensed by the Ministry of Social and Family Development.
 
-Free-standing or independent Homes for the Aged/Disabled are typically zoned “Civic and Community Institution” or “Residential/Institution” in the Master Plan. They may be allowed at the void decks of public housing blocks as facilities ancillary to the residential use.
+Free-standing or independent Homes for the Aged/Disabled are typically zoned "Civic and Community Institution" or "Residential/Institution" in the Master Plan. They may be allowed at the void decks of public housing blocks as facilities ancillary to the residential use.
 
 Conversion of properties to Homes for the Aged or Disabled and the actual allowable building form (i.e., stand-alone or party-wall) will be assessed taking into account the site location, site context and detailed development guidelines in the prevailing street block plans, if any.
 

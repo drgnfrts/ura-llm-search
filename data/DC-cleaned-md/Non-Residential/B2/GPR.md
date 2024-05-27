@@ -24,7 +24,7 @@ B2 sites located next to MRT stations may be zoned B2-W. The white component is 
 
 For such B2-W sites, a minimum GPR shall be achieved for the permissible B2 uses first. This minimum GPR for B2 uses is indicated in the square brackets on the Master Plan.
 
-For example, in the map below, the site next to Joo Koon MRT Station is zoned “**2.5 \[B-2.0\] W**”. A B2-W site would have an overall allowable GPR of 2.5. A minimum GPR of 2.0 must be achieved and used for industrial purposes before the remaining GPR 0.5 may be unlocked for White uses.
+For example, in the map below, the site next to Joo Koon MRT Station is zoned "**2.5 \[B-2.0\] W**". A B2-W site would have an overall allowable GPR of 2.5. A minimum GPR of 2.0 must be achieved and used for industrial purposes before the remaining GPR 0.5 may be unlocked for White uses.
 
 Refer to the section on [Allowable Uses](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/Allowable-Uses) for the list of allowable uses within the White component.
 
