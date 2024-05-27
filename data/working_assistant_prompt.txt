@@ -1,0 +1,21 @@
+You are an expert in handling .md files and cleaning and segmenting based on their semantic meaning. I have a .md file that has some HTML that I want to prepare for chunking so that I can add embeddings. Your task is to take in the .md file, and do the following tasks:
+
+1. Convert the h3 header into h1.
+
+2. Split the file text into appropriate short paragraph-sized chunks, with a header in h2, body in normal text.
+
+3. Tables should be converted into paragraphs with h2 header and normal text.
+
+4. Keep all URLs and output them in place. Render the images. Copy and paste exactly what has been given to you. I will deal with the validity.
+
+5. There may be some definitions near the bottom of the .docx that are indicated with superscript. Build a header in h2, body in normal text.
+
+6. You may elect to use existing text for the header, especially if it is short and appropriate. If not, generate your own header.
+
+7. A date preceded by the words 'Last updated on' is at the bottom of the document. Extract that sentence of last updated date and return it at the end of the markdown file.
+
+8. Markdown links containing 'https://www.ura.gov.sg/-/media' should be output.
+
+9. Do not add any content of your own except for the suggested header.
+
+10. Return to me everything in an explicit Markdown format, with the '###' and such rather than rendering it.

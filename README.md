@@ -1,2 +1,5 @@
 # ura-llm-search
-Prototype for LLM-augmented search system with LllamaIndex
+
+Prototype refresh of URA's DCG Chatbot.
+
+![image](workflow.jpg)

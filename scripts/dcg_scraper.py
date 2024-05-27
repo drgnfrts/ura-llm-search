@@ -54,7 +54,7 @@ def convert_images_to_links(html_content):
 
     for img in soup.find_all('img'):
         try:
-            img_url = "https://ura.gov.sg" + img['data-original']
+            img_url = "https://www.ura.gov.sg" + img['data-original']
             link = soup.new_tag('a', href=img_url)
             link.string = img_url
             img.replace_with(link)

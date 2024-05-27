@@ -1,0 +1,135 @@
+### Street Block Plans
+
+Street block plans guide the detailed setback, storey height and
+building height, for the following locations. Click on the reference
+links to view the detailed street block plan.
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="background-color: #f2f2f2"><strong>Street Block</strong></td>
+</tr>
+<tr class="even">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Balestier-Road-Between-Thomson-Road-and-Moulmein-Road.pdf"
+target="_blank">Balestier Road Between Thomson Road and Moulmein
+Road</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/2020/Mar/dc20-02"><span
+target="_blank"></span></a><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/2020/Mar/dc20-02"
+target="_blank">Cantonment Road Conservation Area</a></td>
+</tr>
+<tr class="even">
+<td><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/1994/apr/dc94-05"><span
+target="_blank"></span></a><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/1994/apr/dc94-05"
+target="_blank">Devonshire Road</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Emerald-Hill-Road-Saunders-Road.pdf"
+target="_blank">Emerald Hill Road Nos. 87 to 107 and Saunders Road Nos.
+32 to 56 (Even Nos) (Emerald Hill Conservation Area)</a></td>
+</tr>
+<tr class="even">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/GUDG.pdf"
+target="_blank">Geylang Road, Sims Avenue, &amp; Guillemard Road,
+bounded by Sims Way and Paya Lebar Road</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Hillview-Terrace-Area.gif"
+target="_blank">Hillview Terrace</a></td>
+</tr>
+<tr class="even">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Jalan-Ayer.pdf"
+target="_blank">Jalan Ayer Nos. 2 to 12 (even numbers)</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Jalan-Jurong-Kechil.pdf"
+target="_blank">Jalan Jurong Kechil</a></td>
+</tr>
+<tr class="even">
+<td><span></span><a
+href="https://www.ura.gov.sg/Corporate/Guidelines/Circulars/dc15-13"
+target="_blank">Mackenzie Road Nos. 68 to 148 and Bukit Timah Road (Nos.
+73 to 99)</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/Corporate/Guidelines/Circulars/dc96-23"
+target="_blank">Makepeace Road</a></td>
+</tr>
+<tr class="even">
+<td><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/2014/jun/dc14-08"><span
+target="_blank"></span></a><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/2014/jun/dc14-08"
+target="_blank">Mohamed Sultan Road Nos. 65, 69 &amp; 70, Martin Road
+Nos. 20, 22, 38 &amp; 50, Arnasalam Chetty Road No. 11 and Muthuraman
+Chetty Road No. 9</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/2008/dec/dc08-24"><span
+target="_blank"></span></a><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/2008/dec/dc08-24"
+target="_blank">Mount Sophia, Adis Road, Sophia Road, Wilkie Terrrace,
+Wilkie Road, and Upper Wilkie Road</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/2015/dec/dc15-10"
+target="_blank">Mount Sophia Conservation Area</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/2008/jun/dc08-12"
+target="_blank">River Valley Road Nos. 219 to 233 (Odd Nos)</a></td>
+</tr>
+<tr class="even">
+<td><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/2008/dec/dc08-22"
+target="_blank">River Valley Road Nos. 222 to 308 (Even) and Tank Road
+Nos. 1 to 5 (Odd)</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Sembawang-Road.pdf"
+target="_blank">Sembawang Road</a></td>
+</tr>
+<tr class="even">
+<td><span></span><a
+href="https://www.ura.gov.sg/Corporate/Data/circulars/Archive/2016/jan/dc16-01"
+target="_blank">Upper Circular Road Conservation Area</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Upper-Bukit-Timah-Road.pdf"
+target="_blank">Upper Bukit Timah Road</a></td>
+</tr>
+<tr class="even">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Upper-Thomson-Road.gif"
+target="_blank">Upper Thomson Road</a></td>
+</tr>
+<tr class="odd">
+<td><span></span><a
+href="https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Yan-Kit-Road.pdf"
+target="_blank">Yan Kit Road</a></td>
+</tr>
+</tbody>
+</table>
+
+  
+
+------------------------------------------------------------------------
+
+*Last updated on 23 March 2022*
