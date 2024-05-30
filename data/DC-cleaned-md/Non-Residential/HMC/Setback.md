@@ -12,26 +12,24 @@ All HMC developments fronting a public road shall provide a road buffer, the wid
 
 The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The common boundary setback requirements are in Table 2 below. Different setback requirements may apply for sites within the Central Area, which is guided by Urban Design guidelines.
 
-### Road Buffer, Green Buffer
+## Road Buffer, Green Buffer
 
-| Road Category | Road Buffer (inclusive of Green Buffer indicated in brackets) |
-|---|---|
-| Category 1 | 15m (5m) |
-| Category 2 | 7.5m (3m) |
-| Category 3 | 5m (3m) |
-| Category 4 - 5 and slip road | 5m (3m) |
+| Road Category                | Road Buffer (inclusive of Green Buffer indicated in brackets) |
+| ---------------------------- | ------------------------------------------------------------- |
+| Category 1                   | 15m (5m)                                                      |
+| Category 2                   | 7.5m (3m)                                                     |
+| Category 3                   | 5m (3m)                                                       |
+| Category 4 - 5 and slip road | 5m (3m)                                                       |
 
-### Common Boundary Setback & Planting Strip
+## Common Boundary Setback & Planting Strip
 
-| Type of Boundary | Building Setback Requirement |
-|---|---|
+| Type of Boundary                        | Building Setback Requirement               |
+| --------------------------------------- | ------------------------------------------ |
 | Common boundary with other developments | Minimum 4.5m (including 2m planting strip) |
 
-### Setback for Building Appendages
+## Setback for Building Appendages
 
-| Building Feature | Within Road Buffer | Within Setback from Common Boundaries |
-|---|---|---|
-| Roof eaves | Allowed, provided it is not within the green buffer | Allowed, provided it is not within the 2.0m planting strip |
+| Building Feature                               | Within Road Buffer                                  | Within Setback from Common Boundaries                      |
+| ---------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- |
+| Roof eaves                                     | Allowed, provided it is not within the green buffer | Allowed, provided it is not within the 2.0m planting strip |
 | Sun-shading devices & RC ledges (cantilevered) | Allowed, provided it is not within the green buffer | Allowed, provided it is not within the 2.0m planting strip |
-
-

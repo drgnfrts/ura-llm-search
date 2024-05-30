@@ -6,8 +6,7 @@ date: 5 July 2019
 
 # Street Block Plans
 
-## Street Block
+Street block plans guide the detailed setback, storey height and building height, for the following locations. Click on the reference links to view the detailed street block plan.
+
 - [Geylang Road, Sims Avenue, & Guillemard Road, bounded by Sims Way and Paya Lebar Road](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/GUDG.pdf)
 - [Yan Kit Road](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Yan-Kit-Road.pdf)
-
-

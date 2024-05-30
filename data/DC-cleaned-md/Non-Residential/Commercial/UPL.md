@@ -8,8 +8,6 @@ date: 21 November 2022
 
 To improve the overall connectivity network, building owners/developers are encouraged to construct direct subterranean connections from nearby developments to existing and future RTS stations. The UPL shall form part of the public circulation network, designed to be barrier-free, and be directly accessible from common public areas during the operating hours of the RTS.
 
----
-
 ## Use
 
 Activity-generating uses such as shops and eating establishments shall be incorporated along one or both sides of the UPL linking to the RTS station.
@@ -43,7 +41,3 @@ The UPL shall be open during operating hours of the RTS station/normal business 
 
 - Properly annotated plans and sections showing the proposed UPL in relation to the adjoining developments and nearby RTS station shall be submitted for evaluation by URA.
 - Since a UPL will occupy State land, the developer/owner shall obtain SLA’s endorsement for the submitted plans.
-
----
-
-

@@ -13,7 +13,3 @@ Hotel developments located on land zoned Hotel or land zoned for other uses with
 Hotel developments and backpackers' hostels may be considered on land that are not zoned for Hotel use in the Master Plan. Such cases shall be evaluated individually, taking into account the planning intention and compatibility with the surrounding land uses.
 
 Areas where new hotel developments and backpackers' hostels are not allowed can be found [here](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Circulars/2018/Jun/dc18-04/dc18-04-AppA.pdf) (PDF, 12.9 MB).
-
----
-
-

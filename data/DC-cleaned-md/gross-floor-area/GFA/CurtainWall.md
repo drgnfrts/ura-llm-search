@@ -11,7 +11,3 @@ For buildings with curtain walls fixed onto the main structure, the GFA is measu
 [Link to Curtain Wall Section](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-33A-Curtain-Wall.jpg?h=1000&w=1167)
 
 [Link to Curtain Wall Plan View](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-33A-Curtain-Wall-Plan-View.jpg)
-
----
-
-

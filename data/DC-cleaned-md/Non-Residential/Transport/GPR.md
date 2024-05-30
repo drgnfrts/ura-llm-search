@@ -8,12 +8,13 @@ date: 5 July 2019
 
 The allowable Gross Plot Ratio (GPR) is subject to evaluation, taking into consideration the location, site context, topography, traffic situation, impact of the Transport development on the surroundings, and other agencies’ requirements.
 
-**Drainage Reserve (DR)**: An area safeguarded for purposes of building or widening a public drain.
+The area of the land required to be set aside for drainage reserve(1) (DR) and/or road reserve(2) (RR) to be vested in the State may be included in the site area to compute the gross floor area (GFA) for a GPR – see figure below.
 
-**Road Reserve**: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
+GPR for sites where vesting is required
 
 ![GPR for sites where vesting is required](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F01_Gross_Plot_Ratio.jpg?h=100%25&w=100%25)
 
----
+## Definitions and Notes
 
-
+- (1) Drainage Reserve (DR): An area safeguarded for purposes of building or widening a public drain
+- (2) Road Reserve (RR): The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.

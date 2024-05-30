@@ -7,5 +7,3 @@ date: 5 Oct 2020
 # Meter Compartments
 
 Meter compartments incorporated inside gateposts are excluded from GFA.
-
-

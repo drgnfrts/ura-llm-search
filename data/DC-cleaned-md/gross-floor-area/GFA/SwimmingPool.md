@@ -7,5 +7,3 @@ date: 5 Oct 2020
 # Swimming Pool
 
 Covered swimming pool is included as GFA.
-
-

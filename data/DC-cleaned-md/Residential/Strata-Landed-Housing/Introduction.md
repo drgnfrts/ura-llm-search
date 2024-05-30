@@ -6,11 +6,9 @@ date: 5 July 2019
 
 # Introduction
 
-<https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/SL00_Strata_Landed_Typology.jpg?h=100%25&w=100%25>
+Illustration of a Strata Landed Housing Development
 
-**Illustration of a Strata Landed Housing Development**
-
-## Strata Landed Housing Development
+![Illustration of a Strata Landed Housing Development](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/SL00_Strata_Landed_Typology.jpg?h=100%25&w=100%25)
 
 A strata landed housing comprises strata-titled landed housing units occupying a common development site with shared communal facilities and a single vehicular access point.
 
@@ -25,7 +23,4 @@ A strata landed development site may have a mix of bungalows, semi-detached hous
 Strata landed houses may be allowed within a flats development site. *Such hybrid developments are not accorded condominium status*. They are not allowed in designated landed housing areas.
 
 The number of strata landed housing units allowable depends on the type of landed housing forms proposed apart from a minimum communal open space provision requirement. This is to safeguard amenity for strata landed housing residents and maintain compatibility of the strata landed housing development with surrounding landed housing estates.
-
-## Last updated
-
 

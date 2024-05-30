@@ -6,10 +6,4 @@ date: 5 Oct 2020
 
 # Loading and Unloading Platforms
 
-## Raised loading and unloading platforms, which are not on the same level as a driveway, are included as GFA.
-
----
-
-
-
----
+Raised loading and unloading platforms, which are not on the same level as a driveway, are included as GFA.

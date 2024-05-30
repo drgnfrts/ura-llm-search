@@ -6,8 +6,8 @@ date: 5 July 2019
 
 # Minimum Unit Size
 
+Minimum Unit Size
+
+![Minimum Unit Size](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/B104_Minimum_Unit_Size.jpg?h=100%25&w=100%25)
+
 The minimum size of an industrial unit is 150sqm. This is deemed a meaningful space to meet the operational needs of industrial uses.
-
-
-
-[Image Link](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/B104_Minimum_Unit_Size.jpg?h=100%25&w=100%25)

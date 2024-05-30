@@ -7,7 +7,3 @@ date: 5 Oct 2020
 # Guardhouse and Sentry Posts
 
 Guardhouse and sentry posts, regardless of size, are included as GFA.
-
----
-
-

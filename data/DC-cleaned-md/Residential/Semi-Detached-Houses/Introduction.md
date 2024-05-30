@@ -15,7 +15,3 @@ If an adjoining semi-detached house is demolished or redeveloped into a differen
 Semi-detached houses may be built in either areas designated for semi-detached housing or mixed landed housing if the development site area can meet the requisite minimum plot size and plot width.
 
 A semi-detached house shall adhere to the applicable storey height, envelope control guidelines, and building setback requirements under the envelope control guidelines. The permissible Gross Floor Area (GFA) for landed housing is resultant of the allowable building height and envelope.
-
----
-
-

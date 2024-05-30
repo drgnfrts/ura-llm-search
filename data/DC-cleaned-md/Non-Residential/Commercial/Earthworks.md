@@ -16,38 +16,41 @@ Planning permission is required if earthworks involve more than 2,000sqm of land
 
 The guidelines for earthworks are dependent on where the earthworks are carried out.
 
+Location of Allowable Earthworks:
+
 ![Location of Allowable Earthworks](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C07_Earthworks.jpg?h=100%25&w=100%25)
 
-## Earthworks within the building setback area
+### Earthworks within the Building Setback Area
 
-Earthworks may not be allowed within the building setback area, except in the following circumstances:
+Earthworks may not be allowed within the building setback area, except in specific circumstances:
 
 - When the proposed earthworks are to match the existing platform levels of the neighbouring sites;
 - When the sites are on undulating or sloping terrain, with large differences in platform levels within the site, or between the site and the road;
 - When the earthcut is necessary to build a fully submerged basement. The area within the building setback shall be reinstated to the original platform level upon the completion of the basement.
 
-## Earthworks within the build-able area (ie outside the building setback area)
+### Earthworks within the Build-able Area (i.e. outside the Building Setback Area)
 
 Earthworks within the build-able area of more than 1m are subject to evaluation depending on merits. If the earthfill of more than 1m is allowed, the earthfilled area shall not be counted as an additional storey provided the overall aggregate building height complies with the maximum allowable building height measured from the allowable platform level.
 
-## Earthworks within the entire development site
+### Earthworks within the Entire Development Site
 
-Earthfill involving the entire development site may only be considered if the proposed earthworks are required to meet the technical requirements of PUB. Such earthfill may be allowed up to the Minimum Platform Level (MPL).
+Earthfill involving the entire development site may only be considered if the proposed earthworks are required to meet the technical requirements of PUB. Such earthfill may be allowed up to the Minimum Platform Level (MPL)(1).
 
-**Minimum Platform Level (MPL)**: The minimum 1st storey level to be provided within the site. The MPL is determined by the Public Utilities Board (PUB).
+#### Definitions and Notes:
+
+- (1) Minimum Platform Level (MPL): The minimum 1st storey level to be provided within the site. The MPL is determined by the Public Utilities Board (PUB).
 
 ## Retaining & Boundary Walls
 
-![Allowable Height of Retaining and Boundary Walls](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F15_Retaining_Wall_15m.jpg?h=100%25&w=100%25)
+Allowable Height of Retaining and Boundary Walls:
+![Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F15_Retaining_Wall_15m.jpg?h=100%25&w=100%25)
 
-The maximum allowable height for boundary walls is 1.8m. High retaining walls shall be avoided wherever possible, particularly for small in-fill plots. If they have to be built and can be allowed, they shall meet specific height requirements.
+The maximum allowable height for boundary walls is 1.8m.
+
+High retaining walls shall be avoided wherever possible, particularly for small in-fill plots. If they have to be built and can be allowed, they shall meet specific requirements:
 
 - The height shall be less than 1.5m;
 - Retaining walls higher than 1.5m may be considered due to site constraints and the need for extensive excavation;
 - The total visible height of the solid boundary-cum-retaining wall shall not exceed 2.8m, of which the solid boundary wall shall not exceed 1.8m.
 
-If the retaining walls are to meet the MPL requirement stipulated by PUB for drainage purposes, the retaining walls along the site boundaries need not be tiered as those are transitory, pending the redevelopment of the neighbouring land to the same MPL.
-
----
-
-
+If the retaining walls are to meet the MPL requirement stipulated by PUB for drainage purposes, the retaining walls along the site boundaries (except along boundaries that abut foreshore, roads, or waterbodies with drainage reserve equal to or more than 17.5m wide) need not be tiered as these are transitory, pending the redevelopment of the neighbouring land to the same MPL.

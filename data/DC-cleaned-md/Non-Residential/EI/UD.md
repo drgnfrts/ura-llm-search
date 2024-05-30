@@ -12,38 +12,41 @@ Developments in Central Area and Key Growth areas (such as Jurong Gateway, Paya 
 
 Refer to [URA SPACE](https://www.ura.gov.sg/Corporate/Guidelines/Urban-Design/URA-SPACE/UD-URA-SPACE) for the Urban Design Guidelines Plan and designated AGU areas.
 
-## 
-
-Activity Generating Uses (AGUs)
+## Activity Generating Uses (AGUs)
 
 AGUs help to activate and enliven streets; contributing to its vibrancy, providing key basic amenities, and attracting visitor-ship to the precincts. The following situations may require AGUs:
 
-1. Urban Design Areas shown in the Special and Detailed Control Plan (SDCP) Street Block and Urban Design Plan;
-2. Government Land Sale (GLS) sites where AGUs are required as part of the Technical Conditions of Tender;
-3. Sites that undergo redevelopment or major A&A works and where AGUs are required as part of the planning conditions issued for these works;
-4. Other areas as directed and specified by the Competent Authority.
+- a. Urban Design Areas shown in the Special and Detailed Control Plan (SDCP) Street Block and Urban Design Plan;
+- b. Government Land Sale (GLS) sites where AGUs are required as part of the Technical Conditions of Tender;
+- c. Sites that undergo redevelopment or major A&A works and where AGUs are required as part of the planning conditions issued for these works;
+- d. Other areas as directed and specified by the Competent Authority.
 
 AGUs may be required to be provided in the following typical locations:
 
-1. 1st storey of developments fronting key streets, pedestrian malls, through block links, and public spaces;
-2. Alongside underground pedestrian links (UPLs) at the basement levels of the developments;
-3. Alongside elevated pedestrian links (EPLs) at the 2nd storey of the developments.
+- a. 1st storey of developments fronting key streets, pedestrian malls, through block links, and public spaces;
+- b. Alongside underground pedestrian links (UPLs) at the basement levels of the developments;
+- c. Alongside elevated pedestrian links (EPLs) at the 2nd storey of the developments.
 
-The proposed AGUs in the above locations are to be assessed contextually, taking into account the planning intention for the area and potential amenity problems that will impact on the surrounding developments.
+The proposed AGUs in the above locations are to be assessed contextually, taking into account the planning intention for the area and potential amenity problems that will impact on the surrounding developments. Uses not allowed are those that do not directly contribute to street vibrancy and/or can potentially cause amenity problems to neighbours.
 
-The following situations may require AGUs:
+### Example of uses that may be considered as Activity Generating Uses (AGUs) are:
 
-1. Urban Design Areas shown in the Special and Detailed Control Plan (SDCP) Street Block and Urban Design Plan;
-2. Government Land Sale (GLS) sites where AGUs are required as part of the Technical Conditions of Tender;
-3. Sites that undergo redevelopment or major A&A works and where AGUs are required as part of the planning conditions issued for these works;
-4. Other areas as directed and specified by the Competent Authority.
+- Shop
+- Showroom/ galleries 
+- Restaurant
+- Pet shop/pet grooming
+- Banks, adjoining or independent ATM clusters
+- Commercial school
+- Childcare centre/kindergarten
+- Gym/fitness centre
+- Visitor Centre/ museum
+- Hotel/ Backpackers’ hostel
+- Self-service laundry
 
-AGUs may be required to be provided in the following typical locations:
+### The following uses are not AGUs:
 
-1. 1st storey of developments fronting key streets, pedestrian malls, through block links, and public spaces;
-2. Alongside underground pedestrian links (UPLs) at the basement levels of the developments;
-3. Alongside elevated pedestrian links (EPLs) at the 2nd storey of the developments.
-
-The proposed AGUs in the above locations are to be assessed contextually, taking into account the planning intention for the area and potential amenity problems that will impact on the surrounding developments. Uses not allowed are those that do not directly contribute to street vibrancy and/or can potentially cause amenity problems to neighbors.
-
-
+- Office
+- Bar
+- Nightclub
+- Massage establishment
+- LAN gaming centre

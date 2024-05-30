@@ -15,7 +15,3 @@ Commercial developments can be developed on land zoned:
 - Commercial;
 - Mixed Commercial and Residential; or
 - Residential with Commercial at 1st Storey
-
----
-
-

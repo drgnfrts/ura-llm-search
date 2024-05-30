@@ -29,7 +29,3 @@ Intermediate load-bearing floors are included as GFA.
 Covered perforated floors (including areas covered by such perforated floors) are included as GFA regardless of the type of material used for the floor.
 
 ![Covered Perforated Floors](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-03-Perforated-floors_final.jpg?h=451&w=800)
-
----
-
-

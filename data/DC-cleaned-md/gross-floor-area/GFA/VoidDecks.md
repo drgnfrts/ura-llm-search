@@ -7,7 +7,3 @@ date: 5 Oct 2020
 # Void Decks
 
 Void decks are included as GFA.
-
----
-
-

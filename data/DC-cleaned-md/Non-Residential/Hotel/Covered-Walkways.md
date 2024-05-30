@@ -24,18 +24,13 @@ A higher soffit height may be allowed in independent developments provided the w
 
 The minimum width for covered walkways varies depending on the location of the site and proximity to transport nodes. These are subject to urban design guidelines for selected locations with higher footfall eg Central Area, Regional Centres, and Key Growth Areas. For walkways wider than the minimum requirement, GFA exemption may be considered depending on merits of the proposal.
 
-### Covered Walkway Width Requirements
+Covered Walkway Width Requirements
 
-- **Types of Linkages**  
-  - Walkways within the Central Area or 200m of MRT stations/major transport nodes:
-    - Minimum Overall Width: 3.6m  
-    - Minimum Clear Width: 3m
-  - Walkways between 200 – 400m of MRT stations/major transport nodes:
-    - Minimum Overall Width: 3m  
-    - Minimum Clear Width: 2.4m
-  - All other walkways:
-    - Minimum Overall Width: 2.4m  
-    - Minimum Clear Width: 2m
+| Types of Linkages                                                              | Minimum Overall Width | Minimum Clear Width |
+| ------------------------------------------------------------------------------ | --------------------- | ------------------- |
+| Walkways within the Central Area or 200m of MRT stations/major transport nodes | 3.6m                  | 3m                  |
+| Walkways between 200 – 400m of MRT stations/major transport nodes              | 3m                    | 2.4m                |
+| All other walkways                                                             | 2.4m                  | 2m                  |
 
 [Covered Walkways Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C20_Covered_Walkways.jpg?h=100%25&w=100%25)
 
@@ -45,13 +40,7 @@ Covered walkways shall be provided at the periphery of the buildings next to or 
 
 The walkways shall be continuous, providing connections into the interior of the building, open space or open walkway. All ramps leading into the interior of the building shall begin outside the covered walkway.
 
-Covered walkways shall be seamlessly connected to adjoining developments.
-
-# Additional Details for Covered Walkways
-
-The walkways shall be continuous, providing connections into the interior of the building, open space or open walkway. All ramps leading into the interior of the building shall begin outside the covered walkway.
-
-Covered walkways shall be seamlessly connected to adjoining developments. Covered linkways shall be provided between non-party wall developments.
+Covered walkways shall be seamlessly connected to adjoining developments. Covered linkways shall be provided between non-party wall(1) developments.
 
 All level differences within the covered walkways shall be mitigated with ramps and not steps. For covered linkways between developments, steps are only allowed for steep gradient where ramping is not possible. All ramps leading into the interior of the building shall begin outside the covered walkway.
 
@@ -61,12 +50,20 @@ Covered walkways shall be kept free from all obstructions. All building services
 
 The platform level of covered walkways shall match the platform level of the open walkways.
 
-- **For open walkways that are at or to be raised to the Minimum Platform Level**
+- For open walkways that are at or to be raised to the Minimum Platform Level(1)
   ![Open Walkways at or to be raised to the Minimum Platform Level](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C11_Covered_Walkways_MPL_A.jpg?h=100%25&w=100%25)
 
-- **For open walkways that are below the Minimum Platform Level**
+The covered walkways shall be built to the minimum platform level or other level stipulated by PUB so that they match the existing or proposed platform level of the open walkways.
+
+Steps or ramps shall be provided to link to covered walkways in adjacent buildings which are not raised. The steps or ramps shall be levelled when the adjacent buildings are raised.
+
+- For open walkways that are below the Minimum Platform Level
   ![Open Walkways below the Minimum Platform Level](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C12_Covered_Walkways_MPL_B.jpg?h=100%25&w=100%25)
 
-**Minimum Platform Level (MPL)**: The minimum 1st storey level to be provided within the site. The MPL is determined by the Public Utilities Board (PUB).
+The covered walkways may be allowed below the minimum platform level or other level stipulated by PUB so that they match the existing platform level of the open walkways.
 
+The first storey of the building shall be raised to the minimum platform level, with provision of steps or ramps for access.
 
+### Definitions and Notes
+
+- (1) Minimum Platform Level (MPL): The minimum 1st storey level to be provided within the site. The MPL is determined by the Public Utilities Board (PUB).

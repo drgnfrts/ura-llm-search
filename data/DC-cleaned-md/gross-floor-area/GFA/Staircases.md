@@ -41,5 +41,3 @@ For pure industrial/warehouse developments, uncovered external mild steel perfor
 ## Uncovered Staircase to ESS
 
 Uncovered staircase to ESS are excluded from GFA.
-
-

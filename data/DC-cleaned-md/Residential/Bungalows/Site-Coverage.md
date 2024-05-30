@@ -10,18 +10,9 @@ Site coverage is computed based on the footprint of the building and coverage of
 
 [Site Coverage Plan Example for a Detached House](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/SC02_Site_Coverage_Plan_House.jpg?h=100%25&w=100%25)
 
-**Guidelines on Site Coverage for Bungalows**
+Guidelines on Site Coverage for Bungalows
 
-## Location
-Within GCBA
-
-### Site Coverage (Maximum)
-40%
-
-## Location
-Outside GCBA
-
-### Site Coverage (Maximum)
-50%
-
-
+| Location     | Site Coverage (Maximum) |
+| ------------ | ----------------------- |
+| Within GCBA  | 40%                     |
+| Outside GCBA | 50%                     |

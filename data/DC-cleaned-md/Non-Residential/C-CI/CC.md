@@ -8,6 +8,8 @@ date: 5 July 2019
 
 Community centres or community clubs are developed and managed by the People’s Association (PA). They may be free-standing or independent developments or co-located with other public service facilities like public libraries, neighbourhood police centres.
 
+Other private clubs are zoned Sports & Recreation in the Master Plan – see their guidelines under the tab [Sports & Recreation](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/SR).
+
 ### Gross Plot Ratio & Storey Height
 
 The minimum GPR for community centres or community clubs is 1.4.
@@ -19,7 +21,3 @@ The actual number of storeys allowed may vary, depending on the site topography 
 ### Use Quantum
 
 Ancillary commercial quantum up to 20% of the total building GFA may be provided in community centres or community clubs managed by the PA. The actual commercial quantum allowable is subject to planning consideration depending on the location, site condition, site context, impact on the surrounding area and requirements of other government agencies.
-
----
-
-

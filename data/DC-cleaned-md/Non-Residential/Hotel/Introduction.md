@@ -10,8 +10,4 @@ Hotel developments, regulated under the Hotels Licensing Act, are primarily publ
 
 Only the commercial use component within a hotel development may be strata subdivided.
 
-Backpackers’ hostels, regulated under the Hotels Licensing Act, are also public accommodation facilities for a commercial purpose. They are open concept dormitories for boarding and lodging purposes, with a minimum of 6 beds per room. Refer [here](https://www.ura.gov.sg/Corporate/Property/Business/Change-Use-of-Property-for-Business/Assessment-Criteria) for the guidelines and requirements for the conversion of an existing property to a backpackers’ hostel which may be allowed on temporary planning permission.
-
----
-
-
+Backpackers' hostels, regulated under the Hotels Licensing Act, are also public accommodation facilities for a commercial purpose. They are open concept dormitories for boarding and lodging purposes, with a minimum of 6 beds per room. Refer [here](https://www.ura.gov.sg/Corporate/Property/Business/Change-Use-of-Property-for-Business/Assessment-Criteria) for the guidelines and requirements for the conversion of an existing property to a backpackers' hostel which may be allowed on temporary planning permission.

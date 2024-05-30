@@ -11,7 +11,3 @@ Educational Institutions comprise educational facilities like kindergartens, pri
 For planning purposes, dancing schools, computer schools, tuition centres are treated as commercial schools. As such, they are zoned "Commercial" in the Master Plan. Commercial schools and tuition centres are therefore not allowed in EI zone.
 
 The planning parameters and guidelines here are applicable to all EI developments except for special education schools which have different requirements given the nature of the use. The detailed parameters for special schools are under the tab [Special Education Schools](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/Special-Education-Schools).
-
----
-
-

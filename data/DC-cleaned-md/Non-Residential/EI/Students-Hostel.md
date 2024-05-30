@@ -7,6 +7,7 @@ date: 5 July 2019
 # Students’ Hostels
 
 A students’ hostel or dormitory is used for lodging by students unrelated by blood, marriage, adoption or legal guardianship. The premises are considered as students’ hostel if:
+
 - The total number of students staying in the premises exceed 6 students; and
 - The premises is for accommodation facilities for full-time students studying in the local primary schools, secondary schools, junior colleges, and tertiary institutions.
 
@@ -17,6 +18,7 @@ Students’ hostels may either be ancillary to the EI development, for example a
 Students’ hostel developments may be allowed on sites zoned Educational Institution, Commercial/Residential, and Residential with 1st storey Commercial.
 
 Independent students’ hostel developments may also be allowed on sites zoned Residential provided that:
+
 - The site shall not be located in estates safeguarded for landed housing only (e.g., Good Class Bungalow Areas);
 - The site shall be located at the fringe of non-landed residential estates and in street blocks which already have non-residential uses;
 - The site shall be fronting a category 2 or 3 road; and
@@ -29,5 +31,3 @@ Conversion of existing flats to students’ hostel may be either on an en-bloc o
 The students’ hostel shall be located below existing residential floors to minimize potential inconveniences and disturbances to the residents.
 
 All owners shall submit a Letter of Undertaking (LOU) that the students’ hostel will be run by a single operator. For conversions on a per-floor basis, all owners on the floor are to sign the LOU. A fresh LOU shall be submitted for subsequent renewals of the TP.
-
-

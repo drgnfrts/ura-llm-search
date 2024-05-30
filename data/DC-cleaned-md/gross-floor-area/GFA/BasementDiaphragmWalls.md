@@ -7,8 +7,3 @@ date: 05 Oct 2020
 # Basement Diaphragm Walls
 
 Basement diaphragm walls located along the periphery of the basement structure are excluded from GFA.
-
----
-
-
-

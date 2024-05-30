@@ -26,21 +26,19 @@ For the redevelopment of an existing approved Home for the Aged or Disabled to c
 
 Homes for the Aged or Disabled shall provide a minimum 35% communal open space (COS) (based on nett site area) for use as recreational spaces for enjoyment by the occupants. Spaces which qualify as COS are shown below:
 
-### Examples of spaces that qualify as COS
-Recreational facilities that are uncovered and raised no more than 1m above ground level such as:
-- Exercise equipment and structures in fitness areas.
-- Game courts for tennis, basketball etc.
-- Swimming pool; wading pool.
+Examples of spaces that qualify as COS
 
-### Examples of spaces that do not qualify as COS
-Buildings and other ancillary structures (e.g., substations) that are already computed as site coverage.
+- Recreational facilities that are uncovered and raised no more than 1m above ground level such as:
+  - Exercise equipment and structures in fitness areas.
+  - Game courts for tennis, basketball etc.
+  - Swimming pool; wading pool.
+- Structures that form part of landscaping features such as
+  - Art sculptures
+  - Fountains
 
-### Structures that form part of landscaping features such as
-- Art sculptures
-- Fountains
-#### Examples of spaces that do not qualify as COS
+Examples of spaces that do not qualify as COS
+
+- Buildings and other ancillary structures (e.g., substations) that are already computed as site coverage.
 - Driveways and parking lots
 - Fire-engine hard-standing ground/access and other service areas
 - Voids at ground level overlooking basements
-
-

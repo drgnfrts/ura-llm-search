@@ -8,23 +8,20 @@ date: 5 July 2019
 
 Special education schools provide training for the disabled aged 1 – 18 years old. Special education schools may be classified as:
 
-## Ambulatory
-These schools are for the mentally challenged, visually handicapped, and the hearing impaired.
+- Ambulatory: These schools are for the mentally challenged, visually handicapped, and the hearing impaired.
+- Non-Ambulatory: These schools are for the orthopaedic impaired or multi-handicaps.
 
-## Non-ambulatory
-These schools are for the orthopaedic impaired or multi-handicaps.
-
-### Conversions to Special Education Schools
+## Conversions to Special Education Schools
 
 Conversions of properties to special education schools are evaluated depending on merits. Purpose-built special education schools are allowed on land zoned "Educational Institution".
 
 All parameters and considerations applicable to other EI developments shall apply to special education schools except for those listed below.
 
-### Gross Plot Ratio & Building Height
+## Gross Plot Ratio & Building Height
+
+Building Height
 
 ![Building Height](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/E05_Special_Education_Schools.jpg?h=100%25&w=100%25)
-
-**Building Height**
 
 The allowable GPR for special education schools is 0.5 (minimum).
 
@@ -35,7 +32,3 @@ The actual number of storeys allowed may vary, depending on the site topography 
 The allowable floor-to-floor height for special education schools is 5.0m (maximum).
 
 For mixed ambulatory and non-ambulatory school, the non-ambulatory facilities shall be sited on the lower floors to facilitate easier movements for the students.
-
----
-
-

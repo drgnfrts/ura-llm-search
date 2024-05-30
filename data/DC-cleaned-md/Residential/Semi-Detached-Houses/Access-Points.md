@@ -10,6 +10,8 @@ date: 5 July 2019
 
 Only one single vehicular access point shall be allowed per landed housing plot.
 
+Vehicular Access Points
+
 ![Vehicular Access Points](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/SD02_Vehicular_Access.jpg?h=100%25&w=100%25)
 
 The position of vehicular access point for semi-detached houses shall consider roadside planting and kerbside parking space provision.
@@ -21,5 +23,3 @@ The position of vehicular access point for semi-detached houses shall consider r
 ## Entrance to a Landed House
 
 Only one main entrance door for a single residential unit for family dwelling purposes shall be allowed in a landed house.
-
-

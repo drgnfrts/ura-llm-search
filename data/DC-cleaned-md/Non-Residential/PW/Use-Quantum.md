@@ -10,26 +10,21 @@ Minimally, 50% of the total proposed GFA shall be used for praying area only. Th
 
 ## Table 1: Use Quantum Control
 
-**Predominant**|**Ancillary**|||
-:-----:|:-----:|:-----:|:-----:|
-Minimum 50%|Maximum 50%||
--|**Ancillary Non-Religious**|**Ancillary Religious**|**Columbarium**|
--|Maximum 10% of total GFA|Remaining GFA|Maximum 20% of total GFA|
+| Predominant |                                                                 Ancillary                                                                  |
+| :---------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| Minimum 50% | Maximum 50% (Ancillary Non Religious: Maximum 10% of total GFA, Columbarium: Maximum 20% of total GFA, Ancillary Religious: Remaining GFA) |
 
 ## Table 2: Allowable Ancillary Uses
 
-**Ancillary Non-Religious**|**Ancillary Religious**|
-:-----:|:-----:|
-Childcare Centre (CCC)|Religious Classrooms|
-- Up to 500sqm| |
-*(Note: CCCs larger than 300sqm will require ECDA’s endorsement.)*| |
-Kindergarten|Priest/Caretakers’ Rooms|
-- Up to 300sqm only| |
-Conference Room| |
-Library| |
-Meeting Rooms| |
+Ancillary Non-Religious
 
+- Childcare Centre (CCC) up to 500sqm, if larger than 300sqm will require ECDA’s endorsement.
+- Kindergarten up to 300sqm only
+- Conference Room
+- Library
+- Meeting Rooms
 
+Ancillary Religious
 
-### Reference
-- [Use-Quantum.md](file-Ddy7VYICKKzr8lXnQ5cWJJYg)
+- Religious Classrooms
+- Priest/Caretakers’ Rooms
