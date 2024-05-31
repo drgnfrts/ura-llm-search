@@ -52,7 +52,7 @@ All proposed strata areas will be computed as GFA. For example, if an AC ledge s
 
 ![Example of GFA and strata demarcation in AC ledge](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/77-GFA-Example-of-GFA-and-strata-demarcation-in-AC-ledge.jpg?h=500&w=800)
 
-QPs are to clearly reflect both the GFA and strata boundaries on each of the floor plans submitted to URA, and to ensure all proposed strata areas have been duly computed as GFA. Non-provision of strata boundaries may result in a delay in URA’s grant of approval.
+QPs are to clearly reflect both the GFA and strata boundaries on each of the floor plans submitted to URA, and to ensure all proposed strata areas have been duly computed as GFA. Non-provision of strata boundaries may result in a delay in URA's grant of approval.
 
 Developers are strongly encouraged to involve surveyors early in the design process to firm up the proposed strata boundaries. This is because any proposed changes to strata boundaries downstream may affect the resultant GFA of the development. If this results in the proposed GFA exceeding the Master Plan control, URA will require the proposed GFA to be rectified (e.g. via an amendment application) before strata subdivision approval can be granted.
 
@@ -60,7 +60,7 @@ Developers are strongly encouraged to involve surveyors early in the design proc
 
 There are some developments (e.g. mixed-use developments) where spaces intended for public/ communal use are included as part of a larger strata area, for the purpose of demarcating ownership and maintenance responsibilities. For example, covered walkways on the 1<sup>st</sup> storey commercial floor, within a larger commercial/residential development or sky terraces on the upper hotel floor, within a larger hotel/office mixed-use development.
 
-Such spaces can continue to be considered for GFA exemption (notwithstanding their inclusion as strata area), subject to compliance with URA’s prevailing guidelines for GFA exemptions.
+Such spaces can continue to be considered for GFA exemption (notwithstanding their inclusion as strata area), subject to compliance with URA's prevailing guidelines for GFA exemptions.
 
 ## GFA Apportionment
 
@@ -86,7 +86,7 @@ The prescribed use quantum mix in the Master Plan zoning is detailed below:
 - **Business Park – White (X):** (100 – X)% for Business Park, (X)% for White\*
 - **Business 1 – White Y[B1-Z]W:** (Z/Y) x 100% for Business 1, (Y - Z)/Y x 100% for White\*
 
-\*Common areas in White sites with a single use will be apportioned to that proposed use. For White sites with multiple uses, non-attributable common areas will be apportioned based on simple average of the uses. The simple average apportionment of common area GFA on “white use” floors will similarly apply to the White components of Business Park, Business Park-White and Business-White zones.
+\*Common areas in White sites with a single use will be apportioned to that proposed use. For White sites with multiple uses, non-attributable common areas will be apportioned based on simple average of the uses. The simple average apportionment of common area GFA on "white use" floors will similarly apply to the White components of Business Park, Business Park-White and Business-White zones.
 
 The new apportionment rules will be applied on a per floor basis. If a floor is occupied by a single use (e.g. Commercial), any vertical circulation GFA areas like staircases on that floor will be apportioned to Commercial use, though they may also be used by other users (e.g. Residential) above for escape purposes. However, if the floor is occupied by two or more uses<sup>1</sup> for which the staircase GFA on that floor cannot be exclusively attributed, they will be regarded as non-attributable space and apportioned based on weighted average, pegged to the prescribed use quantum in the Master Plan zoning.
 

@@ -1,6 +1,12 @@
-</span># Privately-Owned Public Spaces (POPS)
+---
+title: Privately-Owned Public Spaces (POPS)
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Privately-OwnedPublicSpacesPOPS
+date: 4 Jan 2023
+---
 
-1<sup>st</sup> storey covered public spaces may be excluded from GFA under the Privately-Owned Public Spaces (POPS) scheme if they satisfy the urban design, operational and eligibility requirements below.
+# Privately-Owned Public Spaces (POPS)
+
+1st storey covered public spaces may be excluded from GFA under the Privately-Owned Public Spaces (POPS) scheme if they satisfy the urban design, operational and eligibility requirements below.
 
 ## Urban Design Guidelines
 
@@ -15,7 +21,7 @@ Covered public spaces should have high volume of at least two storeys or an appr
 
 ### Access and Location
 
-The public space should be located at the first storey with a frontage onto a major street or pedestrian thoroughfare. The public space frontage should be open and unobstructed to allow for easy pedestrian access and be highly visible from the adjoining street or pedestrian thoroughfare. The access and circulation within the public space should be barrier-free and comply with BCA’s universal design guidelines.
+The public space should be located at the first storey with a frontage onto a major street or pedestrian thoroughfare. The public space frontage should be open and unobstructed to allow for easy pedestrian access and be highly visible from the adjoining street or pedestrian thoroughfare. The access and circulation within the public space should be barrier-free and comply with BCA's universal design guidelines.
 
 ### Public Seating and Amenities
 
@@ -41,7 +47,7 @@ Sun shadow study should be undertaken to demonstrate that sufficient shade is pr
 An information plaque shall be installed at a visible and fixed location near the main entrance of the public space. The plaque should include the following information:
 
 - Public Open Space logo measuring at least 30 cm by 30 cm;
-- “Open to public 24 hours” statement;
+- "Open to public 24 hours" statement;
 - Public space owner and their contact information.
 - No smoking sign
 

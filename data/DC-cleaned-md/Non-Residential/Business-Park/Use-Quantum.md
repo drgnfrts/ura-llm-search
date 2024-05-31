@@ -90,7 +90,7 @@ E-Business Activities regarded as Industrial Uses
 | Data Farm/Data Centre     | Requires the use of predominantly heavy equipment such as servers to process data. Excludes data processing that can be run on desktop computers or laptops. | Can be located in Business Park, Business 1, and Business 2 developments.           |
 | Internet Service Provider | Provides access to the Internet and other related services such as web hosting, web site building, etc.                                                      | Can be located in Business Park, Business 1, and Business 2 developments.           |
 | Software Development      | Provides software design, customization, and maintenance. Includes software application providers.                                                           | Can be located in Business Park, Business 1, and Business 2 developments.           |
-| Call Centre               | Centralized backend support functions that handle a large volume of telephone services primarily targeted at providing information to meet callers’ needs.   | Can be located in Business Park and Business 1, but not in Business 2 developments. |
+| Call Centre               | Centralized backend support functions that handle a large volume of telephone services primarily targeted at providing information to meet callers' needs.   | Can be located in Business Park and Business 1, but not in Business 2 developments. |
 
 #### Guidelines on Industrial Canteen
 
@@ -103,7 +103,7 @@ These may be approved on Temporary Permission for up to 5 years subject to the f
 
 #### Guidelines on Childcare Centre (CCC)
 
-CCCs within BPs are meant to serve parents working in the development. Proposed CCCs may be considered within BP developments, subject to clearances from National Environment Agency and Early Childhood Development Agency. See NEA’s webpage [here](https://www.nea.gov.sg/our-services/development-control/guidelines-for-building-plan-submission) and ECDA’s webpage [here](https://www.ecda.gov.sg) for more information.
+CCCs within BPs are meant to serve parents working in the development. Proposed CCCs may be considered within BP developments, subject to clearances from National Environment Agency and Early Childhood Development Agency. See NEA's webpage [here](https://www.nea.gov.sg/our-services/development-control/guidelines-for-building-plan-submission) and ECDA's webpage [here](https://www.ecda.gov.sg) for more information.
 
 SLA may assess such CCCs based on Group E Civic and Community Institution rate for the purpose of computing Land Betterment Charge.
 
@@ -114,7 +114,7 @@ Showrooms in BPs are meant primarily for the display of two categories of produc
 - Products that are not typically transacted or exchanged over the counter (e.g., bulky items such as furniture, motor vehicle); and
 - Products that are predominantly delivered and installed off-site (e.g., floor tiles)
 
-Incidental sales of small items or “cash-and-carry” products may be considered only if the main activity of the showroom is for display of the two categories of products listed above.
+Incidental sales of small items or "cash-and-carry" products may be considered only if the main activity of the showroom is for display of the two categories of products listed above.
 
 Showroom proposals will only be considered as part of a Change of Use application, after the building has obtained a Temporary Occupation Permit (TOP) and when prospective end-user or business operator for the showroom space is known.
 

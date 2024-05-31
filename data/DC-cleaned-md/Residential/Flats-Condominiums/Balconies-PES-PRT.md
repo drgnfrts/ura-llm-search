@@ -28,7 +28,7 @@ Balconies shall have a continuous perimeter opening of at least 40%.
 
 _Balcony Perimeter Opening_
 
-The portions of a balcony that face a parapet wall (e.g., a wall between the balconies of two adjoining units) not exceeding 1.3m in height are considered “open”.
+The portions of a balcony that face a parapet wall (e.g., a wall between the balconies of two adjoining units) not exceeding 1.3m in height are considered "open".
 
 The QP shall show the computation of perimeter opening for the proposed balconies on the floor plans.
 
@@ -74,7 +74,7 @@ If sales gallery and/or show unit(s) is/are erected for the development, develop
   - For balconies where the screen is not installed within the balcony of the show unit itself, the notice shall refer to the mock-up balcony screen installed in the other show unit or sales gallery.
   - State that the purchasers shall have the option to have the balcony screen pre-installed in the units and make clear if the purchasers have to bear separate costs for its installation.
 
-Under rule 10(4) of Housing Developer Rules, developers shall explicitly state in the unit floor plan in Form 3 that “_Balconies shall not to be enclosed except with a balcony screen which has been approved and complies with the Competent Authority’s guidelines_”.
+Under rule 10(4) of Housing Developer Rules, developers shall explicitly state in the unit floor plan in Form 3 that "Balconies shall not to be enclosed except with a balcony screen which has been approved and complies with the Competent Authority's guidelines".
 
 Developers shall provide purchasers the option to have the approved screening pre-installed at their balconies. This option shall be offered via a side letter at the point of issuance of the Option to Purchase. This is not applicable for developers who choose to pre-install approved screens for all balconies in the development.
 
@@ -84,7 +84,7 @@ For existing developments without balcony screens, screens may be installed prov
 
 A Private Enclosed Space refers to a semi-outdoor area adjacent to a strata unit. It forms part of the private strata area of units which are sold to homeowners.
 
-All PES in non-landed residential developments shall be counted as GFA under the 7% maximum bonus GFA allowed beyond the Master Plan (MP) stipulated GPR. PES approved before 12 January 2013 may not be counted towards the development’s GFA.
+All PES in non-landed residential developments shall be counted as GFA under the 7% maximum bonus GFA allowed beyond the Master Plan (MP) stipulated GPR. PES approved before 12 January 2013 may not be counted towards the development's GFA.
 
 To qualify for the bonus GFA scheme, PES shall comply with the guidelines to retain a semi-outdoor character. The structures shall comply with the relevant requirements from technical agencies.
 
@@ -92,7 +92,7 @@ To qualify for the bonus GFA scheme, PES shall comply with the guidelines to ret
 
 #### Covers
 
-- Full covers (subject to compliance with SCDF’s requirements) over the entire PES may be allowed provided they comply with development control parameters such as building setback and site coverage. PES covers shall be approved upfront as part of the Development Application process. Developers may propose a single cover design, or a few designs for the homeowners to choose from.
+- Full covers (subject to compliance with SCDF's requirements) over the entire PES may be allowed provided they comply with development control parameters such as building setback and site coverage. PES covers shall be approved upfront as part of the Development Application process. Developers may propose a single cover design, or a few designs for the homeowners to choose from.
 - Developers shall install a 2m wide (minimum) cover from the external wall. Homeowners shall be given the flexibility and choice over the remaining cover for the rest of the PES beyond 2m, as long as it is one of the approved designs and provided they obtain MCST clearance prior to installation. MCSTs may use these pre-approved designs to guide homeowners who wish to extend their cover beyond 2m.
 
 #### Setback
@@ -101,13 +101,13 @@ The PES cover shall be located outside the setback line, as the covers would add
 
 #### PES Fencing
 
-Any PES fencing that defines the extent of the PES shall not exceed 1m in height. This is to ensure the open and semi-outdoor nature of the PES. A 1.8m screening wall may be proposed between PES adjoining each other for privacy purposes. Full height separating walls between adjoining PES may be allowed if they are to meet FSSD’s requirements.
+Any PES fencing that defines the extent of the PES shall not exceed 1m in height. This is to ensure the open and semi-outdoor nature of the PES. A 1.8m screening wall may be proposed between PES adjoining each other for privacy purposes. Full height separating walls between adjoining PES may be allowed if they are to meet FSSD's requirements.
 
 ## Private Roof Terraces (PRT)
 
-A Private Roof Terrace refers to a semi-outdoor area located at the roof level of a strata unit. It forms part of the private strata area of units which are sold to homeowners. To avoid complications at the strata-subdivision stage, these should be clearly annotated as ‘Private Roof Terraces’.
+A Private Roof Terrace refers to a semi-outdoor area located at the roof level of a strata unit. It forms part of the private strata area of units which are sold to homeowners. To avoid complications at the strata-subdivision stage, these should be clearly annotated as ‘Private Roof Terraces'.
 
-All PRT of developments shall be counted as GFA under the 7% maximum bonus GFA allowed beyond the Master Plan (MP) stipulated GPR. PRT approved before 12 January 2013 may not be counted towards the development’s GFA.
+All PRT of developments shall be counted as GFA under the 7% maximum bonus GFA allowed beyond the Master Plan (MP) stipulated GPR. PRT approved before 12 January 2013 may not be counted towards the development's GFA.
 
 To qualify for the bonus GFA scheme, PRT shall comply with the guidelines to retain a semi-outdoor character. The structures shall comply with the relevant requirements from technical agencies.
 
@@ -119,7 +119,7 @@ Private roof terraces may be allowed on the flat roof of a building. Private roo
 
 #### Covers
 
-- Coverings (subject to compliance with SCDF’s requirements) may be allowed on PRT provided the development complies with the applicable storey height controls. Such covers shall be approved upfront as part of the development application process. Developers may propose a single cover design, or a few designs for the homeowners to choose from.
+- Coverings (subject to compliance with SCDF's requirements) may be allowed on PRT provided the development complies with the applicable storey height controls. Such covers shall be approved upfront as part of the development application process. Developers may propose a single cover design, or a few designs for the homeowners to choose from.
 - Installation of the covers is optional. Homeowners may choose from one of the approved designs, should they wish to cover the PRT subsequently. Homeowners shall obtain MCST clearance prior to installation. MCSTs may use the pre-approved designs to guide homeowners who wish to install covers.
 
 #### Height Control
@@ -150,7 +150,7 @@ Bonus GFA for Indoor Recreational Space
 
 If the proposed communal indoor recreation spaces are less than 0.6% of the total GFA of the development or 10sqm (whichever is higher), these spaces shall be counted under the main building GFA instead of bonus GFA.
 
-Examples of communal indoor recreation spaces that may qualify for this scheme include gyms, function rooms, libraries, game rooms and reading rooms. Developers may propose other forms of communal indoor recreation spaces for URA’s evaluation. These spaces shall be retained as common property and kept accessible to residents of the development. They shall only be used for non-commercial purposes.
+Examples of communal indoor recreation spaces that may qualify for this scheme include gyms, function rooms, libraries, game rooms and reading rooms. Developers may propose other forms of communal indoor recreation spaces for URA's evaluation. These spaces shall be retained as common property and kept accessible to residents of the development. They shall only be used for non-commercial purposes.
 
 The indoor recreation space bonus GFA scheme shall apply to all development applications for new erection, amendments to approved developments or additions and alterations (A&A) of existing private non-landed residential developments or mixed-use developments with a residential component.
 

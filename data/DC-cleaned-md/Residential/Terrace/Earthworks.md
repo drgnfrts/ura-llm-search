@@ -41,11 +41,11 @@ The proposed works shall be evaluated in relation to the permissible building en
 
 ## Earthworks in Low-Lying Areas
 
-For low-lying sites that need to meet PUB’s Minimum Platform Level (MPL):
+For low-lying sites that need to meet PUB's Minimum Platform Level (MPL):
 
 - Only the building structures or internal living areas and side/rear setback areas shall be raised to meet the stipulated MPL.
 - The road buffer area of the development site need not be raised to the required MPL. For flood protection purposes, the road buffer area has to be 300mm above the adjacent road level, or not lower than the existing ground level, whichever is higher.
 - Any common retaining-cum-boundary walls or fences shall be designed sensitively, as these may be higher than the existing levels of adjacent houses or land parcels.
-- The following condition shall be annotated on plans: _“The Developer/Owner is fully aware that he shall raise the structures/areas built to lower platform levels, to or above the recommended Minimum Platform Level as and when the adjacent grounds/roads are raised in future and comply with any other conditions deemed necessary by PUB.”_
+- The following condition shall be annotated on plans: "The Developer/Owner is fully aware that he shall raise the structures/areas built to lower platform levels, to or above the recommended Minimum Platform Level as and when the adjacent grounds/roads are raised in future and comply with any other conditions deemed necessary by PUB."
 
 Refer to [Basements](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/EC) section for more information on the treatment of internal areas below the MPL.

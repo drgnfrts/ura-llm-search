@@ -46,7 +46,7 @@ E-Business Activities regarded as Industrial Uses
 | Data Farm/Data Centre     | Requires the use of predominantly heavy equipment such as servers to process data. Excludes data processing that can be run on desktop computers or laptops. | Can be located in Business Park, Business 1, and Business 2 developments.           |
 | Internet Service Provider | Provides access to the Internet and other related services such as web hosting, web site building, etc.                                                      | Can be located in Business Park, Business 1, and Business 2 developments.           |
 | Software Development      | Provides software design, customization, and maintenance. Includes software application providers.                                                           | Can be located in Business Park, Business 1, and Business 2 developments.           |
-| Call Centre               | Centralized backend support functions that handle a large volume of telephone services primarily targeted at providing information to meet callers’ needs.   | Can be located in Business Park and Business 1, but not in Business 2 developments. |
+| Call Centre               | Centralized backend support functions that handle a large volume of telephone services primarily targeted at providing information to meet callers' needs.   | Can be located in Business Park and Business 1, but not in Business 2 developments. |
 
 ### Allowable Ancillary Uses
 
@@ -84,7 +84,7 @@ Showroom in industrial premises are meant primarily for the display of two categ
 - Products that are not typically transacted or exchanged over the counter (eg bulky items such as furniture, motor vehicle).
 - Products that are predominantly delivered and installed off-site (eg floor tiles).
 
-Incidental sales of small items or “cash-and-carry” products may be considered only if the main activity of the showroom is for display of the two categories of products listed above.
+Incidental sales of small items or "cash-and-carry" products may be considered only if the main activity of the showroom is for display of the two categories of products listed above.
 
 Showroom proposals will only be considered as part of a Change of Use application, after the building has obtained a Temporary Occupation Permit (TOP) and when the prospective end-user or business operator for the showroom space is known.
 
@@ -141,35 +141,35 @@ To provide basic amenities to workers in industrial estates located away from co
 
 ### Guidelines on Childcare Centre (CCC) (allowed only in B1 zone)
 
-CCCs within B1 industrial developments are meant to serve parents working in the industrial estate. Proposed CCCs may be considered only within B1 developments, subject to clearances from the National Environment Agency (NEA) and Early Childhood Development Agency (ECDA). CCCs are not permitted within B2 developments. See NEA’s webpage [here](https://www.nea.gov.sg/our-services/development-control/guidelines-for-building-plan-submission) and ECDA’s webpage [here](https://www.ecda.gov.sg/) for more information.
+CCCs within B1 industrial developments are meant to serve parents working in the industrial estate. Proposed CCCs may be considered only within B1 developments, subject to clearances from the National Environment Agency (NEA) and Early Childhood Development Agency (ECDA). CCCs are not permitted within B2 developments. See NEA's webpage [here](https://www.nea.gov.sg/our-services/development-control/guidelines-for-building-plan-submission) and ECDA's webpage [here](https://www.ecda.gov.sg/) for more information.
 
 SLA may assess such CCCs based on Group E Civic and Community Institution rate for the purpose of computing Land Betterment Charge.
 
-### Guidelines on Temporary Workers’ Dormitory
+### Guidelines on Temporary Workers' Dormitory
 
 Workers' dormitory are premises used to house migrant workers who are engaged to carry out industrial or production or construction activities. Dormitories may comprise new extensions to existing buildings or new building blocks within an industrial development or may be converted from existing spaces within an industrial development.
 
-New workers’ dormitories located outside specified areas (refer to Table 1 and 2 below) or renewal of existing dormitories may be considered on Temporary Permission (TP) for up to 5 years subject to compliance with prevailing guidelines and the use not causing disamenities.
+New workers' dormitories located outside specified areas (refer to Table 1 and 2 below) or renewal of existing dormitories may be considered on Temporary Permission (TP) for up to 5 years subject to compliance with prevailing guidelines and the use not causing disamenities.
 
-To provide more temporary housing options for migrant workers while additional purpose-built dormitories are being constructed, URA and technical agencies will now assess applications for (i) new temporary workers’ dormitories and (ii) increase in the number of workers in existing dormitories located within the specified industrial areas (refer to Table 1 below) on individual basis. If supported, the use will be on 3-years TP, and may not be renewed subsequently.
+To provide more temporary housing options for migrant workers while additional purpose-built dormitories are being constructed, URA and technical agencies will now assess applications for (i) new temporary workers' dormitories and (ii) increase in the number of workers in existing dormitories located within the specified industrial areas (refer to Table 1 below) on individual basis. If supported, the use will be on 3-years TP, and may not be renewed subsequently.
 
-Note: The following guidelines are for workers’ dormitories located within industrial developments. Independent workers’ dormitories located separately from the industrial development may be allowed only on land zoned Civic and Community Institution. Click [here](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/WD) for Guidelines for independent workers’ dormitories.
+Note: The following guidelines are for workers' dormitories located within industrial developments. Independent workers' dormitories located separately from the industrial development may be allowed only on land zoned Civic and Community Institution. Click [here](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/WD) for Guidelines for independent workers' dormitories.
 
-#### Types of Temporary Workers’ Dormitories
+#### Types of Temporary Workers' Dormitories
 
 - Ancillary dormitories may house only workers employed by the owner or lessee of the industrial development and workers who work on-site in the subject development.
 - Secondary dormitories may house workers not employed by the owner or lessee of the industrial development as well as workers who work on- and off-site.
 
 #### Location
 
-- All new proposed workers’ dormitories or increase in capacity within industrial developments are assessed on the merits of the case.
+- All new proposed workers' dormitories or increase in capacity within industrial developments are assessed on the merits of the case.
 - New applications located within 13 specified industrial areas (refer to Table 1) will only be considered if the proposals meet prevailing guidelines, and can be supported by existing infrastructure as assessed by technical agencies. Please refer to the circular dated 10 Feb 2023 for more information.
 - Prior clearances from NEA, PUB, SCDF, and LTA shall be obtained before a proposal is submitted to URA for evaluation.
-- New workers’ dormitories shall not fall within NEA and SCDF’s health and safety buffer zones, sub-areas reviewed by PUB where there are existing sewer capacity constraints or specified areas listed in Table 2 below.
-- Workers’ dormitories are not allowed within the Central Area and on land zoned Business Park/Business Park-White.
-- For multi-user industrial developments, new workers’ dormitories shall be located within a separate building within the site. They are not allowed within the same building as other industrial units.
+- New workers' dormitories shall not fall within NEA and SCDF's health and safety buffer zones, sub-areas reviewed by PUB where there are existing sewer capacity constraints or specified areas listed in Table 2 below.
+- Workers' dormitories are not allowed within the Central Area and on land zoned Business Park/Business Park-White.
+- For multi-user industrial developments, new workers' dormitories shall be located within a separate building within the site. They are not allowed within the same building as other industrial units.
 
-Table 1: List of Specified Areas where new temporary workers’ dormitories and increase in number of workers for existing dormitories may be considered
+Table 1: List of Specified Areas where new temporary workers' dormitories and increase in number of workers for existing dormitories may be considered
 
 | No. | Area                     | Plan                                                                                                                    |
 | --- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
@@ -187,7 +187,7 @@ Table 1: List of Specified Areas where new temporary workers’ dormitories and 
 | 12  | Tuas                     | [A12](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/A12---Tuas.pdf)                |
 | 13  | Ubi                      | [A13](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/A13---Ubi.pdf)                 |
 
-Table 2: List of Specified Areas where no new temporary workers’ dormitories and increase in number of workers for existing dormitories are allowed
+Table 2: List of Specified Areas where no new temporary workers' dormitories and increase in number of workers for existing dormitories are allowed
 
 | No. | Area          | Plan                                                                                                              |
 | --- | ------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -197,16 +197,16 @@ Table 2: List of Specified Areas where no new temporary workers’ dormitories a
 
 #### Building Setback
 
-- Workers’ dormitories converted from existing spaces within the industrial development shall comply with existing industrial building setback requirements.
+- Workers' dormitories converted from existing spaces within the industrial development shall comply with existing industrial building setback requirements.
 - New dormitory extensions or blocks shall comply with prevailing road buffer requirements and provide a 3m (minimum) setback along common boundaries.
 
 #### Use Quantum
 
-The use quantum of the temporary workers’ dormitories and other ancillary supporting amenities for the dormitory use shall not exceed 49% of the overall GFA of the development, as stated in the [circular](https://www.ura.gov.sg/Corporate/Data/circulars/2023/Feb/dc23-03) dated 10 Feb 2023.
+The use quantum of the temporary workers' dormitories and other ancillary supporting amenities for the dormitory use shall not exceed 49% of the overall GFA of the development, as stated in the [circular](https://www.ura.gov.sg/Corporate/Data/circulars/2023/Feb/dc23-03) dated 10 Feb 2023.
 
 #### Floor-to-Floor Height
 
-A maximum 3.6m floor-to-floor height control shall apply to new dormitory extensions or blocks on site. There are no height controls for workers’ dormitories converted from existing spaces within the industrial development.
+A maximum 3.6m floor-to-floor height control shall apply to new dormitory extensions or blocks on site. There are no height controls for workers' dormitories converted from existing spaces within the industrial development.
 
 #### Maximum Number of Workers
 
@@ -218,7 +218,7 @@ Living space per resident was set out in MOM-MND-MOH's press release dated 17 Se
 
 To enhance liveability for workers/residents in a dormitory and strengthen resilience against future pandemics, adequate facilities and amenities shall be provided as part of the dormitory development based on the requirements stated in the table below.
 
-Applications for new workers’ dormitory use are to comply with all the requirements (e.g. living space per resident, occupancy per bedroom unit, etc) as stated in the [press release](https://go.gov.sg/improved-dormitory-standards) issued by MOM, MND and MOH dated 17 Sept 2021.
+Applications for new workers' dormitory use are to comply with all the requirements (e.g. living space per resident, occupancy per bedroom unit, etc) as stated in the [press release](https://go.gov.sg/improved-dormitory-standards) issued by MOM, MND and MOH dated 17 Sept 2021.
 
 ##### Living Space Standards
 
@@ -243,7 +243,7 @@ Table 1: Guidelines for Recreational Amenities
 | 500 to 999                                     | 100sqm                                                                 | 250sqm                                                                                                                                                                                                                                                                                                                            |
 | 1000 to 5000                                   | 0.10sqm per worker/resident (minimum of one 100sqm multi-purpose room) | 0.30sqm per worker/resident (minimum of one 240sqm hard court) and 0.15sqm per worker/resident of open grass field (over and above outdoor recreational space and green buffer/planting strip requirements) with at least 1 field of minimum 100sqm. Only recreational spaces shall be counted towards this provision requirement |
 
-Note: Where the site is subject to higher provision standards stipulated under the site’s tender conditions, the higher standards shall apply.
+Note: Where the site is subject to higher provision standards stipulated under the site's tender conditions, the higher standards shall apply.
 
 - Examples of indoor recreational amenities are multi-purpose rooms, gymnasium, reading rooms, TV rooms, and basketball courts. The reasonable sizes of a TV room and a - gymnasium are 24 and 40sqm respectively.
 - Other amenities like outdoor games courts, recreation and socializing areas are strongly encouraged to be provided within the development.
@@ -252,7 +252,7 @@ Note: Where the site is subject to higher provision standards stipulated under t
 
 ##### Commercial Amenities
 
-Commercial amenities such as mini-marts, barber shops, bicycle repair shops, telecommunications, internet shops, remittance shop, postal service shop and ATMs may be allowed within the industrial development to serve workers/residents staying in the dormitories. Refer to the table below for the allowable commercial GFA for workers’ dormitories.
+Commercial amenities such as mini-marts, barber shops, bicycle repair shops, telecommunications, internet shops, remittance shop, postal service shop and ATMs may be allowed within the industrial development to serve workers/residents staying in the dormitories. Refer to the table below for the allowable commercial GFA for workers' dormitories.
 
 Table 2: Guidelines for Commercial Amenities
 
