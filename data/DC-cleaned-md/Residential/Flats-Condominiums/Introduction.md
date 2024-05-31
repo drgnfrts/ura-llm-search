@@ -1,10 +1,10 @@
+
+## Introduction
 ---
 title: Introduction
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Introduction
 date: 12 January 2023
 ---
-
-# Introduction
 
 Flats and condominiums are non-landed residential developments approved for dwelling purpose. Each residential unit shall have a satisfactory layout for residential purpose comprising bedrooms, a living room, a dining room, a kitchen, and toilets.
 

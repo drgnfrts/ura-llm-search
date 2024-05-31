@@ -1,12 +1,12 @@
+
+## Mechanical and Electrical (M&E) Spaces
 ---
 title: Mechanical and Electrical (M&E) Spaces
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/MechanicalandElectricalMESpaces
 date: 26 Jul 2023
 ---
 
-# Mechanical and Electrical (M&E) Spaces
-
-## Mechanical and Electrical Floor with Limited Headroom
+### Mechanical and Electrical Floor with Limited Headroom
 
 M&E floors with headroom of up to 1.8m are excluded from GFA. The height of the M&E floor is measured from the floor to the underside of the upper floor. As suspended or false ceiling is not a floor per se, such ceiling is not considered an upper floor.
 
@@ -14,11 +14,11 @@ For M&E floors with varying headroom (i.e. the height of the headroom varies fro
 
 ![M&E Floor with Limited Headroom](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-40-MnE-floors-with-limited-headroom-v2-01.jpg)
 
-## Mechanical and Electrical Rooms within Basement Car Park
+### Mechanical and Electrical Rooms within Basement Car Park
 
 M&E rooms (including bin centres and substations) within fully sunken common basement carparks are excluded from GFA.
 
-## Mechanical and Electrical Floors for Hotel and Commercial Developments
+### Mechanical and Electrical Floors for Hotel and Commercial Developments
 
 Under the Landscaping for Urban Spaces and High-Rises (LUSH) scheme, activity-generating and sustainability-related uses are encouraged on the rooftop of either new commercial and hotel developments or commercial and hotel developments undergoing major additions and alterations / re-development.
 
@@ -39,15 +39,15 @@ Note: Proposals for activity-generating and sustainability-related uses on the r
 
 ![Transfer of M&E Floor for Hotel and Commercial Developments](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-41-MnE_rooftop-guidelines-v2-01.jpg?h=571&w=1000)
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1) Rooftop urban farms come in various forms, ranging from smaller scale community-based farming activity and edible gardens, to larger-scale, highly intensive farming activities conducted on a commercial basis.
 
-## Mechanical and Electrical Spaces Enclosed by Chain Link Fence on Car Park Floors
+### Mechanical and Electrical Spaces Enclosed by Chain Link Fence on Car Park Floors
 
 M&E spaces enclosed by chain-link fencing or low parapet wall on common car park floors (e.g. above basements) are excluded from GFA.
 
-## Roof Covers for the Screening of Mechanical and Electrical Service Equipment
+### Roof Covers for the Screening of Mechanical and Electrical Service Equipment
 
 Non load bearing roof covers meant to screen off rooftop services (e.g. M&E and other service equipment) may be excluded from GFA.
 

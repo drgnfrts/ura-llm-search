@@ -1,10 +1,10 @@
+
+## Open Courtyards and Air Wells
 ---
 title: Open Courtyards and Air Wells
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/OpenCourtyardsandAirWells
 date: 5 Oct 2020
 ---
-
-# Open Courtyards and Air Wells
 
 Open courtyards and air wells are recognised as existing GFA only for developments that existed before or in 1960. For post-1960 developments, the covering up of such areas are included as GFA.
 

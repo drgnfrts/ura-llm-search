@@ -1,12 +1,12 @@
+
+## Access Points
 ---
 title: Access Points
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Access-Points
 date: 5 July 2019
 ---
 
-# Access Points
-
-## Vehicular Access to Terrace plot
+### Vehicular Access to Terrace plot
 
 Only one single vehicular access point shall be allowed per landed housing plot.
 
@@ -20,6 +20,6 @@ The position of vehicular access point for terrace houses shall consider roadsid
 - Existing vehicular access points already in a paired arrangement today shall not be separated unless there is a separation space of at least 6m.
 - Sites with plot width of more than 10m need not pair up their access point with the adjacent unit, if the full continuous 6m planting verge can be provided within the plot width of the site.
 
-## Entrance to a Landed House
+### Entrance to a Landed House
 
 Only one main entrance door for a single residential unit for family dwelling purposes shall be allowed in a landed house.

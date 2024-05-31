@@ -1,12 +1,12 @@
+
+## Plan Application Process
 ---
 title: Plan Application Process
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Agriculture/App-Pro
 date: 20 September 2019
 ---
 
-# Plan Application Process
-
-## Land Leased or Sold by the State for Agriculture Use
+### Land Leased or Sold by the State for Agriculture Use
 
 Development proposals involving single storey structures not exceeding 12m in height shall be authorised, ie there is no need to submit an application to URA for planning approval. This is provided there is no retail / F&B (i.e. shop, restaurant, showroom use) or visitor centre use; and the structures comply with the minimum building setback / road buffer set out in the planning guidelines for agriculture developments. The proposed works may start after written consent is obtained from the lessor.
 
@@ -14,9 +14,9 @@ For development proposals involving structures that exceed 1-storey or 12m in he
 
 Proposals that do not satisfy the authorisation or lodgment criteria will have to submit a development application with the requisite fees to URA.
 
-### Criteria for the Agriculture Plan Lodgment Scheme
+#### Criteria for the Agriculture Plan Lodgment Scheme
 
-#### List of Lodgment Criteria
+##### List of Lodgment Criteria
 
 1. Land is leased by the State or a statutory body for Agriculture development except for works within the boundary as shown in [Appendix 1](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Plan-Lodgement/Lim-Chu-Kang-Height-Control-Plan.jpg), which will require a Development Application to be submitted.
 2. Proposal is endorsed by lessor for the land (eg Singapore Land Authority, Singapore Food Agency or National Parks Board)
@@ -30,7 +30,7 @@ Proposals that do not satisfy the authorisation or lodgment criteria will have t
 8. There are no unauthorised works on the land
 9. The proposal is submitted by a Qualified Person (QP) who is a registered Architect, Engineer, or surveyor, appointed by the lessee for proposed works
 
-#### Other Requirements
+##### Other Requirements
 
 1. The QP appointed to lodge the proposals is required to comply with the following procedures under the scheme:
    - a. to submit EDA Form for lodgment to URA before Building Plan submission stage together with a lodgment fee of $1,200 (for the new erection of any building), $850 (for additions & alteration works on existing building) or $150 (for change of use of premises).
@@ -42,27 +42,27 @@ Proposals that do not satisfy the authorisation or lodgment criteria will have t
 2. Works declared by the QP in the Lodgment Form which comply with the planning and lodgment requirements are deemed to be authorised and be allowed to submit for building plan approval. The lodgment authorisation letter issued by URA is deemed proof of lodgment.
 3. If any existing structures to be retained and any new works proposed cannot fully comply with the prevailing development control guidelines and other lodgment requirements, these works will have to be submitted as a development application for planning approval.
 
-#### Appendixes
+##### Appendixes
 
 [Appendix 1: Area for which Development Application is Required](https://www.ura.gov.sg/-/media/5A1A40AD00594740AE437AD7C5E82607.ashx?h=1132&w=800)
 
 [Appendix 2: Height Control Plan for Lim Chu Kang](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Plan-Lodgement/Lim-Chu-Kang-Height-Control-Plan.jpg)
 
-## Land Tenanted Out or Granted Temporary Occupation Licence by the State for Agriculture Use
+### Land Tenanted Out or Granted Temporary Occupation Licence by the State for Agriculture Use
 
 Works on land tenanted out or granted Temporary Occupation Licence (TOL) by the State for agriculture use on an interim basis shall be authorised without the need to submit an application to URA for planning approval, provided the proposed works are in accordance with the parameters stipulated in the tenancy agreement and the planning guidelines.
 
 However, a development application shall be submitted to URA for planning consideration, if the proposed works deviate from the planning parameters stipulated in the tenancy agreement.
 
-## Summary of Plan Application Processes for Land Sold, Leased, or Tenanted by the State for Agriculture Use
+### Summary of Plan Application Processes for Land Sold, Leased, or Tenanted by the State for Agriculture Use
 
-### Description
+#### Description
 
 - **Development Application**: QP submits a development application to URA for Written Permission (WP)
 - **Plan Lodgment**: QP lodges plans with URA in compliance with lodgment criteria and obtains instant approval
 - **Authorisation**: No need to apply to URA
 
-### Qualifying Criteria
+#### Qualifying Criteria
 
 - **Development Application**: All other works for agriculture use that cannot qualify for plan lodgment or authorisation.
 - **Plan Lodgment**:
@@ -86,7 +86,7 @@ However, a development application shall be submitted to URA for planning consid
   - The development proposal does not involve a gazetted conservation building or monument, and are not located on sites that are subject to special planning controls (which will be made known in the tender and tenancy conditions). For such cases, URA requires planning applications for all proposed development works to be submitted for approval. Tenants will be guided to make the planning applications to URA when they seek the landlord’s consent for their development works.
   - Breach of any condition shall cause the authorisation to cease. In such situations, the change in use/use of the premises shall cease and development works shall be demolished
 
-### URA Plan Processing Fee
+#### URA Plan Processing Fee
 
 - **Development Application**:
 
@@ -107,17 +107,17 @@ However, a development application shall be submitted to URA for planning consid
 
 - **Authorisation**: NIL
 
-### URA’s Processing Time
+#### URA’s Processing Time
 
 - **Development Application**: Typically 20 working days per application
 - **Plan Lodgment**: Instant approval upon plan lodgment
 - **Authorisation**: NIL
 
-#### Conditions
+##### Conditions
 
 - Endorsement by lessor (eg SLA, SFA, NParks)
 - Full compliance with technical agency requirements (including BCA, FSSD, NEA, PUB, NParks, DSTA and LTA)
 
-### Definitions
+#### Definitions
 
 - (4) Fees for all Outline Applications for New Erection and Additions & Alterations are 50% of the formal application fee. The fee will not be allowed to offset the subsequent formal application fee.

@@ -1,12 +1,12 @@
+
+## Building Length
 ---
 title: Building Length
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Building-Length
 date: 5 July 2019
 ---
 
-# Building Length
-
-## Acceptable Building Height and Length
+### Acceptable Building Height and Length
 
 The chart below illustrates the acceptable building height and building length of flats and condominium developments of at least 8 storeys. The objective is to minimise the creation of wall-like developments which would adversely affect the quality of our built environment. Each residential block shall be guided by the height and length ratio shown under the 'Acceptable Zone':
 
@@ -25,7 +25,7 @@ Where there are multiple building blocks, there shall be a minimum spacing betwe
 - If 2 or more blocks fall within different height bands, the height of the taller block shall be used to determine the minimum building spacing.
 - If 2 or more blocks are unable to meet the minimum building spacing, the blocks shall be treated as a single block.
 
-## Zones Illustrated in the Graph
+### Zones Illustrated in the Graph
 
 - a. Acceptable Zone
 

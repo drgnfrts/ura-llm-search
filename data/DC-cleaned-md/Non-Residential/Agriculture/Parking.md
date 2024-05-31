@@ -1,10 +1,10 @@
+
+## Parking
 ---
 title: Parking
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Agriculture/Parking
 date: 31 August 2023
 ---
-
-# Parking
 
 LTA prescribes the parking provision standards and requirements for motor vehicles and bicycles. The requirements are usually based on the quantum of the gross floor area the development uses.
 

@@ -1,10 +1,10 @@
+
+## Outdoor Refreshment Kiosks
 ---
 title: Outdoor Refreshment Kiosks
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/OutdoorRefreshmentKiosks
 date: 5 Oct 2020
 ---
-
-# Outdoor Refreshment Kiosks
 
 Outdoor refreshment kiosks (ORKs) are included as GFA.
 

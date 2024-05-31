@@ -1,10 +1,10 @@
+
+## Earthworks
 ---
 title: Earthworks
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Earthworks
 date: 5 July 2019
 ---
-
-# Earthworks
 
 Earthworks are defined as any operations or works in, on, or over land which result in substantial modification to the existing ground terrain, land form, or slope. These include excavation, formation of a new slope or embankment, and cut and fill operations.
 
@@ -12,11 +12,11 @@ Earthworks involving earthcut or earthfill shall be minimised to avoid excessive
 
 ![Allowable Earthworks](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/LHD08_Earthworks_Allowable_Earth_Cut.jpg?h=100%25&w=100%25)
 
-## Earthworks for the entire development site
+### Earthworks for the entire development site
 
 Earthworks to raise the existing platform level of the entire development site are generally not allowed. This is to avoid creating new retaining walls.
 
-## Earthworks within the building setback area
+### Earthworks within the building setback area
 
 Earthworks are generally not allowed within the road buffer/building setbacks. Any proposed earthworks shall be assessed based on site context. Where allowed, they shall not exceed 1m.
 
@@ -31,11 +31,11 @@ Earthworks may also be considered to:
 
 - (1): Minimum Platform Level (MPL): The minimum 1st storey level to be provided within the site. The MPL is determined by the Public Utilities Board (PUB).
 
-## Earthworks within the buildable area
+### Earthworks within the buildable area
 
 The proposed works shall be evaluated in relation to the permissible building envelope under the [Envelope Control guidelines](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/EC).
 
-## Earthworks in low-lying areas
+### Earthworks in low-lying areas
 
 For low-lying sites that need to meet PUB’s minimum platform level (MPL):
 

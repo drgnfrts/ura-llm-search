@@ -1,10 +1,10 @@
+
+## Introduction
 ---
 title: Introduction
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Introduction
 date: 5 July 2019
 ---
-
-# Introduction
 
 Business Parks (BP) are for businesses engaged in high-technology, research and development (R&D), high value-added and knowledge intensive activities. BPs have the following distinguishing features:
 

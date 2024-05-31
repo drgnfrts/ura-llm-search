@@ -1,10 +1,10 @@
+
+## Gross Plot Ratio
 ---
 title: Gross Plot Ratio
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Gross-Plot-Ratio
 date: 5 July 2019
 ---
-
-# Gross Plot Ratio
 
 The allowable Gross Plot Ratio (GPR) of a commercial development is guided by the GPR specified in the Master Plan (MP). The MP plot ratio is the upper bound as it may not always be achievable because of site limitations like the shape of the plot, site topography or ground conditions, building setbacks, building height, or technical requirements of other authorities that may affect the site.
 
@@ -12,7 +12,7 @@ If the GPR is not specified in the Master Plan, the development potential would 
 
 The area of the land required to be set aside for Drainage Reserve and/or Road Reserve to be vested in the State may be included in the site area to compute the gross floor area (GFA) for a GPR – see figure below.
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1) **Drainage Reserve (DR)**: An area safeguarded for purposes of building or widening a public drain
 

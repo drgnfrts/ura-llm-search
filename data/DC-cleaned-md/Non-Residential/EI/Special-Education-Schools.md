@@ -1,23 +1,23 @@
+
+## Special Education Schools
 ---
 title: Special Education Schools
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/Special-Education-Schools
 date: 5 July 2019
 ---
 
-# Special Education Schools
-
 Special education schools provide training for the disabled aged 1 – 18 years old. Special education schools may be classified as:
 
 - Ambulatory: These schools are for the mentally challenged, visually handicapped, and the hearing impaired.
 - Non-Ambulatory: These schools are for the orthopaedic impaired or multi-handicaps.
 
-## Conversions to Special Education Schools
+### Conversions to Special Education Schools
 
 Conversions of properties to special education schools are evaluated depending on merits. Purpose-built special education schools are allowed on land zoned "Educational Institution".
 
 All parameters and considerations applicable to other EI developments shall apply to special education schools except for those listed below.
 
-## Gross Plot Ratio & Building Height
+### Gross Plot Ratio & Building Height
 
 Building Height
 

@@ -1,10 +1,10 @@
+
+## Letter Boxes
 ---
 title: Letter Boxes
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/LetterBoxes
 date: 26th Jul 2023
 ---
-
-# Letter Boxes
 
 Letter boxes located within car park are excluded from GFA except when they form an enclosed area. The enclosed area, including the letter boxes will be included as GFA.
 

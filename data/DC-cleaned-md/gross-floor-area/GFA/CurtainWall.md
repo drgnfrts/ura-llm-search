@@ -1,10 +1,10 @@
+
+## Curtain Wall
 ---
 title: Curtain Wall
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/CurtainWall
 date: 8 Apr 2024
 ---
-
-# Curtain Wall
 
 For buildings with curtain walls fixed onto the main structure, the GFA is measured up to the middle of the outermost vertical facade element (e.g. the glass panel).
 

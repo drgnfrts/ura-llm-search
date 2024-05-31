@@ -1,10 +1,10 @@
+
+## Introduction
 ---
 title: Introduction
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Introduction
 date: 5 July 2019
 ---
-
-# Introduction
 
 Industrial developments comprise factories, warehouses, telecommunication and utility buildings. Depending on the nature of their activities, clean and light industries are allowed in Business 1 (B1) zone. General and special industries are to be located in Business 2 (B2) zone.
 

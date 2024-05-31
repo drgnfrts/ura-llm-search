@@ -1,10 +1,10 @@
+
+## Building Height & Aggregate Building Height
 ---
 title: Building Height & Aggregate Building Height
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Building-Height
 date: 15 March 2022
 ---
-
-# Building Height & Aggregate Building Height
 
 Building Height
 
@@ -12,7 +12,7 @@ Building Height
 
 The overall building height for hotel developments are determined by the number of storeys and the prescribed floor-to-floor height.
 
-## Number of Storeys
+### Number of Storeys
 
 The number of storeys for hotel developments is guided by the [building height plan](https://www.ura.gov.sg/maps/?service=BH).
 
@@ -20,19 +20,19 @@ If the storey height is not specified in the building height plan, the number of
 
 Basement storeys that protrude more than 1.0m above ground level on any side shall be counted as a storey.
 
-## Floor-to-Floor Height for Hotel Developments
+### Floor-to-Floor Height for Hotel Developments
 
 The maximum floor-to-floor height for hotel developments is 5m, including the mezzanine floor.
 
 Variations in floor-to-floor height are subject to evaluation depending on the use and location of the floor. If permitted, the proposed building height shall not exceed the maximum building height control computed based on the permitted number of storeys.
 
-## Overall Building Height Control
+### Overall Building Height Control
 
 Unless otherwise stated, the overall building height of hotel developments is subject to compliance with the technical height controls of the relevant agencies such as Civil Aviation Authority of Singapore (CAAS) and the Defence Science and Technology Agency (DSTA).
 
 Building height is based on Singapore Height Datum (SHD).
 
-## Additional Height for Predominant Sky Terrace Storey
+### Additional Height for Predominant Sky Terrace Storey
 
 Additional Height for Predominant Sky Terrace Storeys
 

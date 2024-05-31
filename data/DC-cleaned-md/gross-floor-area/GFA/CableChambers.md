@@ -1,12 +1,12 @@
+
+## Cable Chambers
 ---
 title: Cable Chambers
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/CableChambers
 date: 26 Jul 2023
 ---
 
-# Cable Chambers
-
-## Cable Chambers Integrated with the Main Building
+### Cable Chambers Integrated with the Main Building
 
 Cable chambers integrated within the main building are excluded from GFA if it does not exceed 2.5m in height<sup>1</sup>.
 
@@ -14,7 +14,7 @@ Cable chambers integrated within the main building are excluded from GFA if it d
 
 <sup>1</sup> The structural beams shall also be included in the height computation.
 
-## Standalone Cable Chambers
+### Standalone Cable Chambers
 
 Standalone cable chambers that fulfil either criteria below are excluded from GFA:
 

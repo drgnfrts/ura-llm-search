@@ -1,10 +1,10 @@
+
+## Envelope Control Guidelines
 ---
 title: Envelope Control Guidelines
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/EC
 date: 27 June 2022
 ---
-
-# Envelope Control Guidelines
 
 Envelope Control Guidelines
 
@@ -16,7 +16,7 @@ For existing landed housing approved under previous conventional landed housing 
 
 Where the existing building already exceeds the permissible building envelope, the new Additions and Alterations shall not further increase the building bulk. URA will assess such applications on the merits of the proposal.
 
-## Building Height
+### Building Height
 
 Under the envelope control guidelines, the overall building height is based on the allowable number of storeys and the floor-to-floor height in metres. The figures below show the building envelope and the relationship between storey height and allowable building height in metres.
 
@@ -38,7 +38,7 @@ Under the envelope control guidelines, the overall building height is based on t
   - Urban design height controls (available at [URA SPACE](https://www.ura.gov.sg/maps/?service=STB))
   - (@) The absolute technical height (Based on Singapore Height Datum [SHD]) shall take precedence if it is stricter than any of the other height controls.
 
-## Mezzanine Floors
+### Mezzanine Floors
 
 Mezzanine floors are no longer required to be kept to below 50% of a typical floor plate, and there are no restrictions on window openings on the front façade of the mezzanine floors.
 
@@ -48,7 +48,7 @@ Guidelines for Mezzanine Floor
 
 ![Guidelines for Mezzanine Floor](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/LHD17_Mezzanine.jpg?h=100%25&w=100%25)
 
-## Attics
+### Attics
 
 An attic is an incidental space that may be allowed within the permissible two-storey and three-storey envelopes respectively. Where roof terraces are proposed on attic roofs, they shall be located at least 3m below the top extent of the permissible building envelope to ensure future coverings by homeowners remain within the overall building envelope. Roofs with less than 3m below the top extent of the permissible building envelope shall be proposed as RC flat roofs that are non-accessible except for maintenance purposes.
 
@@ -56,7 +56,7 @@ Attic Guidelines
 
 ![Attic Guidelines](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/LHD18_New_EC_Attic.jpg?h=100%25&w=100%25)
 
-## Basements
+### Basements
 
 Basements may be built up to the limits shown in the table below.
 
@@ -69,7 +69,7 @@ Basement Setbacks
 
 - (2) Road Reserve: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
 
-### Basements in Low-lying Areas
+#### Basements in Low-lying Areas
 
 For sites in low lying landed housing areas, internal areas below the minimum platform level (MPL)(3) shall be treated as a basement storey and shall not count as an additional storey, subject to:
 
@@ -87,7 +87,7 @@ Basement guidelines for low-lying sites
   - The internal finished floor level shall be at least 300mm above the adjacent road level; and
   - Only entrance driveways, bin centres, turfed compound area, car porches or any other areas as may be approved by PUB may be permitted below the MPL. Bedrooms and M&E installations shall be located above the MPL.
 
-### Basements on Sloping Sites
+#### Basements on Sloping Sites
 
 For plots with sloping ground, exposed basement protrusion above existing ground level may be considered as shown in the figure below as long as the basement protrusion is kept within the permissible Envelope Control building height.
 

@@ -1,10 +1,10 @@
+
+## Mixed Commercial & Residential
 ---
 title: Mixed Commercial & Residential
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Comm-Resi
 date: 5 July 2019
 ---
-
-# Mixed Commercial & Residential
 
 Mixed commercial and residential developments include a combination of commercial uses and residential flats and may be developed on land zoned Commercial & Residential or Commercial.
 
@@ -14,7 +14,7 @@ In addition to the guidelines for mixed commercial and residential developments,
 
 The residential component within a mixed commercial and residential development will not be accorded condominium status as it is not developed in accordance with condominium guidelines.
 
-## Location of Commercial Uses
+### Location of Commercial Uses
 
 The commercial uses shall be located on the lower floors, below the residential areas.
 
@@ -30,7 +30,7 @@ Not applicable to land zoned Commercial within the 4 Historical Conservation Dis
 
 Where Hotel use can be supported on land zoned Commercial and Residential or Commercial, the Hotel use may be counted as part of the commercial quantum in the mixed use development. The applicable Development Charge Rate for gross floor area attributed to Hotel use or Hotel-related uses will correspond to Use Group C. Rezoning of the land to Hotel zone will be carried out if the Hotel use is equal to or exceeds 60% of the total gross floor area.
 
-## Building Setback
+### Building Setback
 
 Setback Requirements for Mixed Commercial and Residential Developments
 
@@ -42,7 +42,7 @@ All buildings in mixed commercial and residential developments fronting a public
 
 The road buffer and common boundary setback requirements for mixed commercial and residential developments are determined by the building form, and are detailed in the table below.
 
-### Road Buffer and Common Boundary Setback
+#### Road Buffer and Common Boundary Setback
 
 | Building Form/Location                                                                                                           | Road Buffer & Common Boundary Setback Requirements                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,22 +55,22 @@ Mixed commercial and residential developments may abut the road reserve at the f
 - The site is within the Central Area; and/or
 - The site is constrained or if there is an intention to retain the existing streetscape which is abutting the road reserve line.
 
-## Floor-to-Floor Height
+### Floor-to-Floor Height
 
 The floor-to-floor height control for the various uses in the mixed commercial and residential development is shown in the table below.
 
-### Floor-to-Floor Height
+#### Floor-to-Floor Height
 
 | Use         | Floor-to-Floor Height (Maximum)            |
 | ----------- | ------------------------------------------ |
 | Commercial  | 5.0m                                       |
 | Residential | 1st storey: 5.0m, Subsequent storeys: 3.6m |
 
-## Parking
+### Parking
 
 The [parking guidelines for commercial developments](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Parking/Car-Parking) listed in this handbook also apply to mixed-use developments where the commercial and/or hotel components form more than 20% of the total GFA.
 
-## Definitions
+### Definitions
 
 - (1): The residential component within a mixed commercial and residential development will not be accorded condominium status as it is not developed in accordance with condominium guidelines.
 - (2): Not applicable to land zoned Commercial within the 4 Historical Conservation Districts of Kampong Glam, Chinatown, Little India, and Boat Quay. Residential or institutional uses which are more than 40% of the total GFA can be allowed in these 4 districts.

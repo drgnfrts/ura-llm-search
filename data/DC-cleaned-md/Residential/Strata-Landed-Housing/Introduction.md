@@ -1,10 +1,10 @@
+
+## Introduction
 ---
 title: Introduction
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/Introduction
 date: 5 July 2019
 ---
-
-# Introduction
 
 Illustration of a Strata Landed Housing Development
 

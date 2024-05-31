@@ -1,4 +1,6 @@
-# Pavilions
+## Pavilions
+---
+---
 
 Communal pavilions accessed from common areas and sited within lushly landscaped areas at the 1<sup>st</sup> storey and rooftop are excluded from GFA if they meet the requirements listed below:
 
@@ -6,16 +8,16 @@ Communal pavilions accessed from common areas and sited within lushly landscaped
 
 ![Rooftop Communal Pavilion (Plan)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-42B-rooftop-communal-pavilion_plan.jpg?h=403&w=800)
 
-## Pavilions within Residential Developments
+### Pavilions within Residential Developments
 
-### 1<sup>st</sup> Storey
+#### 1<sup>st</sup> Storey
 
 - Maximum 50sqm per pavilion\*.
 - The pavilion coverage shall be counted towards the 50% (max) overall site coverage control.
 - Open-sided, single storey pavilions.
 - No commercial uses area allowed.
 
-### Rooftop
+#### Rooftop
 
 Rooftops shall remain open-to-sky unless otherwise approved by URA.
 
@@ -29,21 +31,21 @@ Where rooftop pavilions are allowed, they shall comply with the following requir
 - Single-storey pavilions, with heights less than 6m.
 - No commercial uses area allowed.
 
-### Definitions and Notes
+#### Definitions and Notes
 
 \*The area is defined as the area of pavilion measured up to the roof eaves line.
 Note: Pavilions in landed houses do not qualify for GFA exemption. Any pavilion for commercial uses, if allowed, will be computed as GFA.
 
-## Pavilions within Non-Residential Developments
+### Pavilions within Non-Residential Developments
 
-### 1<sup>st</sup> Storey
+#### 1<sup>st</sup> Storey
 
 - Maximum 50sqm per pavilion\*.
 - The pavilion coverage shall be counted towards the 50% (max) overall site coverage control.
 - Open-sided, single storey pavilions.
 - No commercial uses area allowed.
 
-### Rooftop
+#### Rooftop
 
 Rooftops shall remain open-to-sky unless otherwise approved by URA.
 
@@ -57,6 +59,6 @@ Where rooftop pavilions are allowed, they shall comply with the following requir
 - Single-storey pavilions, with heights less than 6m.
 - No commercial uses area allowed.
 
-### Definitions and Notes
+#### Definitions and Notes
 
 \*The area is defined as the area of pavilion measured up to the roof eaves line. If attached to the main building, the area excludes adjoining walls.

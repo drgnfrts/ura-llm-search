@@ -1,10 +1,12 @@
+
+## Building Setback from Boundary
 ---
 title: Building Setback from Boundary
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/PW/Setback
 date: 23 October 2023
----
 
-# Building Setback from Boundary
+^(1): Road Reserve: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
+---
 
 Setback Requirements
 
@@ -16,7 +18,7 @@ All PWs fronting a public road shall provide a road buffer, the width of which d
 
 The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The common boundary setback requirements are in Table 2 below. Different setback requirements may apply for sites within the Geylang area or the Central Area, both of which are guided by Urban Design guidelines.
 
-### Table 1: Road Buffer, Green Buffer
+#### Table 1: Road Buffer, Green Buffer
 
 | Road Category                | Road Buffer (inclusive of Green Buffer indicated in brackets) |
 | ---------------------------- | ------------------------------------------------------------- |
@@ -25,13 +27,10 @@ The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The
 | Category 3                   | 5m (3m)                                                       |
 | Category 4 - 5 and slip road | 5m (3m)                                                       |
 
-### Table 2: Common Boundary Setback & Planting Strip
+#### Table 2: Common Boundary Setback & Planting Strip
 
 | Type of Boundary                               | Building Setback Requirement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Common boundary with other developments        | Minimum 4.5m (including 2m planting strip)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Common boundary with an industrial development | No setback (see note below) is required at the common boundary between an industrial development and a Place of Worship (PW) development subject to the following conditions: The sites are located well within the industrial estate and not next to non-industrial developments; No openings along common boundary; and No adverse impact on the surrounding developments. Note: Where the building is proposed to abut the common boundary, the applicant should put in place systems/measures to facilitate down-stream building maintenance at the common boundary. |
 
----
-
-^(1): Road Reserve: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.

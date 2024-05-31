@@ -1,22 +1,22 @@
+
+## Bonus GFA Incentive Schemes
 ---
 title: Bonus GFA Incentive Schemes
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/GFA-Incentive-Schemes
 date: No date found
 ---
 
-# Bonus GFA Incentive Schemes
-
-## Bonus GFA Incentive Schemes
+### Bonus GFA Incentive Schemes
 
 Commercial developments are eligible for the following bonus GFA incentive schemes if they comply with the relevant guidelines:
 
 Commercial developments may make use of any combination of the bonus GFA incentive schemes (ie CSFS and Rooftop Greenery ORA), as long as the cumulative bonus GFA does not exceed the overall cap of 10% above the MP GPR.
 
-### Community and Sports Facilities Scheme
+#### Community and Sports Facilities Scheme
 
 The Community and Sports Facilities Scheme (CSFS) facilitates the co-location of compatible community and sports uses with highly accessible commercial developments. Under the CSFS, bonus GFA for the community and sports uses is subject to an overall cap of 10% of the maximum permissible GFA for the site allowed under the prevailing Master Plan or 2,000sqm (whichever is lower).
 
-#### Eligible Commercial Developments
+##### Eligible Commercial Developments
 
 The co-location of community or sports uses under the CSFS is intended primarily for commercial retail developments which are highly accessible. The commercial development that may be considered for the community and/or sports uses under the CSFS shall be in close proximity to transport nodes or town centres/neighbourhood centres, and the additional CSFS space may be supported from the land use and transport planning points of view.
 
@@ -24,7 +24,7 @@ Community and sports uses under the CSFS would not be supported in hotel develop
 
 Community and sports uses under the CSFS in office developments shall only be considered if it is clear that the use has clear synergies with the office development and caters to the needs of the office workers.
 
-#### Allowable Community and Sports Uses
+##### Allowable Community and Sports Uses
 
 The proposed community and sports uses shall primarily be intended for public or community use and not profit-driven, with the exception of commercial child care centres endorsed by the Early Development Childhood Agency (ECDA). Refer to table below for a list of allowable uses.
 
@@ -43,11 +43,11 @@ The proposed community and sports uses shall primarily be intended for public or
 
 For the purpose of computing Land Betterment Charge, SLA may assess such additional CSFS space for community uses based on Group E Civic & Community Institution rate, and assess such additional CSFS space for sports uses based on Group A Sports/Recreational rate.
 
-##### Ancillary Uses
+###### Ancillary Uses
 
 Ancillary uses (eg supporting offices) shall be kept to a maximum of 40% of total GFA of the CSFS space. Any commercial uses within the CSFS space (eg cafés or gift shops), if permitted by URA, shall be computed as part of the overall commercial quantum of the development.
 
-#### Ownership
+##### Ownership
 
 Ownership of CSFS Space
 
@@ -62,7 +62,7 @@ The party that holds the strata-title/lease of the approved CSFS space shall ens
 
 In the event that there is a change in ownership arrangement of the CSFS space, the seller or owner of the CSFS space shall inform the new buyer or lessee on the obligation to ensure that the CSFS space shall at all times be used for the approved purposes. The seller or owner of the CSFS space shall also keep the championing agencies informed of any such changes.
 
-##### Submission
+###### Submission
 
 The following documents shall be submitted as part of a development application to URA for evaluation.
 
@@ -74,15 +74,15 @@ The following documents shall be submitted as part of a development application 
 
 - b. An endorsement letter from the relevant championing government agency for the proposed use and/or ownership arrangement of CSFS space.
 
-### Rooftop ORA on Landscaped Roofs
+#### Rooftop ORA on Landscaped Roofs
 
 Refer to the section on [Greenery](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Greenery)
 
-### Built Environment Transformation Scheme
+#### Built Environment Transformation Scheme
 
 The Built Environment (BE) Transformation GFA scheme aims to encourage adoption of higher tier Construction Industry Transformation Map (ITM) outcomes in areas of digitisation, productivity and sustainability. The incentive scheme is jointly administered by BCA and URA. Applicants may qualify for the scheme by adopting stipulated ITM outcomes as part of the development proposal.
 
-#### Eligibility
+##### Eligibility
 
 The incentive is applicable for new erection or major Addition & Alterations to private sites of at least 5000sqm GFA(1). Sites launched under the Government Land Sales (GLS) programme prior to 31 March 2022 may also be eligible for the incentive scheme.
 
@@ -94,12 +94,12 @@ The types of developments eligible for the incentive scheme are as follows:
 | Non-Residential | Commercial, Industrial and Institutional developments, such as office, retail, business parks, community building, hotel, hospital or white site developments |
 | Mixed Use       | Combination of the above                                                                                                                                      |
 
-##### Definitions and Notes
+###### Definitions and Notes
 
 - (1): Smaller developments of less than 5,000 sqm GFA may be considered on a case-by-case basis if agencies determine that sizeable productivity and sustainability outcomes relative to the development proposal can be achieved based on BE ITM measures proposed by the developers.
 - (2): The maximum allowable number of dwelling units for residential developments located outside of Central Area is derived from the Master Plan permissible intensity, which excludes any bonus GFA the site is eligible for.
 
-#### Quantum of bonus GFA allowed
+##### Quantum of bonus GFA allowed
 
 Private sites may be granted up to 3% bonus GFA under the scheme(3). The scheme is applicable for new proposals till 23 November 2026.
 
@@ -111,31 +111,31 @@ The quantum of allowable bonus GFA under the BE Transformation Scheme is based o
 
 Should development proposals fall within areas with specific planning considerations (e.g. storey height controls) or are unable to fully accommodate the additional intensity due to on-site conditions (e.g. areas with traffic concerns), the bonus GFA under the BE Transformation Scheme that can be approved may be lower than the endorsed quantum, and/or the bonus GFA may be limited to a particular use or uses.
 
-##### Definitions and Notes
+###### Definitions and Notes
 
 - (3): Applications submitted under the Strategic Development Incentive (SDI) and Central Business District (CBD) incentive schemes will have to comply with stipulated outcomes in the areas of digitalisation, productivity and sustainability. The required ITM outcomes will be separately assessed in relation to the context of the proposal, upon submission of the outline application for the SDI/CBDI development proposal. ITM outcomes will be imposed as conditions for planning approval for redevelopment proposals via the SDI/CBD Incentive scheme. SDI/CBDI proposals will not qualify for the additional GFA under the BE Transformation Gross Floor Area Incentive Scheme.
 
-#### Submission
+##### Submission
 
 Applicants are to submit an application to BCA with supporting documents on the proposed ITM outcome concept plan and detail the proposed ITM outcome to be adopted for the development proposal. The submission can be made at this [link](https://form.gov.sg/610112199bdc0c00123abb25).
 
 Following BCA’s grant of letter of acceptance, applicants shall submit the development proposal with the proposed quantum and use group of the proposed bonus BE Transformation GFA to URA, for detailed assessment. The development application shall be submitted within 6 months from BCA’s grant of Letter of Acceptance, and shall include a copy of the Letter of Acceptance, and the [BE Transformation GFA computation form](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/BE-Transformation-GFA-computation-form.pdf). The submission process and verification of ITM outcomes is summarised at this [link](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/BE-Transformation-Submission-process.pdf).
 
-#### Requirements on ITM Outcomes for Bonus BE Transformation GFA
+##### Requirements on ITM Outcomes for Bonus BE Transformation GFA
 
 Applicants are to comply with BE ITM outcomes for the bonus scheme based on the [building type](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/BE-Transformation-building-type.pdf). The specific requirements for the development proposal will be shared in detail as part of the application process to BCA for the Letter of Acceptance.
 
-### ORA within Privately-Owned Public Spaces (POPS)
+#### ORA within Privately-Owned Public Spaces (POPS)
 
 Refer to section on [POPS](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Privately-OwnedPublicSpacesPOPS).
 
-## Other Incentive Schemes
+### Other Incentive Schemes
 
 The CBD Incentive Scheme and the Strategic Development Incentive (SDI) Scheme aim to encourage the rejuvenation of the CBD and other strategic areas in Singapore. Sites that fall within the designated areas for the CBD Incentive Scheme shall be guided by the CBD Incentive Scheme and shall not be considered under the SDI Scheme.
 
 Details of the two schemes are as follows:
 
-### CBD-Incentive-Scheme
+#### CBD-Incentive-Scheme
 
 The CBD Incentive Scheme aims to encourage the conversion of existing, older, office developments into mixed-use developments that will help rejuvenate the CBD by:
 
@@ -148,7 +148,7 @@ The incentives are calibrated to encourage:
 - The creation of mixed-use neighbourhoods at the CBD fringe areas of Anson and Cecil Street, with greater extent of residential uses supported by a variety of social/community amenities;
 - A blend of mixed-uses within Robinson Road, Shenton Way and Tanjong Pagar, while retaining the predominantly commercial character of the core areas of our CBD in Raffles Place.
 
-#### Eligibility
+##### Eligibility
 
 Existing predominantly office developments in selected areas where mixed-use neighbourhoods are encouraged will be eligible for the incentives if they meet the following eligibility requirements:
 
@@ -163,7 +163,7 @@ CBD Incentive Scheme Eligibility Requirements
 | [Cecil Street](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/-/media/Corporate/Guidelines/Development-control/Circulars/2019/Mar/dc19-04/dc19-04-App1.pdf#page=2)                               | Minimum 1000sqm for corner sites, minimum 2000sqm for all other sites |
 | [CRobinson Road, Shenton Way, Tanjong Pagar](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/-/media/Corporate/Guidelines/Development-control/Circulars/2019/Mar/dc19-04/dc19-04-App1.pdf#page=3) | Minimum 1000sqm for corner sites, minimum 2000sqm for all other sites |
 
-#### Allowable Land Uses and Maximum Allowable Increase in Development Intensity
+##### Allowable Land Uses and Maximum Allowable Increase in Development Intensity
 
 Residential and Hotel uses are encouraged within mixed-use developments to inject live-in population into the CBD. The allowable land uses and the corresponding maximum allowable increases in development intensity are shown in the table below. Approval of the allowable uses shall be subject to the statutory rezoning process and compliance with Rule 4 and Rule 7 of the Planning (Master Plan) Rules.
 
@@ -192,21 +192,21 @@ Bonus Gross Floor Area (GFA) shall not apply for the Green Mark requirements. De
 
 Lease renewals, where applicable, shall be subject to the approval of SLA and assessed in line with the Government’s prevailing lease renewal policy.
 
-#### Submission
+##### Submission
 
 Proposals under the CBD Incentive Scheme shall be submitted as an Outline Application to URA for consideration.
 
-#### Implementation
+##### Implementation
 
 The CBD Incentive Scheme will be implemented for a period of five years from the date of gazette for Master Plan 2019. URA will review the effectiveness and relevance of the scheme at the end of this period. URA reserves the right to vary or change the specific requirements outlined in the scheme during this five-year period.
 
-#### Definitions and Notes
+##### Definitions and Notes
 
 - (1): Exemptions may be considered depending on the merits of the case.
 - (2): Based on GPR as stipulated on Master Plan 2019 or Approved GPR, whichever is higher.
 - (3): Bonus GFA approved under the CBD Incentive Scheme shall not form the future development potential of the site upon redevelopment.
 
-### Strategic Development Incentive (SDI) Scheme
+#### Strategic Development Incentive (SDI) Scheme
 
 Building owners of developments in strategic areas across Singapore may make use of the SDI Scheme in their applications for re-development if it meets the eligibility criteria.
 
@@ -216,7 +216,7 @@ The planning parameters for which deviations may be considered under the SDI Sch
 - Land Use and Use Quantum;
 - Building Height
 
-#### Eligibility
+##### Eligibility
 
 The SDI Scheme is open to applications from building owners for developments in strategic areas across Singapore that meet the eligibility criteria.
 
@@ -238,7 +238,7 @@ Note: Exemptions from the eligibility criteria above may be considered where red
 - The redevelopment helps to open up a view corridor or physical access to a key public asset e.g. waterfront, park or public space; or
 - If the redevelopment of a single site is large enough on its own to achieve the desired transformational impact.
 
-#### Evaluation Criteria
+##### Evaluation Criteria
 
 Redevelopment proposals submitted under the SDI scheme shall be evaluated based on the following criteria:
 
@@ -254,11 +254,11 @@ Relevant technical agencies such as LTA and PUB shall be consulted to ensure tha
 
 Approval of the proposals shall be subject to the statutory rezoning process and compliance with Rule 4 and Rule 7 of the Planning (Master Plan) Rules.
 
-#### Submission
+##### Submission
 
 Proposals under the SDI Scheme shall be submitted as an Outline Application to URA for consideration. Form [DC/SDI](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Circulars/2019/Mar/dc19-03/dc19-03-App1-1.pdf) shall be completed and attached to the submission. The work flow for processing an application is shown in [here.](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Circulars/2019/Mar/dc19-03/dc19-03-App1-2.pdf)
 
-#### Conditions
+##### Conditions
 
 The evaluation by URA under the SDI Scheme is proposal-specific. An application that has been previously approved by the URA shall not be used or taken as a precedent for any other proposals or development applications seeking similar deviations from the planning parameters.
 
@@ -270,7 +270,7 @@ Bonus GFA shall not apply for requirements mandated as part of the SDI Scheme. F
 
 Lease renewals, where applicable, shall be subject to the approval of SLA and assessed in line with the Government’s prevailing lease renewal policy.
 
-#### Implementation
+##### Implementation
 
 The SDI Scheme, implemented from 27 March 2019, is for a period of five years from the date of gazette for Master Plan 2019. URA will review the effectiveness and relevance of the scheme at the end of this period.
 

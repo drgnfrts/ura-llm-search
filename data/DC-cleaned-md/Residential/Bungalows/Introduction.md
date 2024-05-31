@@ -1,10 +1,10 @@
+
+## Introduction
 ---
 title: Introduction
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Introduction
 date: 5 July 2019
 ---
-
-# Introduction
 
 Illustration of a Detached House
 
@@ -16,6 +16,6 @@ Bungalows may be built in any designated landed housing area, including semi-det
 
 At the individual plot level, a bungalow development shall adhere to the envelope control guidelines. These guidelines set out the allowable building envelope based on applicable storey height controls and building setback requirements. The allowable Gross Floor Area (GFA) for landed housing is resultant of the allowable building height and envelope.
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1): Strata-Titled Bungalows: Bungalows may be strata-titled when approved as strata bungalows – refer to [Strata Landed Housing handbook](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing) for guidelines and requirements.

@@ -1,30 +1,30 @@
+
+## Building Height
 ---
 title: Building Height
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/Height
 date: 15 March 2022
 ---
 
-# Building Height
-
 Building Height
 
 ![Building Height](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/HMC01_Building_Height.jpg?h=100%25&w=100%25)
 
-## Overall Building Height
+### Overall Building Height
 
 Unless otherwise stated, the overall building height of HMC developments is subject to compliance with the technical height controls of the relevant agencies such as Civil Aviation Authority of Singapore (CAAS) and the Defence Science and Technology Agency (DSTA). Building height is based on Singapore Height Datum (SHD).
 
 Building height is based on Singapore Height Datum (SHD)
 
-## Floor-to-Floor Height
+### Floor-to-Floor Height
 
 The maximum floor-to-floor height of HMC developments is 5.0m.
 
-## Additional Height for Predominant Sky Terrace Storey
+### Additional Height for Predominant Sky Terrace Storey
 
 Predominant Sky Terrace Storeys (PSTS) are floors where the sky terrace areas within the 45-degree line occupy at least 60% of the floor plate. If the proposed number of storeys in the development is more than 7 storeys, HMC developments with PSTS may be allowed additional building height depending on the number of storeys proposed as shown in the table below:
 
-## Additional Height for Predominant Sky Terrace Storey
+### Additional Height for Predominant Sky Terrace Storey
 
 Additional Height for Predominant Sky Terrace Storeys
 

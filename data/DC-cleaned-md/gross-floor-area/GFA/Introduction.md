@@ -1,10 +1,10 @@
+
+## Introduction
 ---
 title: Introduction
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Introduction
 date: 26 Jul 2023
 ---
-
-# Introduction
 
 For development control purpose, Singapore uses a Gross Floor Area (GFA) system to work out the bulk and intensity of a development. The Gross Plot Ratio (GPR) for a specific development site is defined as the ratio of the GFA of a building to its site or plot area<sup>1</span>. The allowable GPR of a development is guided by the GPR specified in the Master Plan (MP).
 
@@ -12,13 +12,13 @@ This GFA handbook explains which area or space of a development is included or e
 
 GFA is the total area of covered floor space, including the half thickness of external walls<sup>2</sup> or other building facade elements (e.g. windows, railings, curtain walls), but excluding voids.
 
-## Bonus Gross Floor Area above MP Allowable Intensity
+### Bonus Gross Floor Area above MP Allowable Intensity
 
 Bonus GFA is allowed over and above the MP GPR subject to a maximum of 10% of the MP GPR. When the site is redeveloped in future, the additional GFA already used under the GFA incentive schemes shall not be carried over. In other words, the GPR for the site shall revert to the GPR specified in the prevailing MP.
 
 Although a site may make use of multiple GFA incentive schemes, the total GFA shall not exceed the overall cap of 10% above the MP GPR. Developments are eligible for the following bonus GFA incentive schemes if they comply with the relevant guidelines:
 
-## Bonus GFA Incentive Schemes
+### Bonus GFA Incentive Schemes
 
 - [Residential Developments (Flats and Condominiums)](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Bonus-GFA):
 - Balcony Incentive Scheme
@@ -33,7 +33,7 @@ Although a site may make use of multiple GFA incentive schemes, the total GFA sh
 - Balcony Incentive Scheme
 - Rooftop Outdoor Refreshment Areas on Landscaped Roofs
 
-## Definitions
+### Definitions
 
 <sup>1</sup> The area of a site/plot measured between the survey boundary lines.
 

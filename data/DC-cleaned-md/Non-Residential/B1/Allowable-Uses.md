@@ -1,16 +1,16 @@
+
+## Allowable Uses
 ---
 title: Allowable Uses
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Allowable-Uses
 date: 2 Aug 2023
 ---
 
-# Allowable Uses
-
-## Allowable Uses
+### Allowable Uses
 
 Examples of allowable uses on B1 sites under the Predominant and Ancillary (or supporting) Use categories are shown below. Uses not indicated below shall be evaluated on the merits of the case.
 
-### Allowable Predominant Uses
+#### Allowable Predominant Uses
 
 Minimum 60% Predominant Use
 
@@ -21,7 +21,7 @@ Minimum 60% Predominant Use
 - Core Media
 - Industrial Training
 
-#### Allowable Core Media Activities
+##### Allowable Core Media Activities
 
 Core media activities, which are production services that require technical facilities such as studios and high-tech production software/hardware, are allowed as part of the 60% predominant use quantum in Business 1, Business 2 and Business Park developments.
 
@@ -34,7 +34,7 @@ Types of Core Media Activities
 | Network Programming              | Network programming activities may include scheduling, programme management, transmission services, origination playback.                                                                                                                                                                                      | ESPN Star Sports, AXN      |
 | Post-production and Distribution | Post-production and distribution activities may include video editing, digital authoring, audio engineering, format conversion, standard conversion, tape duplication, image and audio restoration, film printing, optical disk media (e.g. mastering and replication), sorting and packaging for print media. | CNBC, Walt Disney TV, SPH  |
 
-#### Allowable E-Business Activities
+##### Allowable E-Business Activities
 
 The e-business activities shown in the table below are regarded as industrial uses allowed as part of the 60% predominant use quantum. Data Farms/Data Centres would require prior planning permission for an assessment to be made in consultation with the relevant technical agencies on the suitability of the premises for such uses.
 
@@ -48,7 +48,7 @@ E-Business Activities regarded as Industrial Uses
 | Software Development      | Provides software design, customization, and maintenance. Includes software application providers.                                                           | Can be located in Business Park, Business 1, and Business 2 developments.           |
 | Call Centre               | Centralized backend support functions that handle a large volume of telephone services primarily targeted at providing information to meet callers' needs.   | Can be located in Business Park and Business 1, but not in Business 2 developments. |
 
-### Allowable Ancillary Uses
+#### Allowable Ancillary Uses
 
 Maximum 40% Ancillary Use
 
@@ -61,7 +61,7 @@ Maximum 40% Ancillary Use
 - Workers' Dormitory
 - Ancillary Display Area
 
-### White Component - Allowable Uses
+#### White Component - Allowable Uses
 
 A list of allowable uses within the White component is shown below. The actual allowable uses shall be subject to planning evaluation.
 
@@ -75,9 +75,9 @@ A list of allowable uses within the White component is shown below. The actual a
 
 The White component within industrial developments may be strata-subdivided. The industrial and White uses within B1 developments may be contained in separate buildings provided that there is no land subdivision.
 
-## Guidelines for Allowable Uses
+### Guidelines for Allowable Uses
 
-### Guidelines on Showroom
+#### Guidelines on Showroom
 
 Showroom in industrial premises are meant primarily for the display of two categories of products as follows:
 
@@ -93,7 +93,7 @@ Showroom may be considered subject to the following:
 - Showroom shall be confined to the 1st storey of the development.
 - SLA may assess such showrooms based on Group A Commercial rate for the purpose of computing Land Betterment Charge.
 
-### Guidelines on Ancillary Display Area
+#### Guidelines on Ancillary Display Area
 
 An ancillary display area is meant only for the display of products related to the predominant industrial operations in the development.
 
@@ -106,7 +106,7 @@ Ancillary display area may be considered subject to the following conditions:
 
 SLA may assess such ancillary display areas based on Group D Industrial rate for the purpose of computing Land Betterment Charge.
 
-#### Conversion of Previously-Approved Ancillary Showroom
+##### Conversion of Previously-Approved Ancillary Showroom
 
 If an existing industrial development has a previously approved ancillary showroom (now re-termed Display Area), the owner or operator of such ancillary showroom may apply for planning permission to convert it to a showroom in accordance with the showroom definition and guideline stated above.
 
@@ -121,7 +121,7 @@ The table below shows what can or cannot be done to a previously approved ancill
 | Complies with Showroom definition and guidelines                    | Can convert the approved ancillary showroom to Showroom subject to change of use approval. Can enlarge only if the approved ancillary showroom is located on the 1st storey of the development. Note: SLA may assess the total GFA of the new proposed Showroom based on Group A Commercial rate for the purpose of computing Land Betterment Charge. |
 | Does not comply with Showroom definition and guidelines             | Can remain as a previously approved ancillary showroom but not allowed to enlarge further. Cannot convert approved ancillary showroom to Showroom.                                                                                                                                                                                                    |
 
-### Guidelines on Industrial Canteen
+#### Guidelines on Industrial Canteen
 
 Industrial canteens within industrial developments may include food stalls, cafeteria, food court primarily to serve workers in the industrial estate and may include members of the public.
 
@@ -130,7 +130,7 @@ These may be approved on Temporary Permission for up to 5 years subject to the f
 - The size of the industrial canteen is capped at 700sqm or 5% of the total proposed GFA of the development, whichever is lower.
 - SLA may assess such industrial canteens based on Group D Industrial rate for the purpose of computing Land Betterment Charge.
 
-### Guidelines on Selected Commercial Uses
+#### Guidelines on Selected Commercial Uses
 
 To provide basic amenities to workers in industrial estates located away from commercial centres, selected commercial uses namely; clinics, banking halls/ATMS, mini marts, fitness centre/gyms, may be considered on Temporary Permission for up to 3 years subject to the following:
 
@@ -139,13 +139,13 @@ To provide basic amenities to workers in industrial estates located away from co
 - The total GFA of these commercial facilities shall not exceed 200sqm or 10% of the total GFA of the development, whichever is lower.
 - SLA may assess such commercial uses based on Group A Commercial rate for the purpose of computing Land Betterment Charge.
 
-### Guidelines on Childcare Centre (CCC) (allowed only in B1 zone)
+#### Guidelines on Childcare Centre (CCC) (allowed only in B1 zone)
 
 CCCs within B1 industrial developments are meant to serve parents working in the industrial estate. Proposed CCCs may be considered only within B1 developments, subject to clearances from the National Environment Agency (NEA) and Early Childhood Development Agency (ECDA). CCCs are not permitted within B2 developments. See NEA's webpage [here](https://www.nea.gov.sg/our-services/development-control/guidelines-for-building-plan-submission) and ECDA's webpage [here](https://www.ecda.gov.sg/) for more information.
 
 SLA may assess such CCCs based on Group E Civic and Community Institution rate for the purpose of computing Land Betterment Charge.
 
-### Guidelines on Temporary Workers' Dormitory
+#### Guidelines on Temporary Workers' Dormitory
 
 Workers' dormitory are premises used to house migrant workers who are engaged to carry out industrial or production or construction activities. Dormitories may comprise new extensions to existing buildings or new building blocks within an industrial development or may be converted from existing spaces within an industrial development.
 
@@ -155,12 +155,12 @@ To provide more temporary housing options for migrant workers while additional p
 
 Note: The following guidelines are for workers' dormitories located within industrial developments. Independent workers' dormitories located separately from the industrial development may be allowed only on land zoned Civic and Community Institution. Click [here](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/WD) for Guidelines for independent workers' dormitories.
 
-#### Types of Temporary Workers' Dormitories
+##### Types of Temporary Workers' Dormitories
 
 - Ancillary dormitories may house only workers employed by the owner or lessee of the industrial development and workers who work on-site in the subject development.
 - Secondary dormitories may house workers not employed by the owner or lessee of the industrial development as well as workers who work on- and off-site.
 
-#### Location
+##### Location
 
 - All new proposed workers' dormitories or increase in capacity within industrial developments are assessed on the merits of the case.
 - New applications located within 13 specified industrial areas (refer to Table 1) will only be considered if the proposals meet prevailing guidelines, and can be supported by existing infrastructure as assessed by technical agencies. Please refer to the circular dated 10 Feb 2023 for more information.
@@ -195,42 +195,42 @@ Table 2: List of Specified Areas where no new temporary workers' dormitories and
 | 2   | Tai Seng      | [A15](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/A15---Tai-Seng.pdf)      |
 | 3   | Tanglin Halt  | [A16](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/A16---Tanglin-Halt.pdf)  |
 
-#### Building Setback
+##### Building Setback
 
 - Workers' dormitories converted from existing spaces within the industrial development shall comply with existing industrial building setback requirements.
 - New dormitory extensions or blocks shall comply with prevailing road buffer requirements and provide a 3m (minimum) setback along common boundaries.
 
-#### Use Quantum
+##### Use Quantum
 
 The use quantum of the temporary workers' dormitories and other ancillary supporting amenities for the dormitory use shall not exceed 49% of the overall GFA of the development, as stated in the [circular](https://www.ura.gov.sg/Corporate/Data/circulars/2023/Feb/dc23-03) dated 10 Feb 2023.
 
-#### Floor-to-Floor Height
+##### Floor-to-Floor Height
 
 A maximum 3.6m floor-to-floor height control shall apply to new dormitory extensions or blocks on site. There are no height controls for workers' dormitories converted from existing spaces within the industrial development.
 
-#### Maximum Number of Workers
+##### Maximum Number of Workers
 
 The maximum number of workers/residents allowed in a dormitory is subject to planning assessment by URA and requirements of technical agencies such as LTA, PUB, SCDF, NEA, MOM, and SPF. It is also subjected to the living space standard of minimum 4.2sqm of living space per resident, whichever is lower.
 
 Living space per resident was set out in MOM-MND-MOH's press release dated 17 Sept 2021. See details in Amenity Provision Guidelines.
 
-#### Amenity Provision Guidelines
+##### Amenity Provision Guidelines
 
 To enhance liveability for workers/residents in a dormitory and strengthen resilience against future pandemics, adequate facilities and amenities shall be provided as part of the dormitory development based on the requirements stated in the table below.
 
 Applications for new workers' dormitory use are to comply with all the requirements (e.g. living space per resident, occupancy per bedroom unit, etc) as stated in the [press release](https://go.gov.sg/improved-dormitory-standards) issued by MOM, MND and MOH dated 17 Sept 2021.
 
-##### Living Space Standards
+###### Living Space Standards
 
 As per MOM-MND-MOH's press release dated 17 Sept 2021, a minimum 4.2sqm of living space per resident shall be provided.
 
 The 4.2sqm of living space per resident includes the sleeping and living areas in the rooms. However, it excludes designated functional areas, such as the en-suite toilets, kitchens, and yard spaces.
 
-##### Basic Facilities
+###### Basic Facilities
 
 Basic amenities such as living quarters, en-suite toilets, and dining areas shall be provided. The design, construction and provision of such facilities shall meet the requirements of the relevant authorities such as NEA, PUB, SCDF, and MOM.
 
-##### Recreational Amenities
+###### Recreational Amenities
 
 Recreational amenities shall be provided within the development as well. The minimum amount of GFA for the recreational amenities is dependent on the number of workers/residents within the dormitory. Refer to the table below for the requirements:
 
@@ -250,7 +250,7 @@ Note: Where the site is subject to higher provision standards stipulated under t
 - The GFA from recreational amenities shall form part of the 49% (maximum) ancillary quantum control for industrial developments.
 - SLA may assess such recreational amenities based on Group D Industrial rate for the purpose of computing Land Betterment Charge.
 
-##### Commercial Amenities
+###### Commercial Amenities
 
 Commercial amenities such as mini-marts, barber shops, bicycle repair shops, telecommunications, internet shops, remittance shop, postal service shop and ATMs may be allowed within the industrial development to serve workers/residents staying in the dormitories. Refer to the table below for the allowable commercial GFA for workers' dormitories.
 

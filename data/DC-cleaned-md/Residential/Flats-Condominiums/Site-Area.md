@@ -1,10 +1,10 @@
+
+## Site Area
 ---
 title: Site Area
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Site-Area
 date: 8 April 2024
 ---
-
-# Site Area
 
 The minimum site area for a flats and condominium development is 1,000sqm and 4,000sqm respectively. Condominiums require larger site area to ensure that there is sufficient space for more communal and recreational facilities.
 
@@ -16,7 +16,7 @@ Minimum Site Area for Left-Behind Plots
 
 ![Minimum Site Area for Left-Behind Plots](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F02_Minimum_Site_Area.jpg?h=100%25&w=100%25)
 
-## Conditions under which the minimum site area of 1000 sqm may be waived
+### Conditions under which the minimum site area of 1000 sqm may be waived
 
 The owner(s) of the left-behind lot(s) do not wish to participate in the redevelopment despite being informed of the limited development potential of his/their land after it is left out of the redevelopment; and
 

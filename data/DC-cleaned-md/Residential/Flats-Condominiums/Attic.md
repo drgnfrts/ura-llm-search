@@ -1,10 +1,10 @@
+
+## Attic
 ---
 title: Attic
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Attic
 date: 5 July 2019
 ---
-
-# Attic
 
 Illustration of Attic guidelines
 
@@ -21,6 +21,6 @@ The attic spaces shall adhere to the following requirements:
 - The floor of the attic shall be level with the springing line(1), and at least one side of the sloping roof shall rest on the springing line (only small openings in the form of dormer windows may be allowed on the side of the sloping roof resting on the springing line). The Competent Authority may determine where the springing line is to be taken from.
 - The maximum allowable pitch of the main roof shall be 45-degrees. All roof features, with the exception of dormer windows and 1.0m high parapet wall or railings, shall be kept within the 45-degree attic roof pitch.
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1) Springing Line: The line joining the points on which the roof rests.

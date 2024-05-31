@@ -1,10 +1,10 @@
+
+## Provision of Open and Covered Public Walkways
 ---
 title: Provision of Open and Covered Public Walkways
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Covered-Walkways
 date: 5 July 2019
 ---
-
-# Provision of Open and Covered Public Walkways
 
 All commercial developments and commercial buildings of mixed commercial and residential developments shall provide covered walkways along the periphery of the building facing roads and pedestrian routes.
 
@@ -12,7 +12,7 @@ Covered walkways for commercial developments in the Central Area may be guided b
 
 The specific urban design requirements for each planning area within the Central Area can be found on our [Urban Design](https://www.ura.gov.sg/Corporate/Guidelines/Urban-Design) Website.
 
-## Height of Covered Walkways
+### Height of Covered Walkways
 
 The soffit height of covered walkways is 3.6m.
 
@@ -20,7 +20,7 @@ Where higher ceiling height is desired, glass or other cladding may be provided 
 
 A higher soffit height may be allowed in independent developments provided the walkway width is increased correspondingly to maintain the 45-degree angle, at main entrances to facilitate articulation, and on urban design grounds.
 
-## Width of Covered Walkways
+### Width of Covered Walkways
 
 The minimum width for covered walkways varies depending on the location of the site and proximity to transport nodes. These are subject to urban design guidelines for selected locations with higher footfall eg Central Area, Regional Centres and Key Growth Areas. For walkways wider than the minimum requirement, GFA exemption may be considered depending on merits of the proposal.
 
@@ -34,7 +34,7 @@ Covered Walkway Width Requirements
 
 ![Width of Covered Walkways](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C20_Covered_Walkways.jpg?h=100%25&w=100%25)
 
-## Location & Design of Covered Walkways
+### Location & Design of Covered Walkways
 
 Covered walkways shall be provided at the periphery of the buildings next to or facing public roads.
 
@@ -46,7 +46,7 @@ All level differences within the covered walkways shall be mitigated with ramps 
 
 Covered walkways shall be kept free from all obstructions. All building services and services which may cause obstruction when maintenance works are being carried out shall be located within the building.
 
-### Platform Level of Covered Walkways
+#### Platform Level of Covered Walkways
 
 The platform level of covered walkways shall match the platform level of the open walkways.
 
@@ -58,6 +58,6 @@ The platform level of covered walkways shall match the platform level of the ope
 
 ![Open walkways below the Minimum Platform Level](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C12_Covered_Walkways_MPL_B.jpg?h=100%25&w=100%25)
 
-### Definitions
+#### Definitions
 
 - (1) Minimum Platform Level (MPL): The minimum 1st storey level to be provided within the site. The MPL is determined by the Public Utilities Board (PUB).

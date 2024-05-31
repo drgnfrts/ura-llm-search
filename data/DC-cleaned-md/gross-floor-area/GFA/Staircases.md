@@ -1,16 +1,16 @@
+
+## Staircases
 ---
 title: Staircases
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/Staircases
 date: 26 Jul 2023
 ---
 
-# Staircases
-
 Staircases are included as GFA. The flight of the staircase is to be projected upwards and be included as GFA on that particular floor.
 
 [Staircases Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-10-staircases_final.jpg?h=809&w=1000)
 
-## Intermediate Staircase
+### Intermediate Staircase
 
 Staircases at intermediate levels not connected to any floor are not included as GFA.
 
@@ -18,19 +18,19 @@ Staircases at intermediate levels not connected to any floor are not included as
 
 [Intermediate Staircase Image - Example 2](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-60-Intermediate-Staircase-1_final.jpg?h=699&w=1000)
 
-## Scissors Staircase
+### Scissors Staircase
 
 Scissors staircase comprises two separate sets of staircases intertwined within a single stairwell, with each set of staircase having its own flight of steps. Each set of set staircase is included as GFA.
 
 [Scissors Staircase Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-10B-staircases_final.jpg?h=565&w=1000)
 
-## Staircase Connecting Virtual Floors
+### Staircase Connecting Virtual Floors
 
 Staircase connecting between two floors with virtual levels in between are included as GFA even if there is no access to the in-between the virtual levels.
 
 [Staircases Connecting Virtual Floors Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-62-Staircases-Connecting-Virtual-Floors_final.jpg?h=760&w=1000)
 
-## Uncovered External Perforated Staircase
+### Uncovered External Perforated Staircase
 
 All uncovered external perforated staircases, regardless of materials, are included as GFA.
 
@@ -38,6 +38,6 @@ For pure industrial/warehouse developments, uncovered external mild steel perfor
 
 [Uncovered External Perforated Staircase Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-63-Uncovered-Staircases-to-ESS_final.jpg?h=1212&w=1000)
 
-## Uncovered Staircase to ESS
+### Uncovered Staircase to ESS
 
 Uncovered staircase to ESS are excluded from GFA.

@@ -1,16 +1,11 @@
----
-title: Redeveloping to Other Landed Housing Forms
-link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Redeveloping
-date: 8 April 2024
----
 
-### Redeveloping to Other Landed Housing Forms
+#### Redeveloping to Other Landed Housing Forms
 
 The illustrations apply to houses within Designated Landed Housing Areas (DLHAs). For proposals outside DLHAs, the left-behind plot must fulfil the minimum plot size requirement of 1,000 sqm.
 
-### Redevelopment of Existing Terrace House to Bungalow, Semi-detached and Corner Terrace
+#### Redevelopment of Existing Terrace House to Bungalow, Semi-detached and Corner Terrace
 
-#### Allowed
+##### Allowed
 
 ![Redevelopment Allowed](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig172_Redevelopment_A1_A.jpg?h=80%25&w=80%25)
 
@@ -26,13 +21,13 @@ Owner of House E shall be required to comply with the following conditions:
 
 House E may also redevelop into an intermediate terrace and corner terrace.
 
-#### Not Allowed
+##### Not Allowed
 
 ![Redevelopment Not Allowed](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig172_Redevelopment_B_NA.jpg)
 
 The left-behind Plot D does not have sufficient plot size and plot width for a corner terrace house. House E shall not be allowed to redevelop into a bungalow.
 
-## Treatment of Existing Party Walls
+### Treatment of Existing Party Walls
 
 The creation of a new blank party wall at the common boundary upon redevelopment is generally not allowed.
 

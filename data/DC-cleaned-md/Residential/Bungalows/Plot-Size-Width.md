@@ -1,10 +1,10 @@
+
+## Plot Size and Width for Bungalows
 ---
 title: Plot Size and Width for Bungalows
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Plot-Size-Width
 date: 8 April 2024
 ---
-
-# Plot Size and Width for Bungalows
 
 The plot size and width refers to the net dimension and area of the plot excluding the land required to be set aside for vesting to the State e.g. excluding Drainage Reserve (DR) and/or Road Reserve (RR).
 
@@ -12,16 +12,16 @@ Plot Size and Width
 
 ![Plot Size and Width](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/LHD01_Bungalow_Plot_Size.jpg?h=100%25&w=100%25)
 
-## Guidelines for Plot Size and Width
+### Guidelines for Plot Size and Width
 
-### Bungalows (Within GCBA)
+#### Bungalows (Within GCBA)
 
 | Location                 | Plot Size (Minimum) | Plot Width (Minimum) | Plot Depth (Minimum) |
 | ------------------------ | ------------------- | -------------------- | -------------------- |
 | Bungalows (Within GCBA)  | 1,400sqm            | 18.5m                | 30m                  |
 | Bungalows (Outside GCBA) | 400sqm              | 10m                  | No Minimum           |
 
-## Bungalows (within GCBA) - Variations in plot dimensions
+### Bungalows (within GCBA) - Variations in plot dimensions
 
 Variations in plot width, depth and size may be considered under the following circumstances.
 
@@ -39,7 +39,7 @@ Allowed: The proposed subdivision of land results in only one deficient plot, wh
 
 Not Allowed: The proposed subdivision of land results in more than one plot with deficient plot size (less than 1,400sqm)
 
-## Bungalows (outside GCBA) - Variations in plot width
+### Bungalows (outside GCBA) - Variations in plot width
 
 For bungalow plots of irregular shape within existing landed housing estates, slight deficiency in plot width may be considered provided:
 

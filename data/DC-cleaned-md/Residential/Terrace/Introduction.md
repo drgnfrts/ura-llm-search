@@ -1,10 +1,10 @@
+
+## Introduction
 ---
 title: Introduction
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Introduction
 date: 5 July 2019
 ---
-
-# Introduction
 
 Illustration of a Terrace House
 
@@ -19,6 +19,6 @@ For Terrace Type I houses, the setback from the road is based on standard road b
 For Terrace Type II houses, the required setback from the road is standardised as 2m and 1m for building wall and roof eaves respectively. Terrace II houses shall also be sited within their own enclave (refer to [Locational Criteria](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Locational-Criteria) for more information).
 
 
-## Notes and Definitions
+### Notes and Definitions
 
 - (1): Terrace houses may also be strata-titled when approved as strata terrace houses – See [Strata Landed Housing](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing) for guidelines and requirements.

@@ -1,26 +1,26 @@
+
+## Building Height
 ---
 title: Building Height
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/SR/Height
 date: 15 March 2022
 ---
 
-# Building Height
-
 ![Building Height](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/SR01_Building_Height.jpg?h=100%25&w=100%25)
 
-## Overall Building Height
+### Overall Building Height
 
 Unless otherwise stated, the overall building height of S&R developments is subject to compliance with the technical height controls of the relevant agencies such as Civil Aviation Authority of Singapore (CAAS) and the Defence Science and Technology Agency (DSTA). Building height is based on Singapore Height Datum (SHD).
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1): Building height is based on Singapore Height Datum (SHD).
 
-## Floor-to-Floor Height
+### Floor-to-Floor Height
 
 There is no floor-to-floor height control for S&R developments.
 
-## Additional Height for Predominant Sky Terrace Storey
+### Additional Height for Predominant Sky Terrace Storey
 
 Additional Height for Predominant Sky Terrace Storeys
 

@@ -1,10 +1,10 @@
+
+## Refuse Chambers and Refuse Chutes
 ---
 title: Refuse Chambers and Refuse Chutes
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/RefuseChambersandRefuseChutes
 date: 26 Jul 2023
 ---
-
-# Refuse Chambers and Refuse Chutes
 
 Refuse chutes are excluded from GFA.
 

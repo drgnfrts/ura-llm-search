@@ -1,10 +1,10 @@
+
+## Basements
 ---
 title: Basements
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Basements
 date: 25 February 2021
 ---
-
-# Basements
 
 A basement storey refers to a storey of a building which may be partially or wholly below the existing ground level. In so far as storey height control is concerned, basement storeys that protrude more than 1.0m above ground level on any side shall be counted as a storey.
 
@@ -12,7 +12,7 @@ Basement Setback and Vertical Openings:
 
 ![Basement Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Hotel/H11_Basement.jpg?h=100%25&w=100%25)
 
-## Basement Setback
+### Basement Setback
 
 The physical limit for which the basement may be built up to is shown in below.
 
@@ -21,11 +21,11 @@ The physical limit for which the basement may be built up to is shown in below.
 | Basement with protrusion | Up to the road buffer                                                                                                                    | Up to the building setback                                                                                                                                                                                                                                                                                                                                                                                 |
 | Sunken basement          | Up to the road reserve(1) line, provided the portion underneath the green buffer is submerged at least 2m or more below the ground level | Up to the site lot boundary, provided: the portion underneath the 2m tree planting strip is submerged at least 2m or more below the ground level; there are no technical requirements (e.g., sewerage, drainage) and the basement does not cause any adverse impact to the adjoining property; the side of a basement wall abutting any site boundary shall not have any openings into the adjoining site. |
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1) **Road Reserve**: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
 
-## Vertical Openings
+### Vertical Openings
 
 Basements with vertical openings on the side walls may be allowed only if they are required for natural ventilation and to meet the building regulations. The guidelines are as follows:
 

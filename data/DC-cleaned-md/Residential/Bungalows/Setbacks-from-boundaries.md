@@ -1,10 +1,10 @@
+
+## Building Setback from Boundary
 ---
 title: Building Setback from Boundary
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Setbacks-from-boundaries
 date: 25 September 2023
 ---
-
-# Building Setback from Boundary
 
 Building Setback for bungalows within GCBA
 
@@ -16,7 +16,7 @@ Building Setback for bungalows outside GCBA
 
 The building setback requirements for bungalow developments are as follows:
 
-## Road Buffer and Green Buffer
+### Road Buffer and Green Buffer
 
 | Road Category                       | Road Buffer (Inclusive of Green Buffer indicated in brackets) - GCBA                                                                                                                          | Road Buffer (Inclusive of Green Buffer indicated in brackets) - Other Bungalows                                                                                                               |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ The building setback requirements for bungalow developments are as follows:
 
 (#) The 2.4m setback applies only to the 3m (maximum) car porch width (measured column to column). Beyond this 3m, other car porch setbacks shall follow the terrace/patio setback requirements. A wider car porch may be considered on the merits of the proposal.
 
-## Setbacks from Common Boundaries
+### Setbacks from Common Boundaries
 
 | Structure                                       | GCBA | Outside GCBA                                                                                       |
 | ----------------------------------------------- | ---- | -------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ The building setback requirements for bungalow developments are as follows:
 
 Refer to Ancillary Structures sub-section for the setback requirement for minor structures, [Basements](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/EC) section for basement setbacks, and [Building Appendages](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Building-Appendages) section for allowable encroachment of minor building features into the setback areas.
 
-## Setbacks for an existing individual plot outside GCBA with more than one road frontage
+### Setbacks for an existing individual plot outside GCBA with more than one road frontage
 
 For an individual plot with more than one road frontage, the building setback requirements are shown in the figures below.
 
@@ -52,7 +52,7 @@ Setbacks for a bungalow with more than 1 road frontage (Cat 5 roads)
 
 ![Setbacks for a bungalow with more than 1 road frontage (Cat 5 roads)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/LHD06_Setbacks_Multiple_Cat_5_Roads.jpg?h=100%25&w=100%25)
 
-## Setbacks for existing irregular or odd-shaped plots (excluding newly created) outside GCBA
+### Setbacks for existing irregular or odd-shaped plots (excluding newly created) outside GCBA
 
 For already existing irregular or odd-shaped plots (excluding newly created ones) outside GCBA, the standard 7.5m building setback from a road shall apply for a width of 8m, measured from the common boundary line with the adjoining neighbour. Beyond the 8m width, a reduced 2m building setback may be allowed, except for the car porch which requires a 2.4m setback.
 
@@ -64,13 +64,13 @@ A plot is deemed irregular or odd-shaped if:
 - The an odd-shaped site is fronting a minor road (ie category 4 or 5),
 - The resultant building footprint cannot achieve a meaningful layout after complying with the standard 7.5m road buffer requirement.
 
-### Examples where Reduced Setbacks do not apply
+#### Examples where Reduced Setbacks do not apply
 
 ![https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig182a_Redevelopment_NA.jpg](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig182a_Redevelopment_NA.jpg)
 
 B1 & B2 are newly created constrained plots. Such new subdivisions are not eligible to apply the reduced front setback guideline.
 
-## Rear Garden Landed Housing
+### Rear Garden Landed Housing
 
 "Rear garden" landed housing allows for a larger garden at the rear, with a narrower setback from the road. This orientation is a reversal of conventional guidelines which require landed housing developments to be setback 7.5m from the road reserve(2) line. Houses with rear gardens shall be sited within their own enclave, and segregated from the rest of the estate with their own access road.
 
@@ -95,7 +95,7 @@ All other relevant landed housing guidelines (eg site coverage, envelope control
 
 (2) Road Reserve: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
 
-## Ancillary Structures
+### Ancillary Structures
 
 Ancillary structures shall follow the required setbacks as shown in the table below.
 

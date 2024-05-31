@@ -1,10 +1,10 @@
+
+## Site Coverage
 ---
 title: Site Coverage
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Site-Coverage
 date: 5 July 2019
 ---
-
-# Site Coverage
 
 Site coverage is computed based on the footprint of the building and coverage of all building features (raised 1m or more above ground level) when viewed from above.
 

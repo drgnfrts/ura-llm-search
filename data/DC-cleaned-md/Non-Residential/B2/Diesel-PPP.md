@@ -1,10 +1,10 @@
+
+## Diesel and Petrol Pump Points
 ---
 title: Diesel and Petrol Pump Points
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/Diesel-PPP
 date: 10 September 2020
 ---
-
-# Diesel and Petrol Pump Points
 
 Transport-related companies or industries requiring diesel/petrol to serve their own fleet of vehicles or industrial operations may set up pump points within B2 industrial developments subject to the following:
 

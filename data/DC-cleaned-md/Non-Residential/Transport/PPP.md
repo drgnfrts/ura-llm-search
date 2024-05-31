@@ -1,10 +1,10 @@
+
+## Diesel and Petrol Pump Points
 ---
 title: Diesel and Petrol Pump Points
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Transport/PPP
 date: 10 September 2020
 ---
-
-# Diesel and Petrol Pump Points
 
 Transport facilities may set up diesel and petrol pump points for own use subject to the following:
 

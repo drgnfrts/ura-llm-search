@@ -1,14 +1,14 @@
+
+## Plot Size and Width
 ---
 title: ```markdown
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Plot-Size-Width
 date: 8 April 2024
 ---
 
-# Plot Size and Width
-
 The plot size and width refers to the net dimension and area of the plot excluding the land required to be set aside for vesting to the State e.g. excluding Drainage Reserve (DR) and/or Road Reserve (RR).
 
-## Terrace I
+### Terrace I
 
 Plot Size and Width for Terrace Type I House
 
@@ -23,7 +23,7 @@ Plot Size and Width Requirements for Terrace Type I Houses
 
 There is no site coverage control for either Terrace Type I or Type II houses.
 
-## Terrace II
+### Terrace II
 
 Plot Size and Width Requirements for Terrace Type II Houses
 
@@ -34,7 +34,7 @@ Plot Size and Width Requirements for Terrace Type II Houses
 
 There is no site coverage control for either Terrace Type I or Type II houses.
 
-## Plot Width for Irregular Plots
+### Plot Width for Irregular Plots
 
 For corner or intermediate terrace plots of irregular shape within existing landed housing estates, slight deficiency in plot width may be considered provided:
 

@@ -1,10 +1,10 @@
+
+## Private Medical Clinics in Non-HMC Developments
 ---
 title: Private Medical Clinics in Non-HMC Developments
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/Private-Medical-Clinics
 date: No date found
 ---
-
-# Private Medical Clinics in Non-HMC Developments
 
 Private medical clinics(1) is an allowable use within commercial buildings. Such buildings refer to shopping and office developments approved on sites zoned Commercial or other commercial premises approved within the allowable commercial quantum of sites zoned Hotel, White, Commercial & Residential, Residential with 1st Storey Commercial, Business Park, and Business-White.
 
@@ -20,6 +20,6 @@ Planning permission is required for new private medical clinics in commercial bu
 
 Operators who wish to set up medical clinics shall write to MOH at [MOH_Check_GFA@moh.gov.sg](mailto:MOH_Check_GFA@moh.gov.sg) to verify that the proposed clinic would qualify under the exemptions above, failing which they will need to submit a planning application to URA. Necessary clearances and permits from relevant licensing agencies, including MOH and Fire Safety and Shelter Department (FSSD) shall be obtained before commencing the use.
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1): SLA may assess such medical clinics/suites based on Group A (Commercial) rate for the purpose of computing Land Betterment Charge, where applicable.

@@ -1,12 +1,12 @@
+
+## Locational Criteria
 ---
 title: ```markdown
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Locational-Criteria
 date: 10 March 2022
 ---
 
-# Locational Criteria
-
-## Safeguarded Landed Housing Areas
+### Safeguarded Landed Housing Areas
 
 An island-wide map titled [Designated Landed Housing Area Plan](https://www.ura.gov.sg/maps/index.html?service=CTRLPLAN) is available on URA SPACE. Terrace houses may be built within Mixed Landed Housing Areas only.
 
@@ -15,13 +15,13 @@ For Terrace Type II houses, these are to be located within their own enclaves.
 - Within existing estates: If the site is located within an existing landed housing estate, the Terrace Type II house shall be part of an existing enclave. Alternatively, a new Terrace Type II enclave may be considered if it does not adversely impact the surrounding developments.
 - For new estates: New estates, like a government sale site for landed housing developments, may provide Terrace Type II landed housing provided they are developed comprehensively as a distinct Terrace Type II estate.
 
-## Landed Housing guided by Street Block Plans
+### Landed Housing guided by Street Block Plans
 
 Where there is a street block plan to guide landed housing development, the planning guidelines and requirements stipulated in the street block plan shall apply.
 
 Conservation guidelines shall also apply for landed housing gazetted for conservation, such as in the residential historic districts of Blair Plain, Cairnhill and Emerald Hill.
 
-## Street Block Plans
+### Street Block Plans
 
 - [Boon Teck Road/Jalan Kemamam (Novena Planning Area)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Boon-Teck-Road_Jalan-Kemamam.pdf)
 - [Cashew Terrace (Bukit Panjang Planning Area)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Cashew-Terrace.pdf)
@@ -57,6 +57,6 @@ Conservation guidelines shall also apply for landed housing gazetted for conserv
 - [Yan Kit Road (Outram Planning Area)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Yan-Kit-Road.pdf)
 - [Yuk Tong Avenue [no. 88, 88A, 90, 90A, 92 & 92A] (Bukit Timah Planning Area)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Yuk-Tong-Avenue.pdf)
 
-## Landed Housing In Other Areas
+### Landed Housing In Other Areas
 
 Other sites zoned for residential use in the prevailing Master Plan may be considered for landed housing developments, depending on site context and conditions. Landed houses outside [Designated Landed Housing Areas](https://www.ura.gov.sg/maps/index.html?service=CTRLPLAN) and not guided by the street block plans are subject to a 3-storey height control. The prevailing landed housing planning guidelines and requirements shall also apply.

@@ -1,10 +1,10 @@
+
+## Developments Involving Waterbodies
 ---
 title: Developments Involving Waterbodies
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Transport/Waterbodies
 date: 5 July 2019
 ---
-
-# Developments Involving Waterbodies
 
 To maintain the integrity and aesthetics of the waterfront areas so that the public can have free and unrestricted access to enjoy these spaces, developments at major waterbodies(1) shall observe the design and development application submission guidelines below.
 
@@ -12,7 +12,7 @@ To maintain the integrity and aesthetics of the waterfront areas so that the pub
 
 ![Waterbodies Image 2](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C17_Waterbodies_2.jpg?h=100%25&w=100%25)
 
-## Design Guidelines
+### Design Guidelines
 
 1. Retaining Walls
 
@@ -36,7 +36,7 @@ To maintain the integrity and aesthetics of the waterfront areas so that the pub
 
    - Mature vegetation along the waterbodies are to be saved and conserved, wherever possible.
 
-## Development Application Submission Guidelines
+### Development Application Submission Guidelines
 
 In all waterbodies-related development application submissions to URA, the following shall be provided, where applicable:
 
@@ -46,13 +46,13 @@ In all waterbodies-related development application submissions to URA, the follo
 - Contour lines extending to 1m beyond the side of development fronting the Drainage Reserve/Waterbody/Sea;
 - [Checklist](https://www.ura.gov.sg/-/media/User-Defined/URA-Online/Forms/Supplementary-forms/waterbodycl.doc) for Waterbodies-related proposals.
 
-## Application of Guidelines
+### Application of Guidelines
 
 The design guidelines listed above shall apply to all developments adjacent to or with waterbodies except developments adjacent to or with Drainage Reserves less than 17.5m.
 
 All proposals involving waterbodies shall comply with the development application submission guidelines listed above.
 
-### Additional Guidelines for Use of Foreshore by Developments with a Frontage to the Sea
+#### Additional Guidelines for Use of Foreshore by Developments with a Frontage to the Sea
 
 For land use planning and development control purposes, the foreshore(3) and the area within 15m on both the landward and seaward side of the foreshore line(4) shall be kept free of structures. Some structures such as ramps may be permitted if they are constructed in connection with an approved development (e.g., marine industries, refineries, and pleasure-boat storage complex). These structures are subject to planning evaluation depending on merits.
 
@@ -62,7 +62,7 @@ For land use planning and development control purposes, the foreshore(3) and the
 
 ![Foreshore Image C](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C15_Foreshore_C.jpg?h=100%25&w=100%25)
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1) Major waterbodies: rivers, canals of at least 17.5m width, reservoirs, and seas.
 - (2) Drainage Reserve (DR): An area safeguarded for purposes of building or widening a public drain

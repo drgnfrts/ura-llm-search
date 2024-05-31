@@ -1,10 +1,10 @@
+
+## Ancillary Shops
 ---
 title: Ancillary Shops
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Shops
 date: 5 July 2019
 ---
-
-# Ancillary Shops
 
 A limited number of units for shops to provide personal services may be allowed in flats and condominium developments subject to evaluation based on the following considerations:
 

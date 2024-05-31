@@ -1,12 +1,12 @@
+
+## Earthworks, Retaining Walls, and Boundary Walls
 ---
 title: Earthworks, Retaining Walls, Boundary Walls
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/Earthworks
 date: 5 July 2019
 ---
 
-# Earthworks, Retaining Walls, and Boundary Walls
-
-## Earthworks
+### Earthworks
 
 Earthworks are defined as any operations or works in, on, or over land which result in substantial modification to the existing ground terrain, land form, or slope. These include excavation, formation of a new slope or embankment, and cut and fill operations.
 
@@ -20,7 +20,7 @@ Location of Allowable Earthworks:
 
 ![Location of Allowable Earthworks](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C07_Earthworks.jpg?h=100%25&w=100%25)
 
-### Earthworks within the Building Setback Area
+#### Earthworks within the Building Setback Area
 
 Earthworks may not be allowed within the building setback area, except in specific circumstances:
 
@@ -28,19 +28,19 @@ Earthworks may not be allowed within the building setback area, except in specif
 - When the sites are on undulating or sloping terrain, with large differences in platform levels within the site, or between the site and the road;
 - When the earthcut is necessary to build a fully submerged basement. The area within the building setback shall be reinstated to the original platform level upon the completion of the basement.
 
-### Earthworks within the Build-able Area (i.e. outside the Building Setback Area)
+#### Earthworks within the Build-able Area (i.e. outside the Building Setback Area)
 
 Earthworks within the build-able area of more than 1m are subject to evaluation depending on merits. If the earthfill of more than 1m is allowed, the earthfilled area shall not be counted as an additional storey provided the overall aggregate building height complies with the maximum allowable building height measured from the allowable platform level.
 
-### Earthworks within the Entire Development Site
+#### Earthworks within the Entire Development Site
 
 Earthfill involving the entire development site may only be considered if the proposed earthworks are required to meet the technical requirements of PUB. Such earthfill may be allowed up to the Minimum Platform Level (MPL)(1).
 
-#### Definitions and Notes:
+##### Definitions and Notes:
 
 - (1) Minimum Platform Level (MPL): The minimum 1st storey level to be provided within the site. The MPL is determined by the Public Utilities Board (PUB).
 
-## Retaining & Boundary Walls
+### Retaining & Boundary Walls
 
 Allowable Height of Retaining and Boundary Walls:
 ![Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F15_Retaining_Wall_15m.jpg?h=100%25&w=100%25)

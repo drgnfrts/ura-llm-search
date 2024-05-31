@@ -1,18 +1,18 @@
+
+## Building Height
 ---
 title: Building Height
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Building-Height
 date: 15 March 2022
 ---
 
-# Building Height
-
 ![Building Height](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F05_Building_Height.jpg?h=100%25&w=100%25)
 
-## Building Height
+### Building Height
 
 The overall building height for flats and condominiums shall be determined by the number of storeys and the prescribed floor-to-floor height.
 
-## Number of Storeys
+### Number of Storeys
 
 For sites zoned Residential only, the number of storeys for flats and condominium developments shall be guided by the GPR as shown in the following table:
 
@@ -49,7 +49,7 @@ For (f), the allowable number of storeys shall be guided by the following table:
 | 2.8           | 30                            |
 | More than 2.8 | More than 30                  |
 
-## Floor-to-Floor Height & Aggregate Building Height
+### Floor-to-Floor Height & Aggregate Building Height
 
 ![Floor-to-Floor Height & Aggregate Building Height](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F06_Floor_to_Floor_Height.jpg?h=100%25&w=100%25)
 
@@ -63,7 +63,7 @@ In addition to the number of storeys control, the individual storeys shall be gu
 
 Variations to the floor-to-floor height of each storey may be allowed, provided the total building height is the sum of the prescribed floor-to-floor height control.
 
-## Additional Height for Predominant Sky Terrace Storey
+### Additional Height for Predominant Sky Terrace Storey
 
 Additional Height for Predominant Sky Terrace Storeys
 

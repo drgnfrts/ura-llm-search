@@ -1,14 +1,14 @@
+
+## Covered Walkway and Linkages
 ---
 title: Covered Walkway and Linkages
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/CoveredWalkwayandLinkages
 date: 26 Jul 2023
 ---
 
-# Covered Walkway and Linkages
-
 1st storey, upper levels and underground pedestrian linkages are excluded from GFA if they satisfy the following specific requirements applicable pedestrian linkages.
 
-## Communal Sky Bridges between Buildings (Within a Single Development)
+### Communal Sky Bridges between Buildings (Within a Single Development)
 
 Communal sky bridges between buildings within a single development are excluded from GFA if they comply with the following requirements:
 
@@ -18,14 +18,14 @@ Communal sky bridges between buildings within a single development are excluded 
 
 ![Upper Level Pedestrian Linkage (Within a Single Development)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-38-Communal-sky-bridge_final.jpg)
 
-## Covered Linkways
+### Covered Linkways
 
 Covered linkways are excluded from GFA if they comply with the following requirements:
 
 - The covered linkway shall be open sided and incorporated as part of a landscaping area; and
 - The covered linkway should connect one building to another and it shall not form part of the main building.
 
-## Covered Public Walkways
+### Covered Public Walkways
 
 Covered public walkways are excluded from GFA if they comply with the following requirements:
 
@@ -33,7 +33,7 @@ Covered public walkways are excluded from GFA if they comply with the following 
 - The covered walkway shall be kept open at all times for public use as part of the public pedestrian network; and
 - The covered walkway shall adhere to the respective width requirements depending on its location:
 
-### Types of Covered Walkways
+#### Types of Covered Walkways
 
 - Walkways within 200m of MRT stations / major transport nodes & Central Area: Minimum Overall Width 3.6m, Minimum Clear Width 3.0m
 - Walkways between 200–400m of MRT stations / major transport nodes: Minimum Overall Width 3.0m, Minimum Clear Width 2.4m
@@ -43,11 +43,11 @@ Places with high footfall (e.g. Central Areas, Regional Centres and Key Growth A
 
 ![Width of Covered Walkways](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/C20-Covered-Walkways-revisedfinal.jpg?h=1368&w=1000)
 
-## Elevated Linkways Connecting to Pedestrian Overhead Bridges
+### Elevated Linkways Connecting to Pedestrian Overhead Bridges
 
 Elevated linkways connecting to pedestrian overhead bridges are excluded from GFA if they are at least 2.5m in width.
 
-## Jurong Gateway Elevated Pedestrian Network
+### Jurong Gateway Elevated Pedestrian Network
 
 Elevated pedestrian linkages within developments that are identified as key connections under the Jurong Gateway Elevated Pedestrian Network Plan (JGEPN) are excluded from GFA if they comply with the following requirements:
 
@@ -58,7 +58,7 @@ Elevated pedestrian linkages within developments that are identified as key conn
 - The walkway shall be used strictly for pedestrian movements only. Commercial uses are not allowed within the walkway; and
 - Way-finding signages within the elevated walkway shall comply with the guidelines stated in the J-Walk Signage Guidelines. Generally, clear and prominently displayed signage shall be provided at the entrances of the elevated walkways within a development to inform pedestrians that they are accessible for public use. Adequate signage along the EPN shall be provided to guide pedestrians to the MRT Station and other key developments along the EPN.
 
-## Through-Block Links
+### Through-Block Links
 
 Through-block pedestrian links are excluded from GFA if they comply with the following requirements:
 
@@ -71,7 +71,7 @@ Through-block pedestrian links are excluded from GFA if they comply with the fol
 
 ![Through-Block Link (Elevation)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-36B-Throughblock-link-elevationfinal.jpg?h=553&w=1000)
 
-## Underground Pedestrian Links to Rapid Transit Stations
+### Underground Pedestrian Links to Rapid Transit Stations
 
 Underground pedestrian links are excluded from GFA if they have a clear pedestrian walkway width of:
 
@@ -84,7 +84,7 @@ Walkways greater than 7.0m wide may be excluded from GFA depending on the merits
 
 ![Double Loaded Underground Pedestrian Walkway](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-39-C19-Underground-Link-B_final.jpg?h=627&w=1000)
 
-## Upper Level Pedestrian Linkways (Across Different Developments)
+### Upper Level Pedestrian Linkways (Across Different Developments)
 
 Upper level pedestrian links between different developments are excluded from GFA if they comply with the following requirements:
 

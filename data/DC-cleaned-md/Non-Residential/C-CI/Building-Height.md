@@ -1,22 +1,22 @@
+
+## Building Height
 ---
 title: Building Height
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/Building-Height
 date: 15 March 2022
 ---
 
-# Building Height
-
-## Overall Building Height
+### Overall Building Height
 
 Unless otherwise stated, the overall building height of C&CI developments is subject to compliance with the technical height controls of the relevant agencies such as Civil Aviation Authority of Singapore (CAAS) and the Defence Science and Technology Agency (DSTA).
 
 Building height is based on Singapore Height Datum (SHD).
 
-## Storey Height
+### Storey Height
 
 The allowable number of storeys for the C&CI development shall take into account the character of the surrounding area. As a guide, depending on the allowable GPR, the corresponding number of storeys are shown in the table below. The actual number of storeys allowed may vary, or be higher, depending on the site topography, site condition, and context of the surrounding area.
 
-### Allowable Storey Height
+#### Allowable Storey Height
 
 | Location                                                                                                           | Gross Plot Ratio Control                                     | Guide for Storey Height                                                              |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
@@ -26,11 +26,11 @@ The allowable number of storeys for the C&CI development shall take into account
 | Within or at the fringe of industrial estates                                                                      | Up to 1.4                                                    | Up to 4 storeys                                                                      |
 | Within Central Area and within other commercial centres, including party-wall developments such as in Geylang area | Subject to evaluation and localised urban design guidelines. | Subject to evaluation                                                                |
 
-## Floor-to-Floor Height
+### Floor-to-Floor Height
 
 The maximum floor-to-floor height of C&CI developments is 5.0m.
 
-## Additional Height for Predominant Sky Terrace Storey
+### Additional Height for Predominant Sky Terrace Storey
 
 ![Additional Height for Predominant Sky Terrace Storeys](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C04_Additional_Height_for_Sky_Terrace_Floors.jpg?h=100%25&w=100%25)
 

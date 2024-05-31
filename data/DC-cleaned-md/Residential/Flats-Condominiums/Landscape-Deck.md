@@ -1,12 +1,12 @@
+
+## Landscape Deck
 ---
 title: Landscape Deck
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Landscape-Deck
 date: 21 Jul 2023
 ---
 
-# Landscape Deck
-
-## Introduction
+### Introduction
 
 To encourage greenery and to conceal car park spaces, developments may provide landscape decks that double up as car parks. These may be ground level, or partially sunken car parks which are decked over with greenery and communal facilities and partially covered with earthfill.
 
@@ -14,7 +14,7 @@ To encourage greenery and to conceal car park spaces, developments may provide l
 
 ![Landscape Deck](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F13_Landscape_Deck.jpg?h=100%25&w=100%25)
 
-## Deck Treatment for Landscape Deck
+### Deck Treatment for Landscape Deck
 
 A landscape deck may be provided if the site meets the following parameters:
 
@@ -26,7 +26,7 @@ The above parameters are to ensure that the site is sufficiently large for a lan
 
 As landscape decks with parking provisions are better alternatives to multi-storey car parks, flats developments with landscape decks may not be allowed to provide multi-storey car parks.
 
-## Guidelines for Landscape Deck
+### Guidelines for Landscape Deck
 
 | Criteria                                     | Requirements                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

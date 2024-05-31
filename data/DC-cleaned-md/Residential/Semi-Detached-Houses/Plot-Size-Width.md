@@ -1,27 +1,27 @@
+
+## Plot Size and Width for Semi-Detached Houses
 ---
 title: Plot Size and Width for Semi-Detached Houses
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Plot-Size-Width
 date: 8 April 2024
 ---
 
-# Plot Size and Width for Semi-Detached Houses
-
 The plot size and width refers to the net dimension and area of the plot excluding the land required to be set aside for vesting to the State e.g. excluding Drainage Reserve (DR) and/or Road Reserve (RR).
 
 ![Plot Size and Width](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/SD01_Plot_Size_Width.jpg?h=100%25&w=100%25)
 
-## Guidelines for Plot Size and Width
+### Guidelines for Plot Size and Width
 
 | Semi-Detached House Type                                              | Plot Size (Minimum) | Plot Width (Minimum) |
 | --------------------------------------------------------------------- | ------------------- | -------------------- |
 | Side-to-side semi-detached house including corner terrace (Type I)(1) | 200sqm              | 8m                   |
 | Back-to-back semi-detached house                                      | 200sqm              | 10m                  |
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1): Refer to guidelines for [Terrace houses](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace).
 
-## Plot Width for Irregular Plots
+### Plot Width for Irregular Plots
 
 For plots of irregular shape within existing landed housing estates, slight deficiency in the required plot width for semi-detached housing may be considered provided:
 

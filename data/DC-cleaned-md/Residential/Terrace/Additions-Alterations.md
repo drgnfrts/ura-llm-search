@@ -1,12 +1,12 @@
+
+## Additions and Alterations to Landed Housing
 ---
 title: Additions and Alterations to Landed Housing
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Additions-Alterations
 date: 5 July 2019
 ---
 
-# Additions and Alterations to Landed Housing
-
-## Proposals Considered as Additions & Alterations
+### Proposals Considered as Additions & Alterations
 
 Proposals shall meet the following criteria to qualify as an Additions & Alterations (A&A) proposal:
 
@@ -16,7 +16,7 @@ Proposals shall meet the following criteria to qualify as an Additions & Alterat
 - Changes/replacement of entire roof (with/without resultant increase in height) shall not involve an additional storey;
 - Addition of an attic, provided the increase in GFA shall be less than 50%.
 
-## Proposals Considered as Reconstruction
+### Proposals Considered as Reconstruction
 
 Proposals that do not comply with the criteria for Additions & Alterations shall be considered as Reconstruction proposals. Works resulting in the following outcomes shall also be deemed as reconstruction, regardless of whether the works exceed 50% of the existing building GFA:
 
@@ -25,7 +25,7 @@ Proposals that do not comply with the criteria for Additions & Alterations shall
 
 For existing landed housing approved under previous landed housing guidelines, new Additions and Alterations works shall comply with the permissible building envelope in the Envelope Control guidelines. Where the existing building already exceeds the permissible building envelope, the new Additions and Alterations shall not further increase the building bulk. URA will assess such applications on the merits of the proposal to ensure that the outcome is not worse off.
 
-## Retaining Existing Non-Conforming Structures in Additions and Alterations Proposals
+### Retaining Existing Non-Conforming Structures in Additions and Alterations Proposals
 
 URA may consider allowing landed houses undergoing Additions & Alterations (A&A) works or reconstruction to retain non-conforming structures(1), subject to the following requirements:
 
@@ -35,6 +35,6 @@ URA may consider allowing landed houses undergoing Additions & Alterations (A&A)
 
 URA shall be notified immediately if any of the non-conforming structures approved to be retained are demolished. The Qualified Person appointed by the owner shall make an amendment application for the new works to comply with prevailing DC guidelines, before any new works are carried out on site.
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1): Non-conforming Structures: Structures within the existing house that were approved and built in the past, but do not comply with the prevailing development control guidelines.

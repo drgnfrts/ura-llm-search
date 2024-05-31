@@ -1,10 +1,10 @@
+
+## Structural Protrusion
 ---
 title: Structural Protrusion
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/StructuralProtrusion
 date: 26 Jul 2023
 ---
-
-# Structural Protrusion
 
 Building features which are excluded from GFA can be allowed to extend from the building wall line to serve different needs. These features are typically short appendages and not extensive overhangs.
 

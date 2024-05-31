@@ -1,14 +1,14 @@
+
+## Gross Plot Ratio
 ---
 title: Gross Plot Ratio
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/C-CI/GPR
 date: 5 July 2019
 ---
 
-# Gross Plot Ratio
-
 The guideline on the allowable Gross Plot Ratio (GPR) for new Civic and Community Institution (C&CI) developments shall take into account the character of the surrounding area. The allowable GPR in the table below is the upper bound. The actual allowable GPR would depend on site conditions, traffic situation, impact of the C&CI development on the nearby developments and other agencies’ requirements.
 
-## Allowable Gross Plot Ratio
+### Allowable Gross Plot Ratio
 
 | Location                                                                                                           | Gross Plot Ratio Control                         |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ----------- |
@@ -26,7 +26,7 @@ GPR for sites where vesting is required
 
 For redevelopment of existing approved C&CI developments or to carry out major extensions to them, the proposed increase in GPR or Gross Floor Area (GFA) is subject to planning consideration taking into account the location of the development, context of the surrounding area and requirements of other government agencies. Planning approval from URA shall be obtained first before commencement of works.
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1) **Drainage Reserve (DR)**: An area safeguarded for purposes of building or widening a public drain
 

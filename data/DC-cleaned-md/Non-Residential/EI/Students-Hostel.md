@@ -1,10 +1,10 @@
+
+## Students’ Hostels
 ---
 title: Students’ Hostels
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/Students-Hostel
 date: 5 July 2019
 ---
-
-# Students’ Hostels
 
 A students’ hostel or dormitory is used for lodging by students unrelated by blood, marriage, adoption or legal guardianship. The premises are considered as students’ hostel if:
 
@@ -13,7 +13,7 @@ A students’ hostel or dormitory is used for lodging by students unrelated by b
 
 Students’ hostels may either be ancillary to the EI development, for example as a separate dormitory building that serves students/staff of the school or independent developments.
 
-## Location
+### Location
 
 Students’ hostel developments may be allowed on sites zoned Educational Institution, Commercial/Residential, and Residential with 1st storey Commercial.
 
@@ -24,7 +24,7 @@ Independent students’ hostel developments may also be allowed on sites zoned R
 - The site shall be fronting a category 2 or 3 road; and
 - The amenity of the surrounding areas shall not adversely affect.
 
-## Conversions of Existing Flats to Students’ Hostel
+### Conversions of Existing Flats to Students’ Hostel
 
 Conversion of existing flats to students’ hostel may be either on an en-bloc or a ‘per floor’ basis. Conversion on a ‘per floor’ basis (i.e., all the flat units on the same floor sharing a common staircase or lift access) may be considered only under a single Temporary Permission (TP) regardless of the number of owners involved, provided that it does not result in dis-amenity to other residents.
 

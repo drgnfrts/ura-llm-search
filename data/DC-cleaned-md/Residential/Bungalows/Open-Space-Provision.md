@@ -1,10 +1,10 @@
+
+## Open Space Provision
 ---
 title: Open Space Provision
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Open-Space-Provision
 date: 5 July 2019
 ---
-
-# Open Space Provision
 
 The National Parks Board (NParks) requires new landed housing development clusters of a certain total Gross Floor Area (GFA) to set aside an open space plot at a rate of 4.05sqm of open space for every 56sqm of gross floor area(1).
 

@@ -1,10 +1,10 @@
+
+## Lift Shaft
 ---
 title: Lift Shaft
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/LiftShaft
 date: 28 Mar 2024
 ---
-
-# Lift Shaft
 
 The lift shafts, including the half thickness of the walls, are included as GFA once at the lowest floor.
 

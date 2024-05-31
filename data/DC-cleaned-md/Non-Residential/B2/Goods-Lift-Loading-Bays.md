@@ -1,14 +1,14 @@
+
+## Goods Lifts and Loading Bays
 ---
 title: Goods Lifts and Loading Bays
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B2/Goods-Lift-Loading-Bays
 date: 5 July 2019
 ---
 
-# Goods Lifts and Loading Bays
-
 Industrial developments (excluding full ramp-up developments) shall have a minimum provision of goods lifts and loading bays to support the needs and operations of industries. The required number of goods lifts and loading bays is shown below:
 
-## Goods Lifts and Loading Bays Requirements
+### Goods Lifts and Loading Bays Requirements
 
 | Maximum Permissible GFA of Development | Requirement                              |
 | -------------------------------------- | ---------------------------------------- |

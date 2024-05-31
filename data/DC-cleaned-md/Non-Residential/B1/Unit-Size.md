@@ -1,10 +1,10 @@
+
+## Minimum Unit Size
 ---
 title: Minimum Unit Size
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Unit-Size
 date: 5 July 2019
 ---
-
-# Minimum Unit Size
 
 Minimum Unit Size
 

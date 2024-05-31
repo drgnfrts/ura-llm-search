@@ -1,10 +1,10 @@
+
+## Building Setback from Boundary
 ---
 title: Building Setback from Boundary
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Setback
 date: 15 Feb 2023
 ---
-
-# Building Setback from Boundary
 
 ![Illustration of Setback and Buffer](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F04_Road_Buffer_and_Setback.jpg?h=100%25&w=100%25)
 
@@ -25,7 +25,7 @@ Exceptions to the setback and buffer requirements are listed below:
 
 <sup>1</sup> **Road Reserve**: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
 
-## Road Buffer and Green Buffer
+### Road Buffer and Green Buffer
 
 | Road Category                | Type of Development             | Road Buffer (inclusive of Green Buffer indicated in brackets) |
 | ---------------------------- | ------------------------------- | ------------------------------------------------------------- |
@@ -37,7 +37,7 @@ Exceptions to the setback and buffer requirements are listed below:
 |                              | Residential up to 5 storeys     | 7.5m (3m)                                                     |
 | Category 4 - 5 and slip road | Residential                     | 7.5m (3m)                                                     |
 
-## Common Boundary Setback & Planting Strip
+### Common Boundary Setback & Planting Strip
 
 | Storey Height | Common Boundary Setback for Flats | Common Boundary Setback for Condominiums |
 | ------------- | --------------------------------- | ---------------------------------------- |
@@ -80,7 +80,7 @@ Exceptions to the setback and buffer requirements are listed below:
 
 **Note**: A 2m-wide (minimum) planting strip is to be provided along all common boundaries of the development site.
 
-## Setback of Flats and Condominiums from Good Class Bungalow Areas (GCBA)
+### Setback of Flats and Condominiums from Good Class Bungalow Areas (GCBA)
 
 | Storey Height        | Minimum Setback from GCBA Boundary                                                                                                                              |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -93,9 +93,9 @@ _Note_: A 2m-wide (minimum) planting strip is to be provided along all common bo
 
 \*Roof terrace(s), if proposed, shall be orientated to face away from the GCBA
 
-## Building Setback for Multi-Storey Car Parks (MSCP)
+### Building Setback for Multi-Storey Car Parks (MSCP)
 
-### Setback from Road
+#### Setback from Road
 
 | Road Category                | Setback from Road for all MSCPs (inclusive of Green Buffer indicated in brackets) |
 | ---------------------------- | --------------------------------------------------------------------------------- |
@@ -105,7 +105,7 @@ _Note_: A 2m-wide (minimum) planting strip is to be provided along all common bo
 
 **Note**: The road buffer for MSCPs facing a Category 3-5 road and slip road is based on the predominant use of the development. This is to achieve a consistent streetscape along these smaller roads.
 
-### Setback from Common Boundaries
+#### Setback from Common Boundaries
 
 | Multi-Storey Car Parks                                                                  | Setback from Common Boundaries |
 | --------------------------------------------------------------------------------------- | ------------------------------ |
@@ -113,7 +113,7 @@ _Note_: A 2m-wide (minimum) planting strip is to be provided along all common bo
 | MSCP façade with no openings                                                            | 4.5m (minimum)                 |
 | MSCP facade fronting open areas (ie open space, drainage reserve more than 6m in width) | 4.5m (minimum)                 |
 
-## Setback for Building Appendages
+### Setback for Building Appendages
 
 | Building Feature                                                                                                                                                                        | Within Road Buffer                              | Within Setback from Common Boundaries                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |

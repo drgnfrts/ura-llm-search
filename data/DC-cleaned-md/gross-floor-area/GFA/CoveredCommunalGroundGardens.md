@@ -1,12 +1,22 @@
+
+## Covered Communal Ground Gardens
 ---
 title: Covered Communal Ground Gardens
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/CoveredCommunalGroundGardens
 date: 26 Jul 2023
+
+### Columns within 45-Degree Line
+
+For scenarios where covered areas within the 45-degree line are excluded from GFA (e.g. Communal Covered Ground Garden and Sky Terraces), the area shadowed by columns are excluded from GFA.
+
+![Areas Covered by Column within 45-Degree Line](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-59A-Shadow-area-of-columns-within-45-degree-line_final.jpg)
+
+If the column is excessively large (akin to a wall), the shadowed area shall be included as GFA. The 45-degree line for GFA exemption is not applicable in such an instance.
+
+![Areas Covered by Wall within 45-Degree Line](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-59B-Shadow-area-of-columns-within-45-degree-line_final.jpg)
 ---
 
-# Covered Communal Ground Gardens
-
-## Covered Communal Ground Gardens (C2G2)
+### Covered Communal Ground Gardens (C2G2)
 
 Covered Communal Ground Gardens (C2G2) are on-ground greenery spaces at the 1<sup>st</sup> storey. Such gardens should flow seamlessly between the covered and uncovered spaces of the 1<sup>st</sup> storey and designed to be bright and airy with quality landscaping. There are two types of C2G2: Secondary C2G2 and Predominant C2G2.
 
@@ -14,7 +24,7 @@ All areas of the C2G2 shall be accessible to the public and/or building users du
 
 A landscape plan showing the proposed landscaping scheme and areas within/beyond the 45-degree line shall be submitted as part of the development application for assessment of the proposed C2G2.
 
-## Secondary C2G2
+### Secondary C2G2
 
 Secondary C2G2 are communal landscaped areas on the 1st storey which are shaded by a structure or a floor or overhang above. These may be excluded from GFA up to a maximum area defined by a 45-degree line taken from the edge of the overhead projection. The communal landscaped areas excluded from GFA within the 45-degree line must be unenclosed, accessible and contain quality lush landscaping with a variety of vegetation.
 
@@ -22,7 +32,7 @@ Secondary C2G2 are communal landscaped areas on the 1st storey which are shaded 
 
 ![Secondary C2G2 (Section)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-15-Secondary-C2G2-section.jpg)
 
-## Predominant C2G2
+### Predominant C2G2
 
 For Predominant C2G2, the additional covered areas beyond the 45-degree line may be considered for exclusion from GFA if the spaces provide substantial ground greenery with good spatial quality.
 
@@ -40,14 +50,3 @@ While uses like ORA may be proposed within the C2G2, the ORA areas would be incl
 
 ![Predominant C2G2 (Section)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-15B-Predominant-C2G2-section_final.jpg)
 
----
-
-### Columns within 45-Degree Line
-
-For scenarios where covered areas within the 45-degree line are excluded from GFA (e.g. Communal Covered Ground Garden and Sky Terraces), the area shadowed by columns are excluded from GFA.
-
-![Areas Covered by Column within 45-Degree Line](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-59A-Shadow-area-of-columns-within-45-degree-line_final.jpg)
-
-If the column is excessively large (akin to a wall), the shadowed area shall be included as GFA. The 45-degree line for GFA exemption is not applicable in such an instance.
-
-![Areas Covered by Wall within 45-Degree Line](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-59B-Shadow-area-of-columns-within-45-degree-line_final.jpg)

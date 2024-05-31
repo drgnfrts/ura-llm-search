@@ -1,10 +1,10 @@
+
+## Building Height
 ---
 title: Building Height
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Transport/Height
 date: 4 December 2019
 ---
-
-# Building Height
 
 Building Height
 

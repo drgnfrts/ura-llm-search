@@ -1,10 +1,10 @@
+
+## Building Setback from Boundary
 ---
 title: Building Setback from Boundary
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Agriculture/Building-Setback
 date: 20 September 2019
 ---
-
-# Building Setback from Boundary
 
 ![Building Setback](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Agriculture/Agriculture-Building-Setback-Illustration-2.jpg)
 
@@ -14,7 +14,7 @@ All Agriculture developments fronting a public road shall provide a road buffer,
 
 The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The common boundary setback requirements are in Table 2 below.
 
-## Road Buffer and Green Buffer
+### Road Buffer and Green Buffer
 
 **Road Buffer and Green Buffer**
 
@@ -25,7 +25,7 @@ The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The
 | Category 3     | 5m (3m)                                                               |
 | Category 4 & 5 | 5m (3m)                                                               |
 
-## Common Boundary Setback & Planting Strip
+### Common Boundary Setback & Planting Strip
 
 **Common Boundary Setback & Planting Strip**
 
@@ -34,7 +34,7 @@ The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The
 | Along common boundaries with non-agriculture developments, drainage reserve and backlanes | 4.5m (including 2m planting strip)   |
 | Along common boundaries with other agriculture developments                               | 2m (no planting strip required)      |
 
-## Setback for Building Appendages
+### Setback for Building Appendages
 
 **Setback for Building Appendages**
 
@@ -43,6 +43,6 @@ The buffer requirements for the Road Categories 1 to 5 are in Table 1 below. The
 | Main building roof eaves                                 | Allowed, provided it is not within green buffer | Allowed, provided it is not within the 2.0m planting strip |
 | Secondary building roof eaves & RC ledges (cantilevered) | Allowed, provided it is not within green buffer | Allowed, provided it is not within the 2.0m planting strip |
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1) Road Reserve: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.

@@ -1,10 +1,10 @@
+
+## Building Setback from Boundary
 ---
 title: Building Setback from Boundary
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/SR/Setback
 date: 23 October 2023
 ---
-
-# Building Setback from Boundary
 
 Setback Requirements
 
@@ -16,11 +16,11 @@ All S&R developments fronting a public road shall provide a road buffer, the wid
 
 The buffer requirements for the Road Categories 1 to 5 are in the following table:
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1) Road Reserve: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
 
-### Road Buffer, Green Buffer
+#### Road Buffer, Green Buffer
 
 | Road Category                | Road Buffer (inclusive of Green Buffer) |
 | ---------------------------- | --------------------------------------- |
@@ -29,13 +29,13 @@ The buffer requirements for the Road Categories 1 to 5 are in the following tabl
 | Category 3                   | 5m (3m)                                 |
 | Category 4 - 5 and slip road | 5m (3m)                                 |
 
-### Common Boundary Setback & Planting Strip
+#### Common Boundary Setback & Planting Strip
 
 | Type of Boundary                        | Building Setback Requirement               |
 | --------------------------------------- | ------------------------------------------ |
 | Common boundary with other developments | Minimum 4.5m (including 2m planting strip) |
 
-### Setback for Building Appendages
+#### Setback for Building Appendages
 
 | Building Feature                               | Within Road Buffer                                  | Within Setback from Common Boundaries                      |
 | ---------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- |

@@ -1,10 +1,10 @@
+
+## Serviced Apartments
 ---
 title: Serviced Apartments
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Serviced-Apartments
 date: 1 December 2023
 ---
-
-# Serviced Apartments
 
 Serviced Apartments (SA) are self-contained apartments with kitchenettes/kitchens, and typically provide support services such as concierge, common dining areas, housekeeping and/or laundry for the residents.
 
@@ -16,14 +16,14 @@ Support services such as concierge, housekeeping and/or laundry provided for the
 
 SA may be allowed in Residential zones and may also be considered on mixed-use sites where residential uses are allowed.
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1): The following areas would generally be excluded from being considered as covered communal facilities exclusively for co-living tenants' use:
   - Public areas or facilities not exclusive to co-living tenants (e.g. communal areas that double as public cafes, public co-working offices)
   - Functional and circulation spaces (e.g. concierge/check-in areas, back-of-house, corridors)
   - Open-to-sky areas (e.g. open roof terraces)
 
-## SA within Residential zones (incl. mixed use sites with a residential component)
+### SA within Residential zones (incl. mixed use sites with a residential component)
 
 Applicants may submit an Outline Application to URA to determine the suitability of the location, the Gross Plot Ratio (GPR) control and the storey height for a proposed SA.
 
@@ -31,6 +31,6 @@ SA may be allowed where the site fronts a major or arterial road (i.e. Category 
 
 SA shall not be allowed within the designated Landed Housing Areas; areas where SA may potentially cause dis-amenities to the neighbouring residents; and areas where there are already dis-amenities in the surroundings (examples of such areas can be found under the [Hotels Handbook](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel)).
 
-## SA within mixed-use areas
+### SA within mixed-use areas
 
 SA may be considered in mixed-use areas and are not restricted by the category of roads fronting the site.

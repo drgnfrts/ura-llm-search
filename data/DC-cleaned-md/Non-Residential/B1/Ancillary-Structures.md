@@ -1,10 +1,10 @@
+
+## Ancillary Structures
 ---
 title: Ancillary Structures
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Ancillary-Structures
 date: 5 July 2019
 ---
-
-# Ancillary Structures
 
 Setback Requirements for Ancillary Structures
 
@@ -16,7 +16,7 @@ Ancillary structures located within the green buffer may be assessed in accordan
 
 Ancillary structures located within the physical buffer and building setback that exceed the requirements in the table below, but are below 6m in height, shall be evaluated depending on the merits of the design and function.
 
-## Setback and Height Control for Ancillary Structures
+### Setback and Height Control for Ancillary Structures
 
 | Type of Ancillary Structures | Required Setback from the Road                        | Required Setback from the Other Boundaries | Height Control                          |
 | ---------------------------- | ----------------------------------------------------- | ------------------------------------------ | --------------------------------------- |

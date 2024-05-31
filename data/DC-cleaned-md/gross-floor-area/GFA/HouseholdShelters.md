@@ -1,10 +1,10 @@
+
+## Household Shelters
 ---
 title: Household Shelters
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/HouseholdShelters
 date: 26 Jul 2023
 ---
-
-# Household Shelters
 
 Household shelters are included as GFA.
 

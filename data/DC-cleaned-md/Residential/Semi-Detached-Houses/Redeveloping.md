@@ -1,12 +1,12 @@
+
+## Redeveloping to a Semi-Detached House
 ---
 title: Redeveloping to a Semi-Detached House
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Semi-Detached-Houses/Redeveloping
 date: Redeveloping to a Semi-Detached House
 ---
 
-# Redeveloping to a Semi-Detached House
-
-## Introduction
+### Introduction
 
 The illustrations apply to houses within Designated Landed Housing Areas (DLHAs). For proposals outside DLHAs, the left-behind plot must fulfil the minimum plot size requirement of 1,000 sqm.
 
@@ -20,7 +20,7 @@ Any unit in a row of intermediate terrace houses may be redeveloped to a semi-de
 - The plot size and width are sufficient to allow the change, and
 - The adjacent affected unit that the subject unit is detaching from, may be rebuilt into a corner terrace unit in the future (ie has a minimum plot size of 200sqm and width of 8m).
 
-### Treatment of Existing Party Walls
+#### Treatment of Existing Party Walls
 
 The creation of a new blank party wall at the common boundary for a new house is generally not allowed.
 
@@ -32,23 +32,23 @@ For all redevelopments involving detachment from an existing unit, resulting in 
 
 After the adjoining semi-detached house is redeveloped, the remaining semi-detached unit may remain as approved.
 
-## Illustrated Examples
+### Illustrated Examples
 
-### Redevelopment of Existing Semi-detached House to Bungalow or Semi-detached House
+#### Redevelopment of Existing Semi-detached House to Bungalow or Semi-detached House
 
-#### Scenario 1a
+##### Scenario 1a
 
 ![https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig171_Redevelopment_A1_NA.jpg](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig171_Redevelopment_A1_NA.jpg)
 
 Not Allowed: The left-behind Plot A is not large enough for a standard bungalow. House B shall not be allowed to break away and be redeveloped into a bungalow.
 
-#### Scenario 1b
+##### Scenario 1b
 
 ![https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig171_Redevelopment_A2_A.jpg?h=876&w=2201](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig171_Redevelopment_A2_A.jpg?h=876&w=2201)
 
 Allowed: B may redevelop into a semi-detached house and a bungalow.
 
-#### Scenario 2
+##### Scenario 2
 
 ![https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig171_Redevelopment_C1_A.jpg?h=876&w=2580](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig171_Redevelopment_C1_A.jpg?h=876&w=2580)
 
@@ -64,27 +64,27 @@ Owner of House B shall be required to comply with the following conditions:
 2. Allow the owner of the adjacent house access to the subject site to maintain or repair the roof and the exposed blank wall of the remaining house; and
 3. Submit to BCA an engineer’s certification of the structural stability of the remaining house.
 
-#### Scenario 3
+##### Scenario 3
 
 ![https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig175_Redevelopment_B_NA.jpg](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig175_Redevelopment_B_NA.jpg)
 
 Not Allowed: Plot B shall not be allowed to redevelop into a semi-detached house and a bungalow because it would prejudice the development option for A to breakaway away and redevelops into a bungalow.
 
-#### Scenario 4a
+##### Scenario 4a
 
 ![Not Allowed](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig174_Redevelopment_A1_NA.jpg)
 
 Not Allowed: B shall not be allowed to redevelop into 2 terrace houses because A is a semi-detached house.
 
-#### Scenario 4b
+##### Scenario 4b
 
 ![Allowed](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig174_Redevelopment_A2_A.jpg)
 
 Allowed: A joint redevelopment by both A and B into 4 terrace houses may be allowed.
 
-### Redevelopment of Existing Intermediate Terrace House to Bungalow, Semi-detached and Corner Terrace
+#### Redevelopment of Existing Intermediate Terrace House to Bungalow, Semi-detached and Corner Terrace
 
-#### Scenario 1
+##### Scenario 1
 
 ![https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig172_Redevelopment_A1_A.jpg](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig172_Redevelopment_A1_A.jpg)
 
@@ -100,7 +100,7 @@ Owner of House E shall be required to comply with the following conditions:
 
 House E may also redevelop into an intermediate terrace and corner terrace.
 
-#### Scenario 2
+##### Scenario 2
 
 ![https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig172_Redevelopment_B_NA.jpg](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig172_Redevelopment_B_NA.jpg)
 

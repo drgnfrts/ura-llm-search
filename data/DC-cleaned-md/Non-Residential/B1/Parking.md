@@ -1,20 +1,20 @@
+
+## Parking
 ---
 title: Parking
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/B1/Parking
 date: 28 June 2023
 ---
 
-# Parking
-
 LTA prescribes the parking provision standards and requirements for motor vehicles and bicycles. The requirements are usually based on the quantum of the gross floor area or the number of units of the development uses.
 
-## Car and Motor-Cycle Parking
+### Car and Motor-Cycle Parking
 
 Under LTA’s Range-based Parking Provision Standards (RPPS), developments are subject to car and motor-cycle(1) parking provision requirements.
 
 Unless explicitly approved as private parking lots in the approved plans, all car and motor-cycle parking lots shall be treated as common property.
 
-### Range-based Parking Provision Standards (RPPS)
+#### Range-based Parking Provision Standards (RPPS)
 
 The RPPS allows developments to provide any level of car and motor-cycle parking provision within a specified range, defined by a lower bound and an upper bound – see figure below. The range varies according to location zones and land uses. Details may be found in [LTA’s Code of Practice for Vehicle Parking Provision in Developments](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle_parking/requirements_for_vehicle_parking_proposals.html).
 
@@ -24,7 +24,7 @@ Range-based Parking Provision Standards:
 
 New B1 developments shall be subject to a process of waiver evaluation by LTA, if one wishes to provide surplus car and motor-cycle parking lots, ie parking provision above the upper bound based on the new RPPS.
 
-### Private Parking Lots
+#### Private Parking Lots
 
 Within multi-user developments, industrial strata units may be allowed to have their own private car/lorry parking lots subject to the following:
 
@@ -39,11 +39,11 @@ For approved private car/lorry parking areas that were previously not computed a
 - The remaining number of parking lots after the conversion still meets LTA’s minimum parking provision;
 - SLA may levy Land Betterment Charge, where applicable.
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1): Motor-cycle parking provision is mandatory in all non-residential developments.
 
-## Bicycle Parking
+### Bicycle Parking
 
 To promote a car-lite society, B1 developments may be required to provide bicycle parking facilities within the developments.
 

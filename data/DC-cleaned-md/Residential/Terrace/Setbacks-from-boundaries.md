@@ -1,14 +1,14 @@
+
+## Building Setback from Boundary
 ---
 title: Building Setback from Boundary
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Setbacks-from-boundaries
 date: 25 September 2023
 ---
 
-# Building Setback from Boundary
-
 ![Building Setback of Terrace Type I Houses](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/TH02_Setbacks_Terrace_1.jpg?h=100%25&w=100%25)
 
-## Road Buffer and Green Buffer
+### Road Buffer and Green Buffer
 
 | Road Category                       | Terrace Type I Road Buffer (Inclusive of Green Buffer indicated in brackets)                                                                                                | Terrace Type II Road Buffer (Inclusive of Green Buffer indicated in brackets) |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -23,12 +23,12 @@ In developing a site for multiple units of landed houses, the proposed developme
 
 Refer to Ancillary Structures sub-section for the setback requirement for minor structures, [Basements](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/EC[) section for basement setbacks, and [Building Appendages](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Building-Appendages) section for allowable encroachment of minor building features into the setback areas.
 
-### Notes and Definitions:
+#### Notes and Definitions:
 
 - (@): While the roof eaves may be within the permissible building envelope, such features may require further evaluation depending on the site context. Refer to [Building Appendages](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Building-Appendages) section.
 - (#): The 2.4m setback applies only to the 3m (maximum) car porch width (measured column to column). Beyond this 3m, other car porch setbacks shall follow the terrace/patio setback requirements. A wider car porch may be considered on the merits of the proposal.
 
-## Setbacks from Common Boundaries
+### Setbacks from Common Boundaries
 
 | **Structure**                                   | **Terrace Type I**                                                                                               | **Terrace Type II**                                                                                |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -37,11 +37,11 @@ Refer to Ancillary Structures sub-section for the setback requirement for minor 
 
 Refer to [Ancillary Structures](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Setbacks-from-boundaries/Ancillary-Structures) sub-section for the setback requirement for minor structures, [Basements](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/EC) section for basement setbacks, and [Building Appendages](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Building-Appendages) section for allowable encroachment of minor building appendages into the setback areas.
 
-### Notes and Definitions
+#### Notes and Definitions
 
 - (1): While the roof eaves may be within the permissible building envelope, such features may require further evaluation depending on the site context. Refer to [Building Appendages](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Terrace/Building-Appendages) section.
 
-## Setbacks for existing irregular or odd-shaped plots (excluding newly created plots)
+### Setbacks for existing irregular or odd-shaped plots (excluding newly created plots)
 
 For already existing irregular or odd-shaped plots (excluding newly created ones), the standard 7.5m building setback from a road shall apply for a width of 8m, measured from the common boundary line with the adjoining neighbour. Beyond the 8m width, a reduced 2m building setback may be allowed, except for the car porch where a minimum 2.4m setback is required.
 
@@ -55,13 +55,13 @@ A plot is deemed irregular or odd-shaped if:
 - The an odd-shaped site is fronting a minor road (ie category 4 or 5),
 - The resultant building footprint cannot achieve a meaningful layout after complying with the standard 7.5m road buffer requirement.
 
-### Examples where Reduced Setbacks do not apply
+#### Examples where Reduced Setbacks do not apply
 
 ![Example Image](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Redevelopment/LH_Fig182a_Redevelopment_NA.jpg)
 
 B1 & B2 are newly created constrained plots. Such new subdivisions are not eligible to apply the reduced front setback guideline.
 
-## Rear Setback for Terrace Houses Abutting Existing Back Lanes
+### Rear Setback for Terrace Houses Abutting Existing Back Lanes
 
 The 1st storey rear extension of terrace houses may be allowed to abut existing back lanes. Such back lanes (with widths of between 4 to 6m) would provide adequate setback between 2 rows of houses.
 
@@ -78,7 +78,7 @@ All such rear extensions shall comply with the following requirements:
 - Any new openings, where allowed, shall open inwards.
 - A planning condition may be imposed requiring the closure of any openings along the back lane, in the event the back lane is redeveloped.
 
-## Rear Garden Landed Housing
+### Rear Garden Landed Housing
 
 "Rear garden" landed housing allows for a larger garden at the rear, with a narrower setback from the road. This orientation is a reversal of conventional guidelines which require landed housing developments to be setback 7.5m from the road reserve line. Houses with rear gardens shall be sited within their own enclave, and segregated from the rest of the estate with their own access road.
 
@@ -101,7 +101,7 @@ Setback Requirements for Rear Garden Landed Housing
 
 All other relevant landed housing guidelines (eg envelope control height) shall apply.
 
-## Ancillary Structures
+### Ancillary Structures
 
 Ancillary structures shall adhere to the required setbacks as shown in the table below.
 

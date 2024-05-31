@@ -1,12 +1,12 @@
+
+## Greenery
 ---
 title: Greenery
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Greenery
 date: 29 November 2022
 ---
 
-# Greenery
-
-## Landscaping for Urban Spaces and High-Rises (LUSH)
+### Landscaping for Urban Spaces and High-Rises (LUSH)
 
 LUSH is a comprehensive urban and skyrise greening programme comprising both Landscape Replacement Areas (LRA) requirements and incentives to provide greenery and communal spaces.
 
@@ -18,7 +18,7 @@ Landscape Replacement Areas
 
 ![Image 2: Landscape Replacement Areas](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/F09_Landscape_Replacement_Small.jpg?h=580&w=1000)
 
-### Landscape Replacement Areas (LRA) Guidelines in Strategic Areas
+#### Landscape Replacement Areas (LRA) Guidelines in Strategic Areas
 
 Developments in identified Strategic Areas shall provide LRA that is minimally equivalent to the development’s gross site area, as shown in the table and diagram below. At least 40% of the LRA requirement shall be reserved for softscape (permanent planting) areas. The remaining LRA requirement may be provided as hardscape.
 
@@ -28,7 +28,7 @@ The Green Plot Ratio (GnPR) provides an objective measure of the density of gree
 
 The Total Leaf Area shall be computed based on the Leaf Area Index (LAI) for each plant species, canopy area (for trees and palms) and the quantity planted. The plant species sub-categories and LAI values may be obtained online from NParks’ [Flora Fauna Web](https://www.nparks.gov.sg/florafaunaweb) by searching the common or scientific names of plants.
 
-#### LRA Requirements for Developments in Strategic Areas
+##### LRA Requirements for Developments in Strategic Areas
 
 | Location                                             | Developments in Strategic Areas | Developments in Strategic Areas Outside Central Area, with Height Control ≤80m(1) |
 | ---------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------- |
@@ -38,7 +38,7 @@ The Total Leaf Area shall be computed based on the Leaf Area Index (LAI) for eac
 
 _1_ _Building height is based on Singapore Height Datum (SHD)._
 
-#### List of Strategic Areas
+##### List of Strategic Areas
 
 The Strategic Areas are as follows:
 
@@ -82,7 +82,7 @@ The table below shows the guidelines for computation of LRAs in Strategic Areas.
 - Horizontal surface area of the hardscape eg communal facilities, urban farm; and
 - Vertical surface area of green walls and extensive green roofs (if any).
 
-#### Guidelines for LRAs in Strategic Areas
+##### Guidelines for LRAs in Strategic Areas
 
 | LRA in Strategic Areas                    | Definition/Guidelines                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -94,7 +94,7 @@ The table below shows the guidelines for computation of LRAs in Strategic Areas.
 | Ownership                                 | In strata subdivided developments, the LRAs shall be part of common property. Building owners shall retain the required LRAs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Clearance Process and Requirements        | URA’s clearance of the completed Landscape Replacement Areas provided by developments within Strategic Areas is required before the Commissioner of Building Control issues the Temporary Occupation Permit (TOP), or Certificate of Statutory Completion (CSC) (when TOP is not required). In your submission, please include accurately labelled photographs (in pdf file format) showing the completed Landscape Replacement Areas. URA will evaluate the photographs submitted and, if necessary, arrange for a site inspection before issuing the Clearance for the completed works. Applicants are also required to declare upfront to the Commissioner of Building Control at the point of application for TOP or CSC (when TOP is not required), that URA’s Clearance is required for Landscape Replacement Areas before issuance of TOP, or CSC (when TOP is not required).                                                                                                                                                                               |
 
-### Plan Presentation Requirements for Landscape Replacement Areas
+#### Plan Presentation Requirements for Landscape Replacement Areas
 
 A Landscape Plan for all Landscape Replacement Areas shall be submitted together with the Development Application, as illustrated below.
 
@@ -140,33 +140,33 @@ Green Plot Ratio Computation Template
 | (Y) Site Area             |      |                                  |            |                 |                  |                 |
 | (X/Y) Green Plot Ratio    |      |                                  |            |                 |                  |                 |
 
-## LUSH Incentives
+### LUSH Incentives
 
 The following incentive schemes can be used throughout the development to provide greenery and communal spaces.
 
-### Sky Terraces
+#### Sky Terraces
 
 Sky terraces are communal garden spaces provided at the intermediate storeys of a building.
 
 To qualify for GFA exemption, sky terraces shall comply with the criteria in the following table.
 
-#### Sky Terrace Area as % of Floor Plate
+##### Sky Terrace Area as % of Floor Plate
 
 - Sky Terrace: Not applicable
 - Predominant Sky Terrace: The sky terrace area within the 45-degree line occupies equal to or more than 60% of the floor plate.
 
-#### Perimeter Openness
+##### Perimeter Openness
 
 - Sky Terrace: At least 40% of the perimeter of the sky terrace is to remain open(1) and unenclosed.
 - Predominant Sky Terrace: At least 60% of the perimeter of the sky terrace is open(1) and unenclosed.
 
 Parapet walls shall not exceed 1.3m in height to be considered open.
 
-#### Depth of Sky Terrace
+##### Depth of Sky Terrace
 
 The proposed depth of the sky terrace shall be minimally 5.0m throughout.
 
-### Landscaping
+#### Landscaping
 
 Plants shall be incorporated on permanent and preferably sunken planting, planned with sufficient soil depth based on the types of plants proposed. The planting shall be well externalised.
 
@@ -176,22 +176,22 @@ As an alternative to providing sunken planting beds, building owners can provide
 
 The sky terraces shall be designed with safety and maintainability provisions in mind.
 
-#### Accessibility and Ownership
+##### Accessibility and Ownership
 
 The sky terrace shall be accessible to all occupants of the building and there shall be at least one set of communal access via a lift or staircase serving the sky terrace. Secondary access to the sky terrace from strata units can be supported.
 
 The layout of sky terrace floors shall be subject to evaluation to ensure that the sky terrace space is meant for communal use and is not treated as a privatised space. For sky terraces in residential developments that occupy less than 60% of the floor plates, the sky terraces shall serve a minimum of 2 strata units to ensure that they remain as communal space. They shall remain as common property in strata subdivided developments.
 
-#### Drop Panels
+##### Drop Panels
 
 Where proposed, drop panels at the perimeter shall be visually transparent and may be in the form of louvres, fins, transparent glass, or other sun shading/weather protective devices. The panel shall not exceed one third of the height of the external opening. The area of GFA exemption(2) as defined by a 45-degree line shall be taken from the underside of any permanent or opaque structure, and not from the underside of a drop panel.
 
-#### Additional Height
+##### Additional Height
 
 - Sky Terrace: Not eligible.
 - Predominant Sky Terrace: Refer to Additional Height for Predominant Sky Terrace Storey sub-section in the Residential and Non-Residential Handbooks.
 
-#### GFA Exemption
+##### GFA Exemption
 
 - Sky Terrace: For sky terraces occupying less than 60% of the floor plate, the maximum area for GFA exemption of the sky terrace is defined by the area covered by a 45-degree line taken from the edge of the overhead projection.
 - Predominant Sky Terrace: URA may grant additional GFA exemption for residual areas beyond the 45-degree line (capped at 20% of the floor plate area), if such areas form an integral part of the sky terrace or are part of the barrier-free/fire escape corridors.
@@ -203,11 +203,11 @@ Corridors may be exempted from GFA computation for all sky terraces regardless o
 - At least 40% of the perimeter of the sky terrace is to remain open(1) and unenclosed.
 - The corridor does not serve as the primary access to units located on the same floor as the sky terrace.
 
-#### Submission Requirements
+##### Submission Requirements
 
 A Landscape Plan and relevant sections for the sky terrace showing the proposed landscaping scheme, planting palette, soil depth and communal facilities shall be submitted as part of the Development Application.
 
-#### Definitions and Notes
+##### Definitions and Notes
 
 - (1): Parapet walls shall not exceed 1.3m in height to allow for more openness.
 - (2): The 45-degree GFA exemption area may be taken from all external parapet walls (including recessed external parapet walls) surrounding the sky terrace.
@@ -216,7 +216,7 @@ Typical Landscape Plan
 
 ![Typical Landscape Plan](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/F11-Example-of-Landscape-Plan_final.jpg)
 
-### Communal Planter Boxes
+#### Communal Planter Boxes
 
 Communal planter boxes shall comply with the following criteria:
 
@@ -230,7 +230,7 @@ Details of the communal planter boxes, including planting palette, spot sections
 
 Communal planter boxes shall be designed with safety and maintainability provisions in mind.
 
-### Covered Communal Ground Gardens
+#### Covered Communal Ground Gardens
 
 Covered Communal Ground Gardens (C2G2) are on-ground greenery spaces at the 1st storey. The garden should flow seamlessly between the covered and uncovered spaces of the 1st storey and designed to be bright and airy with quality landscaping. There are two types of C2G2:
 
@@ -245,7 +245,7 @@ A landscape plan shall be submitted as part of the Development Application for t
 
 [](#Communal-Pavilions)
 
-### Communal Pavilions
+#### Communal Pavilions
 
 Communal pavilions are small-scale, ancillary landscaping features that function as sheltered, open-sided resting points. Access to the pavilions shall be from the common areas only.
 
@@ -258,7 +258,7 @@ Guidelines for Communal Pavilions
 | Ground Level | Maximum 50sqm per pavilion\*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Rooftop      | Rooftops shall remain open-to-sky unless otherwise approved by URA. Where rooftop pavilions are allowed, they shall comply with the following requirements: Maximum 500sqm\* or 50% of roof coverage, whichever is lower. For developments which have reached the allowable storey height control, the pavilions shall remain open-sided when viewed externally. This is to ensure that the pavilions do not form an additional storey. For developments which have not reached the allowable storey height or are not located within areas subject to storey height control, maximum 50% perimeter enclosure of the rooftop pavilions may be allowed. Greenery on the rooftop shall be both enjoyable by the building users and visible from the surroundings. Plants shall be incorporated on permanent and preferably sunken planting, planned with sufficient soil depth based on the types of plants proposed. Some space shall be set aside for the provision of communal facilities and furniture to enhance the rooftop. |
 
-#### Definitions and Notes:
+##### Definitions and Notes:
 
 - \*: The area is defined as the area of pavilion measured up to the roof eaves line.
 

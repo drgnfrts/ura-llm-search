@@ -1,20 +1,24 @@
+
+## Locational Criteria
 ---
 title: Locational Criteria
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Bungalows/Locational-Criteria
 date: 10 March 2022
+
+```
+
+```
 ---
 
-# Locational Criteria
-
-## Safeguarded Landed Housing Areas
+### Safeguarded Landed Housing Areas
 
 An island-wide map layer showing the [Designated Landed Housing Area Plan](https://www.ura.gov.sg/maps/index.html?service=CTRLPLAN) is available on URA SPACE.
 
-## Good Class Bungalow Areas
+### Good Class Bungalow Areas
 
 The 39 Good Class Bungalow Areas (GCBA) in Singapore are listed in the table below. Refer to the [Designated Landed Housing Area Plan](https://www.ura.gov.sg/maps/index.html?service=CTRLPLAN) for their locations.
 
-## List of Good Class Bungalow Areas
+### List of Good Class Bungalow Areas
 
 - Belmont Park
 - Cornwall Gardens
@@ -56,19 +60,19 @@ The 39 Good Class Bungalow Areas (GCBA) in Singapore are listed in the table bel
 - King Albert Park
 - White House Park
 
-## Landed Housing guided by Street Block Plans
+### Landed Housing guided by Street Block Plans
 
 Where there is a street block plan to guide landed housing development, the planning guidelines and requirements stipulated in the street block plan shall apply.
 
-## Landed Housing In Other Areas
+### Landed Housing In Other Areas
 
 Other sites zoned for residential use in the prevailing Master Plan may be considered for landed housing developments, depending on site context and conditions. Landed houses outside Designated Landed Housing Areas and not guided by the street block plans are subject to a 3-storey height control. The prevailing landed housing planning guidelines and requirements shall also apply.
 
-## Conservation Guidelines
+### Conservation Guidelines
 
 Conservation guidelines shall also apply for landed housing gazetted for conservation, such as in the residential historic districts of Blair Plain, Cairnhill and Emerald Hill; Good Class Bungalow Areas like White House Park/Nassim Road, Chatsworth Park, and Holland Park/Ridout Park Conservation Areas; and black and white bungalows.
 
-## Street Block Plans
+### Street Block Plans
 
 - [Boon Teck Road/Jalan Kemamam (Novena Planning Area)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Boon-Teck-Road_Jalan-Kemamam.pdf)
 - [Cashew Terrace (Bukit Panjang Planning Area)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Cashew-Terrace.pdf)
@@ -103,8 +107,3 @@ Conservation guidelines shall also apply for landed housing gazetted for conserv
 - [Yan Kit Road (Outram Planning Area)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Yan-Kit-Road.pdf)
 - [Yuk Tong Avenue (Bukit Timah Planning Area)](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Yuk-Tong-Avenue.pdf)
 
----
-
-```
-
-```

@@ -1,10 +1,10 @@
+
+## Residential with Commercial at 1st Storey
 ---
 title: Residential with Commercial at 1st Storey
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Residential-1st
 date: 5 July 2019
 ---
-
-# Residential with Commercial at 1st Storey
 
 "Residential with Commercial at 1st Storey" developments include a combination of commercial uses and residential flats and may be developed on land zoned Residential with Commercial at 1st Storey or Commercial/Residential.
 
@@ -12,7 +12,7 @@ Specific guidelines for residential with commercial at the 1st storey developmen
 
 In addition to the guidelines for residential with commercial at the 1st storey developments, the commercial component shall comply with the [guidelines for commercial developments](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial) and the residential component shall comply with the [guidelines for residential flats developments](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums).
 
-## Location of Commercial Uses
+### Location of Commercial Uses
 
 Commercial uses are confined to the 1st storey.
 
@@ -35,13 +35,13 @@ If permitted, proposals to transfer commercial uses to the other storey shall co
 - The commercial uses shall be kept within the minimum height of the building edge for the streetblock or 4-storeys, whichever is applicable; and
 - The commercial uses shall not create disamenity to the adjoining residential use
 
-## Use Quantum and Allowable Uses
+### Use Quantum and Allowable Uses
 
 The allowable commercial quantum is determined by the 1st storey building footprint.
 
 Commercial uses that are likely to cause disamenity to the residents are not allowed. Examples of such commercial uses include night clubs and karaoke bars.
 
-## Building Setback
+### Building Setback
 
 Setback Requirements for Residential with 1st Storey Commercial Developments
 
@@ -53,11 +53,11 @@ All buildings in "Residential with Commercial at 1st Storey" developments fronti
 
 The road buffer and common boundary setback requirements for "Residential with Commercial at 1st Storey" developments are determined by the building form and are detailed in the table below.
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1) Road Reserve: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
 
-### Road Buffer and Common Boundary Setback
+#### Road Buffer and Common Boundary Setback
 
 | Use         | Road Buffer & Common Boundary Setback Requirements                                                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -69,7 +69,7 @@ The road buffer and common boundary setback requirements for "Residential with C
 - The site is within the [Central Area](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Flats-Condominiums/Central_Area_Map.pdf) (PDF, 436 KB); and/or
 - The site is constrained or if there is an intention to retain the existing streetscape which is abutting the road reserve line.
 
-## Floor-to-Floor Height
+### Floor-to-Floor Height
 
 The floor-to-floor height control for the various uses in the "Residential with Commercial at 1st storey" development is shown in the table below.
 
@@ -78,7 +78,7 @@ The floor-to-floor height control for the various uses in the "Residential with 
 | Commercial  | 5.0m                                       |
 | Residential | 1st storey: 5.0m, Subsequent storeys: 3.6m |
 
-## Pure Residential Developments on land zoned "Residential with Commercial at 1st Storey"
+### Pure Residential Developments on land zoned "Residential with Commercial at 1st Storey"
 
 - Outside Key Routes  
   Proposals for pure residential developments shall be assessed based on the compatibility of the proposal with the surrounding land uses and planning intention.
@@ -88,15 +88,15 @@ The floor-to-floor height control for the various uses in the "Residential with 
 
 \*Key routes are indicated in the Activity Generating Uses Control Plan [here](https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Control-Plans).
 
-## Shophouses and Shopflats
+### Shophouses and Shopflats
 
 Shophouses and shopflats are developments with shops at the 1st storey and flats on the upper storeys. They are usually located on land zoned Residential with Commercial at 1st Storey but may be allowed on land zoned Commercial & Residential.
 
-### Location of Commercial Use
+#### Location of Commercial Use
 
 Commercial uses are restricted to the 1st storey only. Basements are not allowed for commercial use.
 
-### Strata Subdivision
+#### Strata Subdivision
 
 Strata subdivision is allowed for shophouses and shopflats except for conservation properties within the Historic Districts and Historic Residential Districts.
 
@@ -106,6 +106,6 @@ Only selected conservation buildings within Historic Residential Districts shall
 - Staircase forms part of the external architectural expression; and
 - Original reinforced concrete floors and structures.
 
-## Parking
+### Parking
 
 The [parking guidelines for commercial developments](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Parking/Car-Parking) listed in this handbook shall apply to mixed-use developments where the commercial and/or hotel components form more than 20% of the total GFA.

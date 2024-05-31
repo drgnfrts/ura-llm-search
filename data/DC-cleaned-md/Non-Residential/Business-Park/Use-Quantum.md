@@ -1,6 +1,8 @@
-# Use Quantum
+## Use Quantum
+---
+---
 
-## Business Park (Non-White) Component
+### Business Park (Non-White) Component
 
 Quantum Control for land zoned BP
 
@@ -15,7 +17,7 @@ For developments on land zoned BP and BP-White, the BP component is subject to a
 - 0.6 x 85% = a minimum of 51% of the BP component shall be allocated to predominant uses
 - 0.4 x 85% = a maximum of 34% of the BP component shall be allocated to ancillary uses
 
-### Business Park (Non-White) Component â€“ Allowable Uses
+#### Business Park (Non-White) Component â€" Allowable Uses
 
 Within the BP (non-white) component, the proposed uses shall comply with the lists of allowable and not allowable uses shown in the table below.
 
@@ -45,11 +47,11 @@ Not Allowable
   - Bad Neighbour
   - Independent Warehousing
 
-#### Definitions and Notes
+##### Definitions and Notes
 
 - (\*): Ancillary activities refer to activities that support the predominant BP uses within the same development.
 
-### Core Media
+#### Core Media
 
 Core media activities, which are production services that require technical facilities such as studios and high-tech production software/hardware, are allowed as part of the 60% predominant use quantum in Business 1, Business 2 and Business Park developments.
 
@@ -62,23 +64,23 @@ Types of Core Media Activities
 | Network Programming              | Network programming activities may include scheduling, programme management, transmission services, origination playback.                                                                                                                                                                                      | ESPN Star Sports, AXN      |
 | Post-production and Distribution | Post-production and distribution activities may include video editing, digital authoring, audio engineering, format conversion, standard conversion, tape duplication, image and audio restoration, film printing, optical disk media (e.g. mastering and replication), sorting and packaging for print media. | CNBC, Walt Disney TV, SPH  |
 
-#### Research and Development/Product Design and Development
+##### Research and Development/Product Design and Development
 
 Such activities are only allowed for manufacturing, manufacturing-related services, and technology-related companies only, and refer to activities that include research, development and/or design of new or substantially modified products or processes, prototype production, laboratory testing and software development.
 
-#### Central Distribution Centres (CDC)
+##### Central Distribution Centres (CDC)
 
 Facilities that provide total logistics support for multinational corporations' regional/international business and comprise a warehouse which undertakes operations such as freight management, inventory control, storage, packaging and consolidation. CDCs can also undertake regional marketing, sales, technical support and training.
 
-#### Test Laboratory
+##### Test Laboratory
 
 Scientific investigation and testing of products and processes including food and feed additives, bio-tech, pharmaceuticals, textiles and geological analysis.
 
-#### Industrial Training
+##### Industrial Training
 
 Training and teaching involving the use of industrial machinery, industrial systems, industrial equipment and industrial components.
 
-#### E-Business
+##### E-Business
 
 he e-business activities shown in the table below are regarded as industrial uses allowed as part of the 60% predominant use quantum. Data Farms/Data Centres would require prior planning permission for an assessment to be made in consultation with the relevant technical agencies on the suitability of the premises for such uses.
 
@@ -92,7 +94,7 @@ E-Business Activities regarded as Industrial Uses
 | Software Development      | Provides software design, customization, and maintenance. Includes software application providers.                                                           | Can be located in Business Park, Business 1, and Business 2 developments.           |
 | Call Centre               | Centralized backend support functions that handle a large volume of telephone services primarily targeted at providing information to meet callers' needs.   | Can be located in Business Park and Business 1, but not in Business 2 developments. |
 
-#### Guidelines on Industrial Canteen
+##### Guidelines on Industrial Canteen
 
 Industrial canteens within BP industrial developments may include food stalls, cafeteria, food court primarily to serve workers in the BP area and may include members of the public.
 
@@ -101,13 +103,13 @@ These may be approved on Temporary Permission for up to 5 years subject to the f
 - The size of the industrial canteen is capped at 700sqm or 5% of the total proposed GFA of the development, whichever is lower.
 - SLA may assess such industrial canteens based on Group D Industrial rate for the purpose of computing Land Betterment Charge.
 
-#### Guidelines on Childcare Centre (CCC)
+##### Guidelines on Childcare Centre (CCC)
 
 CCCs within BPs are meant to serve parents working in the development. Proposed CCCs may be considered within BP developments, subject to clearances from National Environment Agency and Early Childhood Development Agency. See NEA's webpage [here](https://www.nea.gov.sg/our-services/development-control/guidelines-for-building-plan-submission) and ECDA's webpage [here](https://www.ecda.gov.sg) for more information.
 
 SLA may assess such CCCs based on Group E Civic and Community Institution rate for the purpose of computing Land Betterment Charge.
 
-#### Guidelines on Showroom
+##### Guidelines on Showroom
 
 Showrooms in BPs are meant primarily for the display of two categories of products as follows:
 
@@ -123,15 +125,15 @@ Showrooms may be considered subject to the following:
 - Showroom shall be confined to the 1st storey of the development.
 - SLA may assess such showrooms based on Group A Commercial rate for the purpose of computing Land Betterment Charge.
 
-#### Pollutive Activity
+##### Pollutive Activity
 
 Examples include use or storage of significant quantities of chemicals, use of solid/liquid fuel burning equipment, use of machinery and processes which require pollution control equipment to abate pollution etc.
 
-#### Bad Neighbour Activity
+##### Bad Neighbour Activity
 
 Examples of bad neighbour activities include those involving intense glare or heat exposed to the surroundings, high noise levels, ground vibrations etc.
 
-## White Component
+### White Component
 
 For BP zone, a maximum of 15% of the overall proposed GFA may be allowed for White uses.
 
@@ -149,7 +151,7 @@ BP-White sites next to Expo MRT Station
 
 ![BP-White sites next to Expo MRT Station](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/-/media/8AAF09A5B1354E79A4E0A912AD88F26A.ashx?h=100%25&w=100%25)
 
-### White Component â€“ Allowable Uses
+#### White Component â€" Allowable Uses
 
 List of uses which are allowed and not allowed within White component
 

@@ -1,10 +1,10 @@
+
+## Building Setback from Boundary
 ---
 title: Building Setback for MSCP
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Building-Setback
 date: 23 October 2023
 ---
-
-# Building Setback from Boundary
 
 Setback requirements
 
@@ -16,11 +16,11 @@ All buildings in hotel developments fronting a public road shall provide a road 
 
 The buffer requirements for the Road Categories 1 to 5 are in the tables below.
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1) Road Reserve: The plot of land to be vested in the State as required under the Street Works Act. It is demarcated by the line of Road Reserve in the Road Line Plan and the site boundary.
 
-## Road Buffer and Green Buffer
+### Road Buffer and Green Buffer
 
 | Road Category                | Road Buffer (inclusive of Green Buffer in brackets) |
 | ---------------------------- | --------------------------------------------------- |
@@ -33,13 +33,13 @@ Hotel developments in the [Central Area](https://www.ura.gov.sg/-/media/Corporat
 
 Hotel developments outside the Central Area may abut the road reserve at the front, if there is site constraint or if there is an intention to retain the existing streetscape which is abutting the road reserve/road widening line.
 
-## Common Boundary Setback & Planting Strip
+### Common Boundary Setback & Planting Strip
 
 | Type of Boundary                        | Building Setback Requirement                         |
 | --------------------------------------- | ---------------------------------------------------- |
 | Common boundary with other developments | Minimum 3m (including 2m planting strip requirement) |
 
-## Building Setback for Ancillary Structures
+### Building Setback for Ancillary Structures
 
 Setback Requirements for Ancillary Structures
 
@@ -66,7 +66,7 @@ Ancillary structures located within the physical buffer and building setback tha
 | Generator Set                | Subject to evaluation. Adequate setback may have to be provided to minimise glare and noise disturbance to adjoining developments |
 | Tennis Court                 | Subject to evaluation. Adequate setback may have to be provided to minimise glare and noise disturbance to adjoining developments |
 
-## Building Setback for Multi-Storey Car Parks
+### Building Setback for Multi-Storey Car Parks
 
 ![Image 4: Setback for multi-storey car parks](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C06_Setback_for_MSCP.jpg?h=100%25&w=100%25)
 
@@ -80,7 +80,7 @@ The building setback for multi-storey car parks (MSCP) is detailed below.
 | MSCP façade with no openings                                                            | Follow road buffer standards for hotel buildings | 4.5m (minimum)                     |
 | MSCP facade fronting open areas (ie open space, drainage reserve more than 6m in width) | Follow road buffer standards for hotel buildings | 4.5m (minimum)                     |
 
-## Setback for Building Appendages
+### Setback for Building Appendages
 
 Setback for Building Appendages
 

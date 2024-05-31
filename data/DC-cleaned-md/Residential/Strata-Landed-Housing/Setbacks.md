@@ -1,10 +1,10 @@
+
+## Building Setback from Boundary
 ---
 title: Building Setback from Boundary
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/Setbacks
 date: 23 October 2023
 ---
-
-# Building Setback from Boundary
 
 Building Setback
 
@@ -12,7 +12,7 @@ Building Setback
 
 These guidelines are applicable to residential developments comprising strata landed housing only.
 
-## Road Buffer and Green Buffer
+### Road Buffer and Green Buffer
 
 The building setback controls of strata landed housing developments from public roads shall be determined by the road buffer as shown in the table below. Where the strata landed housing development site fronts two or more public roads, the buffer requirements from the roads shall be applied to all boundaries fronting roads.
 
@@ -24,13 +24,13 @@ Road Buffer and Green Buffer requirements
 | Category 2                   | 12m (including 5m green buffer)  |
 | Category 3 - 5 and slip road | 7.5m (including 3m green buffer) |
 
-## Common Boundaries Setback and Planting Strip
+### Common Boundaries Setback and Planting Strip
 
 Any strata unit within the development site shall be set back 3m (minimum) from the common site boundary with another development.
 
 A wider setback shall be required for 3-storey strata landed housing sharing a common boundary with Good Class Bungalow Areas (GCBA).
 
-## Setback of Strata Landed Housing from Common Boundaries
+### Setback of Strata Landed Housing from Common Boundaries
 
 | Strata Landed Housing Storey Height | Minimum Setback from Common Boundary with GCBA Plots | Minimum Setback from Common Boundaries (All other developments) |
 | ----------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
@@ -39,7 +39,7 @@ A wider setback shall be required for 3-storey strata landed housing sharing a c
 
 \*Roof terrace(s), if proposed, shall be orientated to face away from the GCBA.
 
-## Ancillary Structures
+### Ancillary Structures
 
 Setback Requirements for Ancillary Structures
 
@@ -67,7 +67,7 @@ Minimum Setback Requirements for Ancillary Structures
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Generator Set               | Subject to evaluation. Adequate setback may have to be provided to minimise glare and noise disturbance to adjoining developments |
 
-## Minor Building Appendages
+### Minor Building Appendages
 
 Maximum allowable protrusion into road buffer and common boundary setbacks
 
@@ -80,7 +80,7 @@ While the building appendages may be within the permissible building envelope, s
 | Horizontal sun-shading devices, vertical sun-shading fins/screens, other minor decorative features(3), planter boxes(4) | Into road buffer: 0.5m, Into common boundary setback: 0.5m  | Into road buffer: 0.5m, Not to encroach into common boundary setback |
 | Bay windows(5)                                                                                                          | Not to encroach into road buffer or common boundary setback |
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1): Secondary roof eaves may only extend 1m beyond the permissible building envelope.
 - (2): The maximum projection (i.e. 1m or 1.4m) into the road buffer or into the common boundary setback applies to retractable awnings when they are fully stretched out (i.e. not when the awnings are in their retracted positions).

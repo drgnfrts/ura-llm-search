@@ -1,10 +1,10 @@
+
+## Urban Design Requirements
 ---
 title: Urban Design Requirements
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/UD
 date: 22 October 2019
 ---
-
-# Urban Design Requirements
 
 Guidelines on Urban Design (UD) intentions are to preserve and enhance the urban character of the different planning areas. They help to ensure that developments integrate well with their surrounding urban environment.
 
@@ -12,7 +12,7 @@ Developments in Central Area and Key Growth areas (such as Jurong Gateway, Paya 
 
 Refer to [URA SPACE](https://www.ura.gov.sg/Corporate/Guidelines/Urban-Design/URA-SPACE/UD-URA-SPACE) for the Urban Design Guidelines Plan and designated AGU areas.
 
-## Activity Generating Uses (AGUs)
+### Activity Generating Uses (AGUs)
 
 AGUs help to activate and enliven streets; contributing to its vibrancy, providing key basic amenities, and attracting visitor-ship to the precincts. The following situations may require AGUs:
 
@@ -29,7 +29,7 @@ AGUs may be required to be provided in the following typical locations:
 
 The proposed AGUs in the above locations are to be assessed contextually, taking into account the planning intention for the area and potential amenity problems that will impact on the surrounding developments. Uses not allowed are those that do not directly contribute to street vibrancy and/or can potentially cause amenity problems to neighbours.
 
-### Example of uses that may be considered as Activity Generating Uses (AGUs) are:
+#### Example of uses that may be considered as Activity Generating Uses (AGUs) are:
 
 - Shop
 - Showroom/ galleries 
@@ -43,7 +43,7 @@ The proposed AGUs in the above locations are to be assessed contextually, taking
 - Hotel/ Backpackers’ hostel
 - Self-service laundry
 
-### The following uses are not AGUs:
+#### The following uses are not AGUs:
 
 - Office
 - Bar

@@ -1,10 +1,10 @@
+
+## Location
 ---
 title: Location
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Location
 date: 5 July 2019
 ---
-
-# Location
 
 Hotel developments are allowed on land zoned "Hotel" in the Master Plan although some existing hotels approved some time ago may be occupying land currently not zoned Hotel.
 

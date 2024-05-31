@@ -1,12 +1,12 @@
+
+## Waling and Cycling Plan
 ---
 title: Walking and Cycling Plan (WCP)
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/HMC/WCP
 date: 5 July 2019
 ---
 
-# Waling and Cycling Plan
-
-## Submission of WCP
+### Submission of WCP
 
 Hospitals with expected high pedestrian and cyclist traffic are required to provide a WCP as part of the Development Application. As a guide, development types listed in the table below are subject to WCP requirement.
 
@@ -40,7 +40,7 @@ Applicants of developments meeting the above criteria are strongly encouraged to
 
 ![Submission Flowchart](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/WCP.jpg)
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1) Developments that have a master developer, and consist of two or more plots that staged at different time will also be required to submit a WCP at the concept design stage.
 - (2) LTA and URA will work with HDB on the WCP requirements.
@@ -48,7 +48,7 @@ Applicants of developments meeting the above criteria are strongly encouraged to
 - (4) The five car-lite precincts are Bayshore, Jurong Lake District, Kampong Bugis, Marina South and Woodlands North.
 - (5) Zone 2 as defined in the Zonal Car Parking requirement in the Code of Practice on Vehicle Parking Provision in Development proposals. Please refer to [LTA's website](https://www.lta.gov.sg/content/ltaweb/en/industry-matters/development-and-building-and-construction-and-utility-works/vehicle-parking.html) for more details.
 
-## Design of WCP
+### Design of WCP
 
 The WCP shall consider the safety, convenience, and accessibility of pedestrians and cyclists, and incorporate the following elements in the design of the development:
 

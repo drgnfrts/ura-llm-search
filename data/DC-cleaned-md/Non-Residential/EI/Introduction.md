@@ -1,10 +1,10 @@
+
+## Introduction
 ---
 title: Introduction
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/Introduction
 date: 5 July 2019
 ---
-
-# Introduction
 
 Educational Institutions comprise educational facilities like kindergartens, primary/secondary schools, polytechnics, junior colleges, institutes of technical education, training institutes, universities, foreign and special schools (eg school for the disabled). They are primarily for educational purposes and are zoned "Educational Institution" (EI) in the Master Plan.
 

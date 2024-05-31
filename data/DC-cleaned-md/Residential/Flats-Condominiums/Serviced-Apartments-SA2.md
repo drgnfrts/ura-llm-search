@@ -1,12 +1,12 @@
+
+## Serviced Apartments II (SA2)
 ---
 title: Serviced Apartments II (SA2)
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Serviced-Apartments-SA2
 date: 4 December 2023
 ---
 
-# Serviced Apartments II (SA2)
-
-## Overview
+### Overview
 
 Serviced Apartments II (SA2), also known as long-stay Serviced Apartments, is a pilot housing typology for occupants seeking long-term rental accommodation. Being a pilot, flexibility is allowed in the design of SA2 units as long as they achieve a global average unit size of 35 sqm nett. SA2 units need not be self-contained with the full suite of living/dining/kitchen amenities but should minimally be en-suite (i.e. with attached bathroom).
 
@@ -16,7 +16,7 @@ Support services such as concierge, housekeeping and/or laundry provided for the
 
 SA2 may be allowed in Residential zone and may also be considered on mixed-use sites where residential uses are allowed.
 
-## SA within Residential zones (incl. mixed use sites with a residential component)
+### SA within Residential zones (incl. mixed use sites with a residential component)
 
 Applicants may submit an Outline Application to URA to determine the suitability of the location, the Gross Plot Ratio (GPR) control and the storey height for a proposed SA2.
 
@@ -24,6 +24,6 @@ SA2 may be allowed where the site fronts a major or arterial road or primary acc
 
 SA2 shall not be allowed within the designated Landed Housing Areas and areas where SA2 may potentially cause dis-amenities to the neighbouring residents.
 
-## SA within mixed-use areas
+### SA within mixed-use areas
 
 SA2 may be considered in mixed-use areas. Except for the Upper Circular Road streetblock, SA2 may be considered in the other locations where Serviced Apartments (SA) with minimum 7-day stays, are not allowed (examples of such areas can be found under the [Hotels Handbook](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Advisory-Notes)).

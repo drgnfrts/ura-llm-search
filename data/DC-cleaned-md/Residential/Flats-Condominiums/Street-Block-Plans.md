@@ -1,10 +1,10 @@
+
+## Street Block Plans
 ---
 title: Street Block Plans
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Flats-Condominiums/Street-Block-Plans
 date: 23 March 2022
 ---
-
-# Street Block Plans
 
 Street block plans guide the detailed setback, storey height and building height, for the following locations. Click on the reference links to view the detailed street block plan.
 
@@ -30,4 +30,3 @@ Street block plans guide the detailed setback, storey height and building height
 - [Upper Thomson Road](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Upper-Thomson-Road.gif)
 - [Yan Kit Road](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Street-Block-Plans/Yan-Kit-Road.pdf)
 
----

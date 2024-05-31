@@ -1,10 +1,10 @@
+
+## Ancillary Structures
 ---
 title: Ancillary Structures
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Ancillary-Structures
 date: 5 July 2019
 ---
-
-# Ancillary Structures
 
 Setback Requirements for Ancillary Structures
 
@@ -14,7 +14,7 @@ Ancillary structures are minor structures erected to support the main use of the
 
 Ancillary structures located within the green buffer may be assessed in accordance with NPARKS' guidelines – see [here](https://www.nparks.gov.sg/partner-us/development-plan-submission/guidelines-on-greenery-provision-and-tree-conservation-for-developments).
 
-## Setback and Height Control for Ancillary Structures
+### Setback and Height Control for Ancillary Structures
 
 | Type of Ancillary Structures | Required Setback from the Road                        | Required Setback from the Other Boundaries | Height Control                          |
 | ---------------------------- | ----------------------------------------------------- | ------------------------------------------ | --------------------------------------- |

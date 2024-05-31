@@ -1,20 +1,20 @@
+
+## Parking
 ---
 title: Parking
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Business-Park/Parking
 date: 28 June 2023
 ---
 
-# Parking
-
 LTA prescribes the parking provision standards and requirements for motor vehicles and bicycles. The requirements are usually based on the quantum of the gross floor area or the number of units of the development uses.
 
-## Car and Motor-Cycle Parking
+### Car and Motor-Cycle Parking
 
 Under LTA’s Range-based Parking Provision Standards (RPPS), developments are subject to car and motor-cycle(1) parking provision requirements.
 
 Unless explicitly approved as private parking lots in the approved plans, all car and motor-cycle parking lots shall be treated as common property.
 
-### Range-based Parking Provision Standards (RPPS)
+#### Range-based Parking Provision Standards (RPPS)
 
 The RPPS allows developments to provide any level of car and motor-cycle parking provision within a specified range, defined by a lower bound and an upper bound – see figure below. The range varies according to location zones and land uses. Details may be found in [LTA’s Code of Practice for Vehicle Parking Provision in Developments](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle_parking/requirements_for_vehicle_parking_proposals.html).
 
@@ -22,7 +22,7 @@ Range-based Parking Provision Standards:
 
 ![Range-based Parking Provision Standards](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Industrial/Range_Based_Car_Parking_Standard.jpg?h=100%25&w=100%25)
 
-### Provision of Surplus Parking in New Developments
+#### Provision of Surplus Parking in New Developments
 
 New BP developments shall be subject to a process of waiver evaluation by LTA, if one wishes to provide surplus car and motor-cycle parking lots, i.e., parking provision above the upper bound based on the new RPPS.
 
@@ -30,7 +30,7 @@ If LTA approves the waiver, surplus parking spaces in new BP developments within
 
 SLA may levy Land Betterment Charge for the additional GFA arising from the surplus car and motor-cycle parking lots, where applicable.
 
-### Conversion of Surplus Car Parking in Existing Developments
+#### Conversion of Surplus Car Parking in Existing Developments
 
 Existing BP developments within 400m of MRT and LRT stations may be allowed to permanently convert their surplus car parking spaces to other uses.
 
@@ -50,11 +50,11 @@ Additional GFA gained via the conversion of surplus car parking spaces shall not
 
 Where surplus car parking spaces were allowed by LTA through a waiver application to exceed the upper bound of the Range-based Parking Provision Standards (RPPS) after 1 Feb 2019, the development will not be allowed to convert any of the surplus car parking spaces to other uses.
 
-### Definitions and Notes
+#### Definitions and Notes
 
 - (1): Motor-cycle parking provision is mandatory in all non-residential developments.
 
-## Bicycle Parking
+### Bicycle Parking
 
 To promote a car-lite society, BP developments may be required to provide bicycle parking facilities within the developments.
 

@@ -1,10 +1,10 @@
+
+## School Field / Indoor Sports Hall (ISH)
 ---
 title: School Field / Indoor Sports Hall (ISH)
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/ISH
 date: 5 July 2019
 ---
-
-# School Field / Indoor Sports Hall (ISH)
 
 School Field and Indoor Sports Hall
 

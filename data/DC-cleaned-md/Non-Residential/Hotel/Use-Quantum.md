@@ -1,10 +1,10 @@
+
+## Use Quantum
 ---
 title: Use Quantum
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Hotel/Use-Quantum
 date: 5 July 2019
 ---
-
-# Use Quantum
 
 Use Quantum for Hotel developments
 

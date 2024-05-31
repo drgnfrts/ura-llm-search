@@ -1,10 +1,10 @@
+
+## Envelope Control Guidelines
 ---
 title: Envelope Control Guidelines
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/EC
 date: 27 June 2022
 ---
-
-# Envelope Control Guidelines
 
 Envelope Control Guidelines
 
@@ -20,7 +20,7 @@ For existing strata landed housing approved under previous landed housing guidel
 
 Where the existing building already exceeds the permissible building envelope, the new Additions and Alterations shall not further increase the building bulk. URA will assess such applications on a case-by-case basis.
 
-## Building Height
+### Building Height
 
 Under the envelope control guidelines, the overall building height for each strata landed housing unit shall be based on the allowable number of storeys and the floor-to-floor height in metres. The figures below show the building envelope and the relationship between storey height and allowable building height in metres.
 
@@ -36,7 +36,7 @@ Under the envelope control guidelines, the overall building height for each stra
 
 ![3-storey Envelope Control landed housing](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Bungalows/LHD12-Envelope-control-3sty10aug21LHD09B-Envelope-control-3sty.jpg?h=373&w=800)
 
-## Mezzanine Floors
+### Mezzanine Floors
 
 Mezzanine floors are no longer required to be kept below 50% of a typical floor plate, and there are no restrictions on window openings on the front facade of the mezzanine floors. Landed houses with mezzanine floors shall be designed within the permissible building envelope stipulated for the landed housing estate it is located in (ie maximum 12m overall height for a designated two-storey landed housing estate and 15.5m for a designated three-storey landed housing estate). The headroom proposed for each floor shall promote good internal spatial quality for residential living.
 
@@ -44,7 +44,7 @@ Guidelines for Mezzanine Floor
 
 ![Guidelines for Mezzanine Floor](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/LHD17_Mezzanine.jpg?h=100%25&w=100%25)
 
-## Attics
+### Attics
 
 An attic is an incidental space that may be allowed within the permissible two-storey and three-storey envelopes respectively. Where roof terraces are proposed on attic roofs, they shall be located at least 3m below the top extent of the permissible building envelope to ensure future coverings by homeowners remain within the overall building envelope. Roofs with less than 3m below the top extent of the permissible building envelope shall be proposed as RC flat roofs that are non-accessible except for maintenance purposes.
 
@@ -52,7 +52,7 @@ Attic Guidelines
 
 ![Attic Guidelines](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Landed-Housing/LHD18_New_EC_Attic.jpg).
 
-## Basements
+### Basements
 
 Basements may be built up to the limits shown in the table below.
 
@@ -61,7 +61,7 @@ Basements may be built up to the limits shown in the table below.
 | **Basement with Protrusion** | Up to the road buffer                                                                                                                 | Up to the building setback                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Fully Submerged Basement** | Up to the road reserve line, provided the portion underneath the green buffer is submerged at least 2m or more below the ground level | For plots outside GCBA: Up to the site lot boundary, provided: The portion underneath the 2m tree planting strip is submerged at least 2m or more below the ground level; There are no technical requirements (eg sewerage, drainage), and the basement does not cause any adverse impact to the adjoining property; The side of a basement wall abutting any site boundary shall not have any openings into the adjoining site. For plots within GCBA: Fully submerged basements shall be setback 2m from the boundary lines. |
 
-## Definitions and Notes
+### Definitions and Notes
 
 - (1): For more details on the allowable configurations for the semi-detached and terrace landed housing types, refer to Semi-Detached Housing and Terrace Housing sections respectively.
 - (2): Other height controls may also be applicable, such as:

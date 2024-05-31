@@ -1,16 +1,16 @@
+
+## Gross Plot Ratio & Building Height
 ---
 title: Gross Plot Ratio & Building Height
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/GPR-Building-Height
 date: 15 March 2022
 ---
 
-# Gross Plot Ratio & Building Height
-
 Building Height of Education and Institution
 
 ![Building Height of Education and Institution](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/E02_Building_Height.jpg?h=100%25&w=100%25)
 
-## Allowable Gross Plot Ratio and Storey Height
+### Allowable Gross Plot Ratio and Storey Height
 
 | Location                                                                                                           | Gross Plot Ratio Control                                     | Guide for Storey Height                                                              |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
@@ -20,17 +20,17 @@ Building Height of Education and Institution
 | Within or at the fringe of industrial estates                                                                      | Up to 1.4                                                    | Up to 4 storeys                                                                      |
 | Within Central Area and within other commercial centres, including party-wall developments such as in Geylang area | Subject to evaluation and localised urban design guidelines. | Subject to evaluation and localised urban design guidelines.                         |
 
-## Overall Building Height
+### Overall Building Height
 
 Unless otherwise stated, the overall building height of C&CI developments is subject to compliance with the technical height controls of the relevant agencies such as Civil Aviation Authority of Singapore (CAAS) and the Defence Science and Technology Agency (DSTA).
 
 Building height is based on Singapore Height Datum (SHD).
 
-## Floor-to-Floor Height
+### Floor-to-Floor Height
 
 The maximum floor-to-floor height of EI developments is 5.0m.
 
-## Additional Height for Predominant Sky Terrace Storey
+### Additional Height for Predominant Sky Terrace Storey
 
 ![Additional Height for Predominant Sky Terrace Storeys](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Commercial/C04_Additional_Height_for_Sky_Terrace_Floors.jpg?h=100%25&w=100%25)
 

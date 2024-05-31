@@ -1,12 +1,12 @@
+
+## GFA Related Matters
 ---
 title: GFA Related Matters
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/GFARelatedMatters
 date: 1 Aug 2023
 ---
 
-# GFA Related Matters
-
-## Computation to the Middle of External Walls
+### Computation to the Middle of External Walls
 
 GFA is computed to the middle of external walls<sup>1</sup> (excluding the thickness of wall finishes). See illustration below.
 
@@ -46,7 +46,7 @@ Where a wall is between a GFA space and space that is not computed as GFA (e.g. 
 
 <sup>1</sup> For buildings with party walls, which refer to the shared wall along the common boundary of two separate developments, GFA computation will include the thickness of the party wall that is part of the building.
 
-## All Strata Areas to be Computed as GFA
+### All Strata Areas to be Computed as GFA
 
 All proposed strata areas will be computed as GFA. For example, if an AC ledge serving a residential unit is included as part of the strata area of the unit, the AC ledge will be computed as GFA.
 
@@ -56,13 +56,13 @@ QPs are to clearly reflect both the GFA and strata boundaries on each of the flo
 
 Developers are strongly encouraged to involve surveyors early in the design process to firm up the proposed strata boundaries. This is because any proposed changes to strata boundaries downstream may affect the resultant GFA of the development. If this results in the proposed GFA exceeding the Master Plan control, URA will require the proposed GFA to be rectified (e.g. via an amendment application) before strata subdivision approval can be granted.
 
-### Exceptions where Strata Area Need Not be Computed as GFA
+#### Exceptions where Strata Area Need Not be Computed as GFA
 
 There are some developments (e.g. mixed-use developments) where spaces intended for public/ communal use are included as part of a larger strata area, for the purpose of demarcating ownership and maintenance responsibilities. For example, covered walkways on the 1<sup>st</sup> storey commercial floor, within a larger commercial/residential development or sky terraces on the upper hotel floor, within a larger hotel/office mixed-use development.
 
 Such spaces can continue to be considered for GFA exemption (notwithstanding their inclusion as strata area), subject to compliance with URA's prevailing guidelines for GFA exemptions.
 
-## GFA Apportionment
+### GFA Apportionment
 
 If the approved development comprises more than one use, the following rules shall apply in the calculation of common areas. Such a mixed development may also arise due to the land use zone, for example the Commercial & Residential zone.
 
@@ -76,7 +76,7 @@ If the approved development comprises more than one use, the following rules sha
 
 The prescribed use quantum mix in the Master Plan zoning is detailed below:
 
-### Master Plan Zoning and Apportionment of Non-Attributable Space
+#### Master Plan Zoning and Apportionment of Non-Attributable Space
 
 - **Residential with Commercial at 1st storey:** 80% for Residential, 20% for Commercial
 - **Commercial & Residential:** 60% for Residential, 40% for Commercial
@@ -94,7 +94,7 @@ The illustrations above are not exhaustive in covering all possible building or 
 
 <sup>1</sup> These should comprise actual uses and not common areas. For example, on full Commercial floors with lift lobbies that serve Hotel uses, vertical circulation areas like staircases on that floor will be apportioned to Commercial use. However, on mixed floors with both Hotel and Shop uses, vertical circulation areas will be apportioned based on weighted average.
 
-## GFA Apportionment for Sites with Specific Use Quantum Mix in Tender/ Lease Conditions
+### GFA Apportionment for Sites with Specific Use Quantum Mix in Tender/ Lease Conditions
 
 For sites where the tender or lease conditions state that the land is to be developed for a certain use quantum mix, non-attributable common areas will be apportioned based on the specific use quantum mix stated in the tender or lease conditions, rather than the Master Plan zoning. For example, if the lease conditions for a site zoned Commercial require that the site is to be developed for a use quantum mix of 65% Commercial and 35% Civic & Community Institution, the non-attributable spaces will be apportioned based on 65% Commercial and 35% Civic & Community Institution, rather than 100% Commercial.
 
@@ -102,7 +102,7 @@ For White sites where the tender or lease conditions stipulate a minimum quantum
 
 In evaluating the development applications, URA may, if the circumstances of a case or the planning considerations relevant to a case so warrant, depart from these rules. Persons intending to carry out a development are advised to take this into consideration and check with URA through enquiries or development applications to confirm the application of the rules on their proposals.
 
-## Re-computation of GFA for Existing Developments
+### Re-computation of GFA for Existing Developments
 
 Prior to 1 Sep 1989, the intensity of residential developments was determined using the population density (i.e. persons per hectare) method while that for commercial developments was based on the nett floor area method (i.e. excluding neutral areas). With effect from 1 Sep 1989, the different methods of determining development intensity for different types of development were standardised by the current Gross Floor Area (GFA) method.
 

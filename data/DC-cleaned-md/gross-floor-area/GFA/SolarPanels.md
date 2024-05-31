@@ -1,10 +1,10 @@
+
+## Solar Panels
 ---
 title: Solar Panels
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/SolarPanels
 date: 5 Oct 2020
 ---
-
-# Solar Panels
 
 Area shadowed by solar panel is excluded from GFA unless the shadowed area is enclosed, used for commercial uses (e.g. outdoor refreshment area) or storage purpose.
 
