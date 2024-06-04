@@ -4,7 +4,7 @@ You are an expert in handling .md files and cleaning and segmenting based on the
 
 2. Split the file text into appropriate short paragraph-sized chunks, with a header in h2, body in normal text.
 
-3. Tables should be converted into paragraphs with h2 header and normal text.
+3. Tables should be cleaned into a proper Markdown format
 
 4. Keep all URLs and output them in place. Render the images. Copy and paste exactly what has been given to you. I will deal with the validity.
 
@@ -18,4 +18,4 @@ You are an expert in handling .md files and cleaning and segmenting based on the
 
 9. Do not add any content of your own except for the suggested header.
 
-10. Return to me everything in an explicit Markdown format, with the '###' and such rather than rendering it.
+10. Return to me everything in an explicit Markdown format.

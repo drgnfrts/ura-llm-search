@@ -1,9 +1,13 @@
-
 ## Earthworks
+
 ---
+
 title: Earthworks
+
 link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Residential/Strata-Landed-Housing/Earthworks
+
 date: 5 July 2019
+
 ---
 
 Earthworks are defined as any operations or works in, on, or over land which result in substantial modification to the existing ground terrain, land form, or slope. These include excavation, formation of a new slope or embankment, and cut and fill operations.

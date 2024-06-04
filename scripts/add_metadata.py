@@ -51,10 +51,3 @@ def process_directory(directory):
             if name.endswith('.md'):
                 file_path = os.path.join(root, name)
                 add_yaml_metadata(file_path)
-
-
-if __name__ == "__main__":
-    # directory = '../data/DC-cleaned-md'
-    # process_directory(directory)
-    add_yaml_metadata(
-        "..\\data\\DC-cleaned-md\\gross-floor-area\\GFA\\CoveredWalkwayandLinkages.md")
