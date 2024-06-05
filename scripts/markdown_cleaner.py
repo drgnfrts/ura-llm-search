@@ -105,10 +105,10 @@ class MarkdownCleaner:
         """
         Converts links from HTML format into Markdown format, and adds https://ura.gov.sg to local links.
         """
-        html = re.sub(
-            r'<a href="([^"]+?)"[^>]+?>([^<]+?)<\/a>', r'[\2](\1)', html)
-        html = re.sub(
-            r'<img[^>]*src="([^"]+?)".*>', r'![](\1)', html)
+        # html = re.sub(
+        #     r'<a href="([^"]+?)"[^>]+?>([^<]+?)<\/a>', r'[\2](\1)', html)
+        # html = re.sub(
+        #     r'<img[^>]*src="([^"]+?)".*>', r'![](\1)', html)
         # Below to add to web links
         html = re.sub(r'\[([^]]+)\]\((?!https://)([^)]+)\)',
                       r'[\1](https://www.ura.gov.sg\2)', html)
@@ -117,64 +117,9 @@ class MarkdownCleaner:
                       r'![\1](https://www.ura.gov.sg\2)', html)
         return html
 
-    def convert_html_tables_to_markdown(self, markdown):
-        """
-        Main wrapper function used to find and replace tables in the correct syntax
-        """
-        tables = re.findall(
-            r'<table[^>]*>.*?</table>', markdown, flags=re.DOTALL)
-
-        for table_html in tables:
-            title = ""
-            notes = "\n\n"
-            info = {}
-            cols = 0
-            inner_result = "\n\n"
-            row_htmls = re.findall(r'(<tr>.*?</tr>)', table_html)
-            for i in range(len(row_htmls)):
-                row = row_htmls[i]
-                # print(row)
-                all_cells = re.findall(r'<(td|th)([^>]*)>(.*?)</\1>', row)
-                if len(all_cells) >= cols:
-                    cols = len(all_cells)
-                inner_table = re.match(r'(<table[^>]*>.*?</table>)', row)
-                if inner_table != None:
-                    inner_result += self.convert_html_tables_to_markdown(
-                        inner_table)
-
-                info[i] = {'row_content': row, 'cells_list': all_cells}
-
-            prepared_html = '<table>'
-
-            for i in range(len(row_htmls)):
-                row_information = info[i]
-                if i == 0 and not (all(re.search(r'<strong>', cell[2]) for cell in row_information['cells_list'])):
-                    empty_cols = "<td> </td>" * cols
-                    prepared_html += f"<tr>{empty_cols}</tr>"
-                if len(row_information['cells_list']) == 1 and cols != 1:
-                    if i != 0:
-                        notes += md(row_information['cells_list'][0][2]) + "\n"
-                    else:
-                        title = md(row_information['cells_list'][0][2]) + "\n"
-                        empty_cols = "<td> </td>" * cols
-                        prepared_html += f"<tr>{empty_cols}</tr>"
-                else:
-                    prepared_html += row_information['row_content']
-
-            prepared_html += "</table>"
-
-            markdownified = md(
-                prepared_html, escape_asterisks=False, keep_inline_images_in=['td'], strip=["tbody", "span", "p"])
-            markdown = markdown.replace(
-                table_html, title + markdownified + notes + inner_result)
-        return markdown
-
     def clean(self):
         """
         Main function to be called externally for cleaning of Markdown content. Function calls sequence as such:
-
-            1. extract_and_insert_metadata()
-            2. strip_stars_lines()
 
         Returns:
             markdown (str): Final cleaned Markdown content
@@ -187,6 +132,5 @@ class MarkdownCleaner:
         markdown = self.remove_weird_chars(markdown)
         markdown = self.remove_internal_links(markdown)
         markdown = self.convert_links(markdown)
-        markdown = self.convert_html_tables_to_markdown(markdown)
 
         return markdown

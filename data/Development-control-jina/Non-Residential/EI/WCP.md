@@ -1,0 +1,58 @@
+## Walking and Cycling Plan (WCP)
+---
+title: Walking and Cycling Plan (WCP)
+
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/EI/WCP
+
+date: 12 April 2023
+
+---
+
+
+Submission of WCP
+
+EI developments with expected high pedestrian and cyclist traffic are required to provide a WCP as part of the Development Application. As a guide, development types listed in the table below are subject to WCP requirement.
+
+**Development Types that require WCP as part of TIA1**
+
+<table><tbody><tr><td style="background-color: #f2f2f2; width: 50%;"><strong>Development Type</strong></td><td style="background-color: #f2f2f2; width: 50%;"><strong>Scale</strong></td></tr><tr><td><ol start="1" style="margin-top: 0px; margin-bottom: 0px;"><li><span style="text-decoration: underline;">Residential</span></li><span style="margin-top: 0px;">1.1 Landed properties/ Condominiums/Executive Condominiums<br>1.2 HDB housing<sup>2</sup></span></ol></td><td><br>1.1 >= 700 units<br>1.2 >= 1,000 units</td></tr><tr><td><ol start="2"><li><span style="text-decoration: underline;">Commercial</span></li>2.1 Shopping centres/ Retail uses<br>2.2 Office development<br>2.3 Hotel</ol></td><td><br>2.1 >= 10,000sqm GFA<br>2.2 >= 20,000sqm GFA<br>2.3 >= 700 rooms</td></tr><tr><td><ol start="3"><li><span style="text-decoration: underline;">Industrial</span></li>3.1 Light/General Industry<sup>3</sup><br>3.2 Warehousing/Distribution<sup>3</sup><br>3.3 Science park/High tech park/Business park</ol></td><td><br>3.1 >= 60,000sqm GFA<br>3.2 >= 50,000sqm GFA<br>3.3 >= 40,000sqm GFA</td></tr><tr><td><ol start="4"><li><span style="text-decoration: underline;">Educational</span></li>4.1 Primary school<br>4.2 Secondary school<br>4.3 International school<br>4.4 Junior college<br>4.5 University, polytechnic, ITE campus</ol></td><td><br>4.1 >= 1,500 students (single-session) or >= 2,000 students (double-session)<br>4.2 >= 2,000 students<br>4.3 >= 2,000 students<br>4.4 >= 2,000 students<br>4.5 TIA Required</td></tr><tr><td><ol start="5"><li><span style="text-decoration: underline;">Medical</span></li>Hospital</ol></td><td><br>>= 40,000sqm GFA or >= 320 Beds (whichever is triggered first)</td></tr><tr><td><ol start="6"><li><span style="text-decoration: underline;">Recreational</span></li>Exhibition centre &amp; major tourist attraction</ol></td><td><br>>= 30,000sqm GFA</td></tr></tbody></table>
+
+  
+Developments not listed in the table above may also be required to submit a WCP if they fall under the following criteria:
+
+-   Developments located in car-lite precincts4; or
+-   Developments located within 400m of major transport nodes, ie within Zone 25; or
+-   Retail, Office, Mixed Use developments.
+
+Applicants for developments meeting the above criteria are strongly encouraged to check in early with LTA for the requirement of a WCP. See the diagram below for the submission flowchart to LTA and URA.
+
+![Image 1](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/Others/WCP.jpg)
+
+
+
+1 Developments that have a master developer, and consist of two or more plots that staged at different time will also be required to submit a WCP at the concept design stage.
+
+2 LTA and URA will work with HDB on the WCP requirements.
+
+3 Only industrial developments located within car-lite precincts or 400m of major transport nodes ie within Zone 2, will be required to submit a WCP.
+
+4 The five car-lite precincts are Bayshore, Jurong Lake District, Kampong Bugis, Marina South and Woodlands North.
+
+5 Zone 2 as defined in the Zonal Car Parking requirement in the Code of Practice on Vehicle Parking Provision in Development proposals. Please refer to [LTA's website](https://www.lta.gov.sg/content/ltaweb/en/industry-matters/development-and-building-and-construction-and-utility-works/vehicle-parking.html) for more details.
+
+Design of WCP
+
+The WCP shall consider the safety, convenience, and accessibility of pedestrians and cyclists, and incorporate the following elements in the design of the development:
+
+-   Provision of convenient and direct access from nearby public transport facilities and adjacent developments;
+-   Provision of measures to minimise conflicts between pedestrians, cyclists and motor vehicles at locations such as the vehicular ingress/egress, car park entrances, and drop-off points;
+-   Provision of sufficient and conveniently located bicycle parking spaces and supporting amenities such as shower facilities and lockers;
+-   Provision of way-finding signage to public transport facilities and amenities for cyclists; and
+-   Provision of barrier-free access and routes for children, elderly and the mobility challenged groups.
+
+The detailed guidelines on WCP and submission requirements are summarised in LTA's Code of Practice "Street Work Proposals Relating to Development Works" via [LTA's website](https://www.lta.gov.sg/content/ltagov/en.html).
+
+To provide assistance on developing active mobility-related infrastructure in a holistic manner, a Walking & Cycling Design Guide has been produced as a supplement to the respective agencies' prevailing COPs, engineering and development standards. The Guide can be downloaded via [LTA's website](https://www.lta.gov.sg/content/ltagov/en.html).
+
+
+

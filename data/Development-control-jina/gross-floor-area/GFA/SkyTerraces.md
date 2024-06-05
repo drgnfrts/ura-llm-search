@@ -1,0 +1,87 @@
+## Sky Terraces
+---
+title: Sky Terraces
+
+link: https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/gross-floor-area/GFA/SkyTerraces
+
+date: 26 __Jul 2023
+
+---
+
+
+Sky terraces are communal garden spaces provided at the intermediate storeys of a building. The following requirements shall be complied with for sky terraces to be excluded from GFA.
+
+![Image 1](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-17A-Sky-Terrace_GFA-Exemption_final.jpg?h=576&w=1000)
+
+
+
+
+
+
+
+<table border="1" cellspacing="0" cellpadding="0" style="border: none;"><tbody><tr><td valign="top" style="background: #f2f2f2; width: 104.5pt; padding: 5.65pt; border: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><strong><span style="padding: 0in; border: 1pt none windowtext;">Parameter</span></strong><strong></strong></p></td><td valign="top" style="background: #f2f2f2; width: 141pt; padding: 5.65pt; border-top: 1pt solid #d9d9d9; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt;"><strong><span style="padding: 0in; border: 1pt none windowtext;">Sky Terrace</span></strong></p></td><td valign="top" style="background: #f2f2f2; width: 143.5pt; padding: 5.65pt; border-top: 1pt solid #d9d9d9; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt;"><strong><span style="padding: 0in; border: 1pt none windowtext;">Predominant Sky Terrace</span></strong></p></td></tr><tr><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span><strong>Sky terrace area as % of floor plate</strong></span></p></td><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>Not applicable</span></p></td><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>The sky terrace area within the 45-degree line occupies equal to or more than 60% of the floor plate.</span></p></td></tr><tr><td rowspan="2" valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span><strong>Perimeter openness</strong></span></p></td><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>At least 40% of the perimeter of the sky terrace is to remain open<sup>1</sup> and unenclosed.</span></p></td><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: justify;"><p style="margin-bottom: 0.0001pt;"><span>At least 60% of the perimeter of the sky terrace is open<sup>1<span style="padding: 0in; border: 1pt none windowtext;"></span></sup>and unenclosed.</span></p></td></tr><tr><td colspan="2" valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span style="padding: 0in; border: 1pt none windowtext;">Parapet walls shall not exceed 1.3m in height to be considered open.</span></p></td></tr><tr><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span><strong>Depth of sky terrace</strong></span></p></td><td colspan="2" valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span>The proposed depth of the sky terrace shall be minimally 5.0m throughout.</span></p></td></tr><tr><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span><strong>Landscaping</strong></span></p></td><td colspan="2" valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>Plants shall be incorporated on permanent and preferably sunken planting, planned with sufficient soil depth based on the types of plants proposed.</span></p><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>The planting shall be well externalised.<br><br>Some space shall be set aside for the provision of communal facilities and furniture to enhance the usage of the sky terrace.<br><br>As an alternative to providing sunken planting beds, building owners can provide well-landscaped, raised planting beds up to 300mm high, planted with trees or shrubs. This facilitates compliance with FSSD's fire safety requirements on habitable space.<br><br>The sky terraces shall be designed with safety and maintainability provisions in mind.</span></p></td></tr><tr><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span><strong>Accessibility and ownership</strong></span></p></td><td colspan="2" valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>The sky terrace shall be accessible to all occupants of the building and there shall be at least one set of communal access via a lift or staircase serving the sky terrace. Secondary access to the sky terrace from strata units can be supported.<br><br>The layout of sky terrace floors shall be subject to evaluation to ensure that the sky terrace space is meant for communal use and is not treated as a privatised space. For sky terraces in residential developments that occupy less than 60% of the floor plates, the sky terraces shall serve a minimum of 2 strata units to ensure that they remain as communal space. </span><span style="text-align: left;">They shall remain as common property in strata subdivided developments.</span></p></td></tr><tr><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span><strong>Drop panels</strong></span></p></td><td colspan="2" valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>Where proposed, drop panels at the perimeter shall be visually transparent and may be in the form of louvres, fins, transparent glass, or other sun shading/weather protective devices. The panel shall not exceed one third of the height of the external opening. The area of GFA exemption<sup>2</sup> as defined by a 45-degree line shall be taken from the underside of any permanent or opaque structure, and not from the underside of a drop panel.</span></p></td></tr><tr><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span><strong>Additional height</strong></span></p></td><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span>Not eligible</span></p></td><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify;"><span style="color: black;">Refer to Additional Height for Predominant Sky Terrace Storey sub-section in the Residential and Non-Residential </span><span style="color: black;">Handbooks.</span></p></td></tr><tr><td rowspan="2" valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span><strong>GFA exemption</strong></span></p></td><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>For sky terraces occupying less than 60% of the floor plate, the maximum area for GFA exemption of the sky terrace is defined by the area covered by a 45-degree line taken from the edge of the overhead projection.</span></p></td><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>URA may grant additional GFA exemption for residual areas beyond the 45-degree line (capped at 20% of the floor plate area), if such areas form an integral part of the sky terrace or are part of the barrier-free/fire escape corridors.</span></p></td></tr><tr><td colspan="2" valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>Corridors may be exempted from GFA computation for all sky terraces regardless of size subject to the following criteria:<br></span></p><ul style="list-style-type: disc;"><li style="text-align: justify;"><span>The corridor lies within the 45-degree exemption area;</span></li><li style="text-align: justify;"><span>The corridor serves the sky terrace; and</span></li><li style="text-align: justify;"><span>At least 40% of the perimeter of the sky terrace is to remain open</span><sup>1 </sup><span>and unenclosed.</span></li><li style="text-align: justify;"><span>The corridor does not serve as the primary access to units located on the same floor as the sky terrace.</span></li></ul></td></tr><tr><td valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: 1pt solid #d9d9d9; text-align: left;"><p style="margin-bottom: 0.0001pt;"><span>Submission requirements</span></p></td><td colspan="2" valign="top" style="padding: 5.65pt; border-top: none; border-right: 1pt solid #d9d9d9; border-bottom: 1pt solid #d9d9d9; border-left: none; text-align: left;"><p style="margin-bottom: 0.0001pt; text-align: justify;"><span>A Landscape Plan and relevant sections for the sky terrace showing the proposed landscaping scheme, planting palette, soil depth and communal facilities shall be submitted as part of the Development Application (see example below).</span></p></td></tr></tbody></table>
+
+
+
+1 Parapet walls shall not exceed 1.3m in height to allow for more openness.
+
+2 The 45-degree GFA exemption area may be taken from all external parapet walls (including recessed external parapet walls) surrounding the sky terrace.
+
+Landscape Plan for Sky Terraces
+
+![Image 3](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/F11-Example-of-Landscape-Plan_final.jpg?h=785&w=1000)
+
+
+
+Perimeter Openness Computation for Sky Terraces
+
+![Image 4](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-19-Sky-Terrace_Perimeter-Wall_final.jpg?h=590&w=1000)
+
+
+
+Barrier Free Access and Fire Escape Corridors
+
+![Image 5](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-24-Sky-Terrace_barrier-Free-Corridors_final.jpg?h=462&w=1000)
+
+
+
+Columns within 45-Degree Line
+
+For scenarios where covered areas within the 45-degree line are excluded from GFA (e.g. Communal Covered Ground Garden and Sky Terraces), the area shadowed by columns are excluded from GFA.
+
+![Image 6: Shadow area of columns within 45-degree line](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-59A-Shadow-area-of-columns-within-45-degree-line_final.jpg?h=679&w=1000)
+
+
+
+If the column is excessively large (akin to a wall), the shadowed area shall be included as GFA. The 45-degree line for GFA exemption is not applicable in such instance.
+
+![Image 7](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-59B-Shadow-area-of-columns-within-45-degree-line_final.jpg?h=679&w=1000)
+
+
+
+Recessed Walls
+
+![Image 8](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-18-Sky-Terrace_Recessed-Wall_final2.jpg?h=591&w=1000)
+
+
+
+Residual Areas
+
+![Image 9](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-25-Predominant-Sky-terrace_-Residual-Area_final.jpg?h=652&w=1000)
+
+
+
+
+
+
+
+GFA Computation for Sky Terraces
+
+![Image 11](https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control/GFA/GFA-23-Sky-Terrace_Computation-of-GFA-Exemptation-2_final.jpg) 
+
+ 
+
+
+
+
+
