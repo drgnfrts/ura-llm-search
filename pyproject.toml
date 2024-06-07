@@ -19,6 +19,8 @@ selenium = "^4.21.0"
 beautifulsoup4 = "^4.12.3"
 pandas = "^2.2.2"
 markdownify = "^0.12.1"
+clip = {git = "https://github.com/openai/CLIP.git"}
+matplotlib = "^3.9.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.4"

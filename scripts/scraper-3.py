@@ -48,7 +48,6 @@ def generate_cleaned_md(url):
         "X-Target-Selector": "#pnlMain",
         "X-Wait-For-Selector": "#pnlMain",
         "X-No-Cache": "true",
-        # "Accept": "text/event-stream"
     }
     while jina == "":
         response = requests.get("https://r.jina.ai/" + url, headers=headers)
