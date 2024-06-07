@@ -1,0 +1,37 @@
+## Opening Remarks by Ms Indranee Rajah, Second Minister for National Development at the Long-Term Plan Review Public Engagement Workshop (Virtual)
+---
+title: Opening Remarks by Ms Indranee Rajah, Second Minister for National Development at the Long-Term Plan Review Public Engagement Workshop (Virtual)
+
+link: https://www.ura.gov.sg/Corporate/Media-Room/Speeches/speech-LTPR-12Sep-Opening-Workshop
+
+date: 12 September 2021
+
+---
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Published: 12 September 2021
+
+First, welcome to this Long-Term Plan Review public engagement workshop. I want to say a very big thank you to all of you for making time on a Sunday morning for this. Many of you could be just relaxing, lying in, chilling out, but you've made time for this. And I think that is really important, and it will be very meaningful for reasons which I'll explain.    
+  
+I'm also particularly heartened to know that there're people from all walks of life here – we have students, young working adults, seniors, professionals. Thank you for pitching in for this. Ordinarily, we would have had a physical meeting but it's not possible due to COVID. But we wanted to press on - we didn't want to wait - because we think that this is an extremely important topic, and it is very important for us to get the input of Singaporeans and residents living here. The Long-Term Plan Review, or LTPR, is an exercise that is going to shape our future Singapore. Some of it, the discussions will be on the infrastructure, but as we all know, infrastructure also shapes society, it shapes the city, it shapes the way we work. We are really designing future Singapore, and that is what this exercise is about.   
+  
+As of course many of you who are familiar with the Singapore story would know, following independence in 1965, Singapore was actually a very different place. I was born in 1963 so I grew up in that era, and the Singapore of today and the Singapore then, the difference is like night and day. By today's standards, the city then was anything but liveable. Our economy was in bad shape, we had high unemployment. Living conditions were poor. Many people lived either in run-down shophouses in the overcrowded city centre, or in squatter colonies that dotted the island, and you had diseases that spread in unsanitary conditions.   
+  
+I'm the MP for Tanjang Pagar. Many of you will know that there is Tanjong Pagar Plaza there, which is a nice building, you can get great food there. But if you read MM's book, he explains that prior to Tanjong Pagar Plaza being built there, it was actually a place with open sewers that were squatters for workers who worked near the dock and port. In his book he said that the rats were bigger than the cats – that's the kind of place that it was, but it has been totally transformed. The infrastructure like roads and sewage systems at that time were grossly inadequate. You look at our hawker centres today, and they are all nice and clean, and yes, we do grumble about the pigeons coming in occasionally. But I can tell you, the hawker centres of before – Capitol Theatre for example, they had a hawker centre there and it was in the back lane of Capitol Theatre, and there were open drains, and basically when people finished eating the food was just swept off the table and onto the drains, and there it was. So, Singapore of the 1960s, 70s, was very different.  
+  
+We've come a long way, and we've transformed into a metropolis – it's safe, clean, and green, we have access to quality housing options, workplaces and amenities. Now how did this happen? It did not happen by chance. It is a legacy of earlier generations of leaders who took a far-sighted approach to planning long-term and carefully stewarding our limited land resources, and balancing our various competing needs. Because there are many wants, but our resources are limited, so that prioritisation and choosing what would be the best thing for the country as a whole, yet meeting the needs of individual groups, who have concerns and aspirations.   
+  
+Our first Concept Plan was in 1971, and the long-term land-use plans since then has guided Singapore's development to be sustainable and liveable, and shapes the way we live, work and play. We are now at a stage to chart the next chapter of the Singapore Story, and we want to do this together. It is our story, so everybody should have a say in our story and what our future looks like.  
+  
+What do we want to do, what are our aims and objectives? We want to make sure that Singapore remains liveable for the next 50 years and beyond, which means that the plans will need to be more flexible and adaptable because we are a highly-compact city, and COVID has really reinforced the fact that you need to be able to adapt and react very quickly. We need to be resilient to respond to fast-evolving trends and increasingly our operating environment is complex. So the world that we live in is complex and therefore the country that we are building must be able to respond and adapt to that world. But at the same time, at the heart of it all is the aspirations of current and future generations of Singaporeans. Because that is what Singapore is about, it is a place on which we build our hopes and dreams, and it is also our home which we anchor our roots, our identity and our affiliations with friends and family.  
+  
+That is what we are planning, and that is why URA has reached out to all of you to understand your hopes and dreams for Singapore in the long-term. Many of you here have taken part in our public poll over the past two months. We have collected over 5,600 responses, so thank you for the feedback. We had very diverse responses and that's great.  Some key areas that have surfaced, that people think we should prioritise include quality and affordable housing, ample green spaces, a good transportation network, and plans to address the challenges of climate change as well as sustainable living.   
+  
+Singaporeans also have put front and centre – values. Values that our plans and built environment ought to contribute towards, and amongst these would be being inclusive, caring for the environment, and being resilient and adaptable. Values really reflect who we are and how we want to progress together as a society, and the kind of Singapore that we envision for our children and grandchildren.   
+  
+URA is analysing those findings. For a start, we have organised workshops to better understand your responses, and we want to discuss with you what they mean to Singapore's long-term plans and built environment.   
+  
+We are going to be engaging more Singaporeans in the months ahead to gather more ideas, to shape the space for our dreams. URA and partner agencies are also going to be organising webinars over the next few months. They will be along different themes, starting with the Future of the Environment this month and the Future of Living in October. We will be having more discussions where you can come and have conversations with us.   
+  
+We look forward to hearing your feedback and have a very fruitful session today. Thank you once again for making time for this.
