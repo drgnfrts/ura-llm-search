@@ -10,7 +10,7 @@ date: 04 April 2022
 
 ------------------------------------------------------------
 
-  Published: 04 April 2022
+ Published: 04 April 2022
 
   
 
@@ -57,4 +57,3 @@ STREET AND BUILDING NAMES BOARD
 
 
   [Download PDF Version](https://www.ura.gov.sg/services/download_file.aspx?f={1D02D4F2-6867-45BD-ABFE-335F7ACD96D8})
-
