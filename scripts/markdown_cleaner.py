@@ -28,7 +28,10 @@ class MarkdownCleaner:
         Finds the header, removes any and all text above it, and stores the header and title for processing in the next function. This should always work because every webpage has a heading...right?
         """
         header_match = re.search(r'^(#{1,3} .+)$', markdown, re.MULTILINE)
-        print(header_match)
+        if not header_match:
+            first_line_match = re.search(r'^(.+)$', markdown, re.MULTILINE)
+            if first_line_match:
+                header_match = first_line_match
         markdown = markdown[header_match.start():]
         self.header = header_match.group(1)
 
@@ -46,9 +49,10 @@ class MarkdownCleaner:
             ---
         """
         self.title = self.header.strip('#').strip()
-        date_match = re.search(r'Last updated on (.+(19|20)\d{2})', markdown)
+        date_match = re.search(
+            r'(Last updated on|Published:) (.+(19|20)\d{2})', markdown)
         if date_match:
-            self.date = date_match.group(1).strip("_")
+            self.date = date_match.group(2).strip("_")
 
         yaml_metadata = f"\n---\ntitle: {self.title}\n\nlink: {self.url}\n\ndate: {self.date}\n\n---\n"
 
@@ -110,7 +114,7 @@ class MarkdownCleaner:
         # html = re.sub(
         #     r'<img[^>]*src="([^"]+?)".*>', r'![](\1)', html)
         # Below to add to web links
-        html = re.sub(r'\[([^]]+)\]\((?!https://)([^)]+)\)',
+        html = re.sub(r'\[([^]]+)\]\((?!https://|http://)([^)]+)\)',
                       r'[\1](https://www.ura.gov.sg\2)', html)
         # Below to add to embedded image links for rendering
         html = re.sub(r'!\[([^]]*)\]\((?!https://)([^)]+)\)',
