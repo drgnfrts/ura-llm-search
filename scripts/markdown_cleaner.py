@@ -8,7 +8,7 @@ class MarkdownCleaner:
     Contains the necessary functions used to extract the semi-clean Jira.AI API scrape of the URA website for ChatDCG Indexing
     """
 
-    def __init__(self, api_response, url):
+    def __init__(self, api_response, url, date_pattern):
         """
         Initialise MarkdownCleaner for the given API response and URL.
 
@@ -22,6 +22,7 @@ class MarkdownCleaner:
         self.cleaned_markdown = ''
         self.header = ''
         self.content = api_response
+        self.date_pattern = date_pattern
 
     def process_top_text_header(self, markdown):
         """
@@ -49,10 +50,12 @@ class MarkdownCleaner:
             ---
         """
         self.title = self.header.strip('#').strip()
-        date_match = re.search(
-            r'(Last updated on|Published:) (.+(19|20)\d{2})', markdown)
+        date_match = re.search(self.date_pattern, markdown)
+        # date_match = re.search(
+        #     r'(Last updated on|Published:) (.+(19|20)\d{2})', markdown)
         if date_match:
-            self.date = date_match.group(2).strip("_")
+            print("DATE FOUND")
+            self.date = date_match.group(1).strip("_").strip()
 
         yaml_metadata = f"\n---\ntitle: {self.title}\n\nlink: {self.url}\n\ndate: {self.date}\n\n---\n"
 
@@ -83,13 +86,15 @@ class MarkdownCleaner:
         Removes all the weird characters that are going to affect my UTF-8 writing to Markdown file
         """
         replacements = {
+            '‘': "'",
             '’': "'",
             '“': '"',
             '”': '"',
             "≤": "<=",
             "≥": ">=",
             "×": "*",
-            "&nbsp;": " "
+            "&nbsp;": " ",
+            "•": "-",
         }
 
         for char, replacement in replacements.items():

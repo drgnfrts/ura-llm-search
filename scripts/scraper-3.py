@@ -41,46 +41,88 @@ def create_directory_structure(base_dir, url, start_from):
         return None
 
 
-def generate_cleaned_md(url):
+def generate_cleaned_md(url, date_pattern):
+    """
+    Fetch the markdown content and clean it using the MarkdownCleaner class.
+    """
     jina = ""
     headers = {
         "X-Return-Format": "markdown",
-        "X-Target-Selector": "#pnlMain",
-        "X-Wait-For-Selector": "#pnlMain",
+        "X-Target-Selector": "#pnlMain > div.container.header-container",
+        "X-Wait-For-Selector": "#pnlMain > div.container.header-container > div > div.col-sm-9.col-md-9.col-xs-12 > div.text-cms-col",
         "X-No-Cache": "true",
     }
     while jina == "":
         response = requests.get("https://r.jina.ai/" + url, headers=headers)
         jina = response.text
         time.sleep(3)
-    cleaner = MarkdownCleaner(jina, url)
+    cleaner = MarkdownCleaner(jina, url, date_pattern)
     results = cleaner.clean()
     return results
 
 
-csv_file = '../data/dc_links.csv'
-base_dir = '../data'
-start_from = 'Development-Control'
+def process_csv(csv_file, base_dir, start_from, date_pattern):
+    with open(csv_file, newline='') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            url = row[0]
+            if "https://www.ura.gov.sg/-/media/" in url:
+                print(f"Media file: {url} - skipping...")
+                continue
+            print(f"Processing URL: {url}")
 
-with open(csv_file, newline='') as csvfile:
-    reader = csv.reader(csvfile)
-    for row in reader:
-        url = row[0]
-        if "https://www.ura.gov.sg/-/media/Corporate/Guidelines/Development-control" in url:
-            print(f"Media file: {url} - skipping...")
-            continue
-        print(f"Processing URL: {url}")
+            # Create the directory structure
+            directory = create_directory_structure(base_dir, url, start_from)
+            if directory is None:
+                print(f"Failed to create directory for URL: {url}")
+                continue
+#
+            cleaned_results = generate_cleaned_md(url, date_pattern)
+            parsed_url = urlparse(url)
+            filename = os.path.basename(parsed_url.path)
+            if not filename.endswith('.md'):
+                filename += '.md'
+            file_path = os.path.join(directory, filename)
+            with open(file_path, 'w', encoding='utf-8') as file:
+                file.write(cleaned_results)
 
-        # Create the directory structure
-        directory = create_directory_structure(base_dir, url, start_from)
-        if directory is None:
-            print(f"Failed to create directory for URL: {url}")
-            continue
-        cleaned_results = generate_cleaned_md(url)
-        parsed_url = urlparse(url)
-        filename = os.path.basename(parsed_url.path)
-        if not filename.endswith('.md'):
-            filename += '.md'
-        file_path = os.path.join(directory, filename)
-        with open(file_path, 'w', encoding='utf-8') as file:
-            file.write(cleaned_results)
+
+if __name__ == "__main__":
+
+    csv_config = {
+        'Development-Control.csv': {
+            'start_from': 'Development-Control',
+            'date_pattern': r'Last updated on (.+(19|20)\d{2})'
+        },
+        'Circulars.csv': {
+            'start_from': 'Circulars',
+            'date_pattern': r'Published (.+(19|20)\d{2})'
+        },
+        'Media-Releases.csv': {
+            'start_from': 'Media-Room',
+            'date_pattern': r'Published (.+(19|20)\d{2})'
+        },
+        'Forum-Replies.csv': {
+            'start_from': 'Media-Room',
+            'date_pattern': r'reply, (.+(19|20)\d{2})'
+        }
+    }
+
+    csv_files = [
+        # '../data/Development-Control.csv',
+        # '../data/Circulars.csv',
+        # '../data/Media-Releases.csv',
+        '../data/Forum-Replies.csv'
+    ]
+
+    base_dir = '../data/chat-ura'
+
+    for csv_file in csv_files:
+        # Extract the base name of the CSV file to use as a key in the dictionary
+        csv_name = os.path.basename(csv_file)
+        if csv_name in csv_config:
+            config = csv_config[csv_name]
+            start_from = config['start_from']
+            date_pattern = config['date_pattern']
+            print(date_pattern)
+            process_csv(csv_file, base_dir, start_from, date_pattern)
