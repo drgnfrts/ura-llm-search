@@ -53,7 +53,7 @@ class MarkdownCleaner:
         date_match = re.search(self.date_pattern, markdown)
         # date_match = re.search(
         #     r'(Last updated on|Published:) (.+(19|20)\d{2})', markdown)
-        if date_match:
+        if date_match and self.date_pattern != '':
             print("DATE FOUND")
             self.date = date_match.group(1).strip("_").strip()
 
@@ -114,10 +114,8 @@ class MarkdownCleaner:
         """
         Converts links from HTML format into Markdown format, and adds https://ura.gov.sg to local links.
         """
-        # html = re.sub(
-        #     r'<a href="([^"]+?)"[^>]+?>([^<]+?)<\/a>', r'[\2](\1)', html)
-        # html = re.sub(
-        #     r'<img[^>]*src="([^"]+?)".*>', r'![](\1)', html)
+        html = re.sub(
+            r'(<a href=")(?!https:\/\/|http:\/\/)([^"]+).+>(.+)(<\/a>)', r'<a href="https://www.ura.gov.sg\2">\3<\/a>', html)
         # Below to add to web links
         html = re.sub(r'\[([^]]+)\]\((?!https://|http://)([^)]+)\)',
                       r'[\1](https://www.ura.gov.sg\2)', html)

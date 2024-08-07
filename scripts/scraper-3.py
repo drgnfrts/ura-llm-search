@@ -48,8 +48,8 @@ def generate_cleaned_md(url, date_pattern):
     jina = ""
     headers = {
         "X-Return-Format": "markdown",
-        "X-Target-Selector": "#pnlMain > div.container.header-container",
-        "X-Wait-For-Selector": "#pnlMain > div.container.header-container > div > div.col-sm-9.col-md-9.col-xs-12 > div.text-cms-col",
+        "X-Target-Selector": "#pnlMain",
+        "X-Wait-For-Selector": "##pnlMain > div:nth-child(7) > div > div > div > div.text-cms-col > div:nth-child(1) > a",
         "X-No-Cache": "true",
     }
     while jina == "":
@@ -105,14 +105,24 @@ if __name__ == "__main__":
         'Forum-Replies.csv': {
             'start_from': 'Media-Room',
             'date_pattern': r'reply, (.+(19|20)\d{2})'
-        }
+        },
+        # 'Home-Business.csv': {
+        #     'start_from': 'Home-Business',
+        #     'date_pattern': ''
+        # },
+        'Property.csv': {
+            'start_from': 'Property',
+            'date_pattern': ''
+        },
     }
 
     csv_files = [
         # '../data/Development-Control.csv',
         # '../data/Circulars.csv',
         # '../data/Media-Releases.csv',
-        '../data/Forum-Replies.csv'
+        # '../data/Forum-Replies.csv',
+        '../data/Property.csv',
+        # '../data/Home-Business.csv',
     ]
 
     base_dir = '../data/chat-ura'
